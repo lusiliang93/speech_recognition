@@ -4,7 +4,7 @@ import re
 g = open('english_train.txt', 'w')
 with open('train_plain.txt') as f:
 	for line in f:
-		english_tokens = re.findall(u'[a-zA-Z0-9]+', line)
+		english_tokens = re.findall(u'[a-zA-Z0-9\'.]+', line)
 		splited_line = line.split()
 		n = len(splited_line)
 		if n > 0:
