@@ -1,2 +1,2 @@
 # speech_recognition
-Code-switch between Mandarin-Chinese
+Code-switch between Mandarin-English
