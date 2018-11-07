@@ -1,0 +1,13620 @@
+-0.1948902	<s> <sw>
+
+-0.05115252	A <sw>
+
+-0.6776069	A. <sw>
+
+-0.2023541	A.D.M. <sw>
+
+-0.3784454	A.T.C. <sw>
+
+-0.4710751	ATC <sw>
+
+-0.06177228	B <sw>
+
+-0.8073095	B. <sw>
+
+-0.5162955	C. <sw>
+
+-0.1918855	D <sw>
+
+-0.6532125	D. <sw>
+
+-0.1503233	D.C. <sw>
+
+-0.06177228	D.S.L.R. <sw>
+
+-0.5952206	E. <sw>
+
+-1.391611	F. <sw>
+
+-0.2023541	F.Y.P. <sw>
+
+-0.6419315	G. <sw>
+
+-1.075094	H. <sw>
+
+-2.524153	I. <sw>
+
+-0.7721051	IHG <sw>
+
+-0.4710751	II <sw>
+
+-0.2793383	IT <sw>
+
+-0.2023541	Intel <sw>
+
+-0.9731278	J. <sw>
+
+-0.4710751	J.C. <sw>
+
+-0.4336556	K. <sw>
+
+-0.705307	L. <sw>
+
+-0.6002942	LA <sw>
+
+-0.756157	M. <sw>
+
+-0.4710751	MINDEF <sw>
+
+-0.4710751	MQA <sw>
+
+-0.4710751	Master <sw>
+
+-1.547494	N. <sw>
+
+-1.068928	O. <sw>
+
+-0.4710751	O.C.D.A.C. <sw>
+
+-0.4710751	P <sw>
+
+-0.6812412	P. <sw>
+
+-0.4390391	Q. <sw>
+
+-1.265892	R. <sw>
+
+-0.6832472	S. <sw>
+
+-0.4710751	SDLC <sw>
+
+-0.4710751	SKII <sw>
+
+-0.4710751	Shearwood <sw>
+
+-1.124939	T. <sw>
+
+-0.3842701	U. <sw>
+
+-0.4710751	UK <sw>
+
+-0.2079003	UML <sw>
+
+-0.3439393	US <sw>
+
+-0.4210053	V. <sw>
+
+-0.7871454	W. <sw>
+
+-1.073135	X. <sw>
+
+-2.161271	Y. <sw>
+
+-1.241154	a <sw>
+
+-0.6000258	a. <sw>
+
+-0.7721051	a.b.a.p <sw>
+
+-0.4710751	a.b.a.p.e.r <sw>
+
+-0.4710751	a.b.a.per <sw>
+
+-0.2023541	abdomen <sw>
+
+-0.4710751	abilities <sw>
+
+-1.073135	ability <sw>
+
+-0.6627578	abit <sw>
+
+-0.7631741	about <sw>
+
+-0.501187	above <sw>
+
+-0.1820959	abrasion <sw>
+
+-0.4710751	absolute <sw>
+
+-1.316173	absolutely <sw>
+
+-0.3664885	absorb <sw>
+
+-1.170045	abu <sw>
+
+-0.2612771	abuse <sw>
+
+-0.2023541	acad <sw>
+
+-0.7145948	academic <sw>
+
+-0.2752621	academically <sw>
+
+-0.6002942	academy <sw>
+
+-0.3357921	accent <sw>
+
+-0.4710751	accents <sw>
+
+-0.30103	accept <sw>
+
+-0.3721721	acceptable <sw>
+
+-0.5033841	acceptance <sw>
+
+-0.4513533	accepted <sw>
+
+-0.404195	access <sw>
+
+-0.2023541	accessories <sw>
+
+-0.576292	accident <sw>
+
+-0.4710751	accidental <sw>
+
+-0.7721051	accidentally <sw>
+
+-0.4710751	accidents <sw>
+
+-0.3784454	accommodate <sw>
+
+-0.4710751	accommodating <sw>
+
+-0.3862158	accommodation <sw>
+
+-0.4710751	accomodate <sw>
+
+-0.4710751	accomplish <sw>
+
+-0.9481964	accomplishment <sw>
+
+-0.4710751	accordinator <sw>
+
+-1.585018	according <sw>
+
+-0.2023541	accordingly <sw>
+
+-0.1691424	account <sw>
+
+-0.2355285	accountancy <sw>
+
+-0.5183001	accountant <sw>
+
+-0.251056	accounting <sw>
+
+-0.7721051	accounts <sw>
+
+-0.2612771	accumulate <sw>
+
+-0.4710751	accumulation <sw>
+
+-0.4710751	accumulative <sw>
+
+-0.05115252	accuracy <sw>
+
+-0.243038	accurate <sw>
+
+-1.073135	ace <sw>
+
+-0.1918855	achieve <sw>
+
+-0.4710751	achievement <sw>
+
+-0.2023541	achievers <sw>
+
+-0.2752621	acid <sw>
+
+-0.4710751	acidify <sw>
+
+-0.7721051	acknowledge <sw>
+
+-1.374165	across <sw>
+
+-0.8053452	act <sw>
+
+-0.6794754	acting <sw>
+
+-0.2082759	action <sw>
+
+-0.4710751	actions <sw>
+
+-0.1691424	active <sw>
+
+-0.3756636	activities <sw>
+
+-0.143091	activity <sw>
+
+-0.9481964	actor <sw>
+
+-0.1820959	actress <sw>
+
+-0.7383984	actual <sw>
+
+-0.3385592	actually <sw>
+
+-0.2658923	adapt <sw>
+
+-0.7690079	add <sw>
+
+-0.6002942	addict <sw>
+
+-1.073135	addicted <sw>
+
+-0.2023541	addictive <sw>
+
+-0.6002942	additional <sw>
+
+-0.4710751	additive <sw>
+
+-0.2793383	address <sw>
+
+-0.9481964	addresses <sw>
+
+-0.1503233	adeline <sw>
+
+-0.6002942	adidas <sw>
+
+-0.1820959	adipocyte <sw>
+
+-0.3784454	adjective <sw>
+
+-0.229996	adjust <sw>
+
+-0.7721051	adjustment <sw>
+
+-0.3357921	admin <sw>
+
+-0.3784454	administration <sw>
+
+-0.7721051	administrator <sw>
+
+-0.6002942	admire <sw>
+
+-0.4710751	admission <sw>
+
+-0.1842385	admit <sw>
+
+-0.6794754	adobe <sw>
+
+-0.2023541	adopt <sw>
+
+-0.9481964	adopted <sw>
+
+-0.5245185	adult <sw>
+
+-0.1978105	advance <sw>
+
+-0.08518585	advanced <sw>
+
+-0.08715018	advantage <sw>
+
+-0.1701938	adventure <sw>
+
+-0.4710751	adventurous <sw>
+
+-0.1820959	advertise <sw>
+
+-0.1842385	advertisement <sw>
+
+-0.1760913	advertising <sw>
+
+-0.7721051	advice <sw>
+
+-0.7721051	advise <sw>
+
+-0.4710751	advisor <sw>
+
+-0.7721051	aerodynamics <sw>
+
+-0.2762064	aerospace <sw>
+
+-0.2023541	aesthetic <sw>
+
+-0.2658923	affairs <sw>
+
+-0.09017663	affect <sw>
+
+-1.073135	affected <sw>
+
+-0.8555667	afford <sw>
+
+-0.09691001	africa <sw>
+
+-0.7721051	aft <sw>
+
+-0.8243144	after <sw>
+
+-0.1409535	afterall <sw>
+
+-0.2852357	afternoon <sw>
+
+-0.7721051	afterwards <sw>
+
+-0.6611814	again <sw>
+
+-0.3628023	against <sw>
+
+-0.4030195	age <sw>
+
+-0.4710751	agencies <sw>
+
+-0.1918855	agency <sw>
+
+-0.3784454	agenda <sw>
+
+-0.08715018	agent <sw>
+
+-0.3784454	aggregate <sw>
+
+-0.07509399	aggressive <sw>
+
+-0.146128	agilent <sw>
+
+-0.4767456	ago <sw>
+
+-0.2218488	agree <sw>
+
+-0.08518585	agreement <sw>
+
+-0.4710751	agricultural <sw>
+
+-0.2752621	agriculture <sw>
+
+-0.4709974	ah <sw>
+
+-0.9481964	ahead <sw>
+
+-1.073135	ahh <sw>
+
+-0.6794754	aid <sw>
+
+-0.4710751	aided <sw>
+
+-0.3282239	aids <sw>
+
+-0.5522152	aim <sw>
+
+-0.1842385	aims <sw>
+
+-0.9433846	air <sw>
+
+-0.243038	aircon <sw>
+
+-0.1330859	aircond <sw>
+
+-0.3784454	aircraft <sw>
+
+-0.20412	airline <sw>
+
+-0.3784454	airlines <sw>
+
+-0.4710751	airound <sw>
+
+-0.5555447	airport <sw>
+
+-0.2612771	airway <sw>
+
+-0.30103	aiya <sw>
+
+-0.404277	aiyah <sw>
+
+-0.06177228	ajinomoto <sw>
+
+-0.4710751	alam <sw>
+
+-0.7721051	alamanda <sw>
+
+-0.3784454	alan <sw>
+
+-1.073135	album <sw>
+
+-0.4710751	alergy <sw>
+
+-0.9481964	alert <sw>
+
+-0.02996322	alex <sw>
+
+-0.4710751	alfred <sw>
+
+-0.4710751	algebra <sw>
+
+-0.4710751	algo <sw>
+
+-0.2023541	algori <sw>
+
+-0.1001152	algorithm <sw>
+
+-0.5033841	alien <sw>
+
+-0.4710751	align <sw>
+
+-0.2023541	alignment <sw>
+
+-1.170045	alike <sw>
+
+-0.9481964	aljunied <sw>
+
+-1.360467	all <sw>
+
+-0.4710751	allah <sw>
+
+-0.4710751	allen <sw>
+
+-0.2023541	allergic <sw>
+
+-0.4710751	allergy <sw>
+
+-0.3784454	alley <sw>
+
+-0.9481964	alliance <sw>
+
+-0.1701938	allocate <sw>
+
+-0.9427168	allow <sw>
+
+-0.4710751	allowable <sw>
+
+-0.1326256	allowance <sw>
+
+-0.7871061	almost <sw>
+
+-0.4710751	alogrithm <sw>
+
+-1.131773	alone <sw>
+
+-0.8436098	along <sw>
+
+-1.161368	alot <sw>
+
+-0.4710751	alphabet <sw>
+
+-0.845098	already <sw>
+
+-0.7145948	alright <sw>
+
+-1.089271	also <sw>
+
+-0.4710751	alter <sw>
+
+-0.4710751	altera <sw>
+
+-1.249226	alternate <sw>
+
+-0.7464222	alternative <sw>
+
+-0.4710751	alternity <sw>
+
+-0.3299937	although <sw>
+
+-0.3862158	alumni <sw>
+
+-0.2658923	alvin <sw>
+
+-1.166331	always <sw>
+
+-1.558702	am <sw>
+
+-0.3721721	amanda <sw>
+
+-0.7523834	amazing <sw>
+
+-0.7721051	amazon <sw>
+
+-0.4710751	ambassitor <sw>
+
+-0.08518585	ambience <sw>
+
+-0.3784454	ambiguous <sw>
+
+-0.3282239	ambition <sw>
+
+-0.7721051	ambitious <sw>
+
+-0.7721051	ambulance <sw>
+
+-0.5033841	amelia <sw>
+
+-0.1597008	america <sw>
+
+-0.3388186	american <sw>
+
+-0.4710751	ammunition <sw>
+
+-0.5803683	among <sw>
+
+-0.4710751	amos <sw>
+
+-0.7213576	amount <sw>
+
+-0.4710751	amplitude <sw>
+
+-0.04575749	amway <sw>
+
+-0.3784454	amy <sw>
+
+-1.627445	an <sw>
+
+-0.2373609	analyse <sw>
+
+-0.2872417	analysis <sw>
+
+-0.2023541	analyst <sw>
+
+-0.4710751	analysts <sw>
+
+-0.9481964	analytical <sw>
+
+-0.3282239	analyze <sw>
+
+-0.4710751	analyzing <sw>
+
+-0.3784454	anatomy <sw>
+
+-0.7464222	ancient <sw>
+
+-0.9754546	and <sw>
+
+-0.7721051	andersen <sw>
+
+-0.9481964	andrew <sw>
+
+-0.4710751	andriod <sw>
+
+-0.1413292	android <sw>
+
+-0.4710751	andy <sw>
+
+-0.4710751	angbao <sw>
+
+-1.425318	angel <sw>
+
+-0.4710751	angela's <sw>
+
+-0.2023541	angeles <sw>
+
+-0.4419835	angle <sw>
+
+-0.4710751	angles <sw>
+
+-0.7721051	angmoh <sw>
+
+-0.6274446	angry <sw>
+
+-0.5183001	animal <sw>
+
+-0.3282239	animals <sw>
+
+-0.3784454	animated <sw>
+
+-0.1153934	animation <sw>
+
+-0.2108534	anime <sw>
+
+-0.3784454	anise <sw>
+
+-0.9481964	ankle <sw>
+
+-0.9481964	anniversary <sw>
+
+-0.4710751	annotation <sw>
+
+-0.06177228	announce <sw>
+
+-0.4710751	announcement <sw>
+
+-0.7721051	annoying <sw>
+
+-1.203124	another <sw>
+
+-0.3840042	answer <sw>
+
+-0.1503233	anthem <sw>
+
+-0.9481964	anthony <sw>
+
+-0.2752621	antibody <sw>
+
+-0.4710751	antioxidant <sw>
+
+-0.4710751	antique <sw>
+
+-0.4513533	antivirus <sw>
+
+-0.4710751	antonio <sw>
+
+-0.4710751	antwerp <sw>
+
+-0.4710751	anxious <sw>
+
+-1.065393	any <sw>
+
+-1.073135	anybody <sw>
+
+-0.576292	anyhow <sw>
+
+-0.6850216	anymore <sw>
+
+-0.7464222	anyone <sw>
+
+-0.6690068	anything <sw>
+
+-0.6794754	anytime <sw>
+
+-0.4306639	anyway <sw>
+
+-1.170045	anywhere <sw>
+
+-1.073135	ao <sw>
+
+-0.1330859	apartment <sw>
+
+-0.4710751	apen <sw>
+
+-0.4831259	apex <sw>
+
+-0.9481964	apita <sw>
+
+-0.9481964	apologise <sw>
+
+-0.7721051	apostrophe <sw>
+
+-0.9481964	apparatus <sw>
+
+-0.8193301	apparently <sw>
+
+-0.5245185	appeal <sw>
+
+-0.7721051	appearance <sw>
+
+-0.4710751	appetizing <sw>
+
+-0.243038	apple <sw>
+
+-0.7721051	appliances <sw>
+
+-0.2108534	application <sw>
+
+-0.4710751	applications <sw>
+
+-0.3341984	apply <sw>
+
+-1.374165	applying <sw>
+
+-0.4710751	appoint <sw>
+
+-0.1820959	appointment <sw>
+
+-0.4710751	appraise <sw>
+
+-0.4712238	appreciate <sw>
+
+-0.30103	approach <sw>
+
+-0.154902	approve <sw>
+
+-0.2730013	april <sw>
+
+-0.2023541	aquarium <sw>
+
+-0.3721721	ar <sw>
+
+-0.3784454	arashi <sw>
+
+-1.073135	arcade <sw>
+
+-0.4710751	archi <sw>
+
+-0.3784454	archieve <sw>
+
+-0.7721051	archievement <sw>
+
+-0.1205739	architect <sw>
+
+-0.08518585	architects <sw>
+
+-0.2003598	architecture <sw>
+
+-1.49485	are <sw>
+
+-0.1736307	area <sw>
+
+-0.3628023	areas <sw>
+
+-0.2023541	argentina <sw>
+
+-0.576292	argue <sw>
+
+-0.4710751	arguement <sw>
+
+-0.4513533	argument <sw>
+
+-0.4710751	arises <sw>
+
+-0.3282239	arizona <sw>
+
+-0.8773221	arm <sw>
+
+-0.2552725	army <sw>
+
+-0.08518585	arnold <sw>
+
+-0.6645525	around <sw>
+
+-1.263052	arr <sw>
+
+-0.3628023	arrange <sw>
+
+-0.4710751	arrangement <sw>
+
+-0.7721051	arrangements <sw>
+
+-0.4710751	arrive <sw>
+
+-0.4710751	arrow <sw>
+
+-0.4710751	arsenal <sw>
+
+-0.5118834	art <sw>
+
+-0.08432089	article <sw>
+
+-0.3628023	articles <sw>
+
+-0.4710751	articulation <sw>
+
+-0.4710751	artis <sw>
+
+-0.1249387	artist <sw>
+
+-0.4710751	artistic <sw>
+
+-0.7721051	artists <sw>
+
+-0.2808266	arts <sw>
+
+-1.195779	as <sw>
+
+-0.1409535	asean <sw>
+
+-0.2023541	ash <sw>
+
+-0.1908145	asia <sw>
+
+-0.8492934	asian <sw>
+
+-0.4710751	asians <sw>
+
+-0.5033841	aside <sw>
+
+-1.152288	ask <sw>
+
+-1.617203	asked <sw>
+
+-0.4710751	asp.net <sw>
+
+-0.7721051	aspects <sw>
+
+-1.249226	assembly <sw>
+
+-0.2023541	assess <sw>
+
+-0.6732021	assessment <sw>
+
+-0.7721051	asset <sw>
+
+-0.1047354	assign <sw>
+
+-0.9481964	assigned <sw>
+
+-0.2057619	assignment <sw>
+
+-1.170045	assignments <sw>
+
+-0.6002942	assist <sw>
+
+-0.9481964	assistance <sw>
+
+-0.39794	assistant <sw>
+
+-0.9481964	associate <sw>
+
+-0.2023541	association <sw>
+
+-0.3862158	assume <sw>
+
+-0.5033841	assuming <sw>
+
+-0.4710751	assumption <sw>
+
+-0.2713886	astro <sw>
+
+-1.474702	at <sw>
+
+-0.4710751	athletic <sw>
+
+-0.4710751	atlantic <sw>
+
+-0.1409535	atmosphere <sw>
+
+-0.06177228	atom <sw>
+
+-0.4710751	atract <sw>
+
+-0.2658923	attach <sw>
+
+-0.9805054	attached <sw>
+
+-0.258278	attachment <sw>
+
+-0.6274446	attack <sw>
+
+-0.7721051	attacking <sw>
+
+-0.4710751	attact <sw>
+
+-1.316173	attempt <sw>
+
+-0.1180993	attend <sw>
+
+-0.2752621	attendance <sw>
+
+-0.4710751	attendant <sw>
+
+-0.30103	attention <sw>
+
+-0.7721051	attire <sw>
+
+-0.1918855	attitude <sw>
+
+-0.5245185	attract <sw>
+
+-0.3170448	attraction <sw>
+
+-0.7721051	attractive <sw>
+
+-0.4710751	attracts <sw>
+
+-0.08518585	au <sw>
+
+-0.1503233	auckland <sw>
+
+-0.5183001	audi <sw>
+
+-0.576292	audience <sw>
+
+-0.7721051	audio <sw>
+
+-0.2730013	audit <sw>
+
+-0.6794754	audition <sw>
+
+-0.7523834	august <sw>
+
+-0.6872458	aunt <sw>
+
+-0.2787536	auntie <sw>
+
+-0.4373684	aunties <sw>
+
+-0.4710751	austin <sw>
+
+-0.2462912	australia <sw>
+
+-0.5033841	australian <sw>
+
+-0.7721051	authentic <sw>
+
+-0.3628023	author <sw>
+
+-0.7721051	authorisation <sw>
+
+-0.7721051	authorise <sw>
+
+-1.249226	authority <sw>
+
+-0.4710751	authorize <sw>
+
+-0.4710751	autism <sw>
+
+-0.30103	auto <sw>
+
+-0.4710751	autoclave <sw>
+
+-0.103247	automate <sw>
+
+-1.316173	automatic <sw>
+
+-0.3282239	automatically <sw>
+
+-0.1503233	automation <sw>
+
+-1.249226	autumn <sw>
+
+-0.4710751	availability <sw>
+
+-0.6592171	available <sw>
+
+-0.3628023	avatar <sw>
+
+-0.31627	average <sw>
+
+-0.4710751	averagely <sw>
+
+-0.4710751	aviation <sw>
+
+-0.4710751	avin <sw>
+
+-0.4831259	avoid <sw>
+
+-0.3784454	awake <sw>
+
+-0.9481964	award <sw>
+
+-0.7721051	awards <sw>
+
+-0.4710751	awareness <sw>
+
+-0.60206	away <sw>
+
+-0.3784454	awesome <sw>
+
+-1.073135	awhile <sw>
+
+-0.6794754	awkward <sw>
+
+-0.7464222	ay <sw>
+
+-0.5259698	b <sw>
+
+-0.743242	b. <sw>
+
+-0.4710751	b.b.streaming <sw>
+
+-0.4710751	b.l.r. <sw>
+
+-0.7721051	ba <sw>
+
+-0.3424227	baby <sw>
+
+-0.4710751	babysit <sw>
+
+-0.4710751	babysitter <sw>
+
+-0.5245185	bachelor <sw>
+
+-0.4710751	bachelor's <sw>
+
+-0.7319703	back <sw>
+
+-1.073135	backdrop <sw>
+
+-0.1962947	background <sw>
+
+-0.03476211	backpack <sw>
+
+-0.6002942	backpacking <sw>
+
+-0.2079003	backs <sw>
+
+-0.4710751	backseat <sw>
+
+-0.7721051	backstabbing <sw>
+
+-0.3282239	backstage <sw>
+
+-0.5183001	backup <sw>
+
+-0.1180993	bacteria <sw>
+
+-0.4842998	bad <sw>
+
+-1.073135	badly <sw>
+
+-0.4149733	badminton <sw>
+
+-0.1383027	bag <sw>
+
+-0.7721051	bags <sw>
+
+-0.8448537	bah <sw>
+
+-0.6002942	baileys <sw>
+
+-0.4513533	bake <sw>
+
+-1.073135	baked <sw>
+
+-0.4710751	baker <sw>
+
+-0.4513533	baking <sw>
+
+-0.20412	balance <sw>
+
+-0.4710751	balanced <sw>
+
+-0.3784454	balancing <sw>
+
+-0.7721051	balastier <sw>
+
+-0.7721051	balcony <sw>
+
+-0.146128	bali <sw>
+
+-0.4771213	ball <sw>
+
+-0.1503233	ballarat <sw>
+
+-0.1346986	balloon <sw>
+
+-0.2079003	ballot <sw>
+
+-0.6002942	balloting <sw>
+
+-0.1503233	ban <sw>
+
+-0.2793383	banana <sw>
+
+-0.3273589	band <sw>
+
+-0.4710751	bandwagon <sw>
+
+-0.4710751	bandwidth <sw>
+
+-0.4710751	bangi <sw>
+
+-0.243038	bangkok <sw>
+
+-0.4710751	bangkokay <sw>
+
+-0.3784454	bangladesh <sw>
+
+-0.3440646	bank <sw>
+
+-0.7721051	banker <sw>
+
+-0.251812	banking <sw>
+
+-0.6794754	bankrupt <sw>
+
+-0.6732021	banks <sw>
+
+-0.2752621	banner <sw>
+
+-0.1249387	bar <sw>
+
+-0.4710751	barbe <sw>
+
+-0.6732021	barbecue <sw>
+
+-0.1249387	barbeque <sw>
+
+-0.4710751	barcelona <sw>
+
+-0.7721051	barcode <sw>
+
+-0.3282239	bargain <sw>
+
+-0.7721051	baristar <sw>
+
+-0.4710751	barker <sw>
+
+-0.7721051	barracuda <sw>
+
+-0.3784454	barrage <sw>
+
+-0.4710751	barricade <sw>
+
+-0.5033841	barrier <sw>
+
+-0.2023541	bars <sw>
+
+-0.2794903	base <sw>
+
+-0.49485	based <sw>
+
+-0.4710751	baseline <sw>
+
+-0.7721051	basement <sw>
+
+-0.4712238	bash <sw>
+
+-0.1276788	basic <sw>
+
+-0.1535839	basically <sw>
+
+-0.3784454	basin <sw>
+
+-1.249226	basis <sw>
+
+-1.170045	basket <sw>
+
+-0.4536402	basketball <sw>
+
+-0.2023541	basketballer <sw>
+
+-0.7721051	bass <sw>
+
+-0.4710751	bat <sw>
+
+-0.2023541	batam <sw>
+
+-0.2030748	batch <sw>
+
+-0.4710751	bathing <sw>
+
+-0.3784454	bathroom <sw>
+
+-0.7721051	batok <sw>
+
+-0.2713886	battery <sw>
+
+-0.2023541	baxter <sw>
+
+-0.2658923	bay <sw>
+
+-0.4710751	bbc <sw>
+
+-0.7721051	bbq <sw>
+
+-1.251093	be <sw>
+
+-0.3565473	beach <sw>
+
+-0.2612771	beam <sw>
+
+-0.3721721	bean <sw>
+
+-0.3091772	bear <sw>
+
+-0.4710751	bears <sw>
+
+-0.4710751	beastie <sw>
+
+-0.4710751	beatrice <sw>
+
+-1.131773	beautiful <sw>
+
+-1.585018	beauty <sw>
+
+-0.6433237	because <sw>
+
+-1.241404	become <sw>
+
+-0.4373684	bed <sw>
+
+-0.576292	beef <sw>
+
+-1.372172	been <sw>
+
+-0.2079003	beep <sw>
+
+-0.1820959	beer <sw>
+
+-0.5209002	before <sw>
+
+-0.9481964	begin <sw>
+
+-0.7721051	beginner <sw>
+
+-0.5292158	beginning <sw>
+
+-0.2023541	behave <sw>
+
+-0.404195	behavior <sw>
+
+-0.4710751	behaviours <sw>
+
+-0.6850216	behind <sw>
+
+-0.9481964	beijing <sw>
+
+-1.263052	being <sw>
+
+-0.4710751	beings <sw>
+
+-0.9481964	belated <sw>
+
+-0.06177228	belgium <sw>
+
+-1.014605	believe <sw>
+
+-0.7523834	below <sw>
+
+-0.08518585	belt <sw>
+
+-0.04139268	ben <sw>
+
+-0.4710751	bench <sw>
+
+-1.512468	bend <sw>
+
+-0.1286666	benefit <sw>
+
+-0.1820959	benefits <sw>
+
+-0.4710751	benificial <sw>
+
+-0.4710751	bertam <sw>
+
+-0.7383984	beside <sw>
+
+-0.5089303	besides <sw>
+
+-0.9090803	best <sw>
+
+-0.5033841	bet <sw>
+
+-0.9481964	beta <sw>
+
+-0.7721051	betray <sw>
+
+-1.028029	better <sw>
+
+-0.5762527	between <sw>
+
+-0.9481964	beyond <sw>
+
+-0.7721051	bhatt <sw>
+
+-1.316173	bi <sw>
+
+-0.4710751	bia <sw>
+
+-0.6002942	bias <sw>
+
+-0.4710751	biathlon <sw>
+
+-1.374165	bible <sw>
+
+-0.3170448	bicycle <sw>
+
+-0.3721721	bid <sw>
+
+-0.7721051	bidding <sw>
+
+-0.90309	big <sw>
+
+-0.7523834	bigger <sw>
+
+-0.404277	bike <sw>
+
+-0.3721721	bilingual <sw>
+
+-0.4710751	bilingualism <sw>
+
+-0.4712238	bill <sw>
+
+-0.7721051	billions <sw>
+
+-0.5033841	bills <sw>
+
+-0.4710751	billy <sw>
+
+-0.08715018	bind <sw>
+
+-0.7721051	binding <sw>
+
+-0.4710751	binds <sw>
+
+-0.7721051	binomial <sw>
+
+-0.4216039	bio <sw>
+
+-0.7721051	biochemistry <sw>
+
+-0.9481964	biodegradable <sw>
+
+-0.06177228	biodiversity <sw>
+
+-0.2752621	bioinformatics <sw>
+
+-0.4710751	bioinformation <sw>
+
+-0.4710751	biologist <sw>
+
+-0.2108534	biology <sw>
+
+-0.7721051	biomedical <sw>
+
+-0.2023541	bioplastic <sw>
+
+-0.7721051	bios <sw>
+
+-0.7721051	bioscience <sw>
+
+-1.249226	biotech <sw>
+
+-0.5183001	bird <sw>
+
+-0.6342447	birthday <sw>
+
+-0.4513533	biscuit <sw>
+
+-0.3784454	bishan <sw>
+
+-0.6197888	bit <sw>
+
+-0.7721051	bitch <sw>
+
+-1.073135	bite <sw>
+
+-0.5033841	bitter <sw>
+
+-1.772105	biz <sw>
+
+-0.8980992	black <sw>
+
+-0.4373684	blackberry <sw>
+
+-1.425318	blah <sw>
+
+-0.9481964	blame <sw>
+
+-0.5033841	blank <sw>
+
+-0.1701938	bleach <sw>
+
+-0.8044142	blend <sw>
+
+-0.2023541	blending <sw>
+
+-0.2023541	blindfold <sw>
+
+-0.3784454	blindfolded <sw>
+
+-0.4710751	blindly <sw>
+
+-0.4710751	blinds <sw>
+
+-0.7721051	blinking <sw>
+
+-0.2023541	blister <sw>
+
+-0.4710751	blisters <sw>
+
+-0.4710751	blob <sw>
+
+-0.2812859	block <sw>
+
+-1.073135	blocks <sw>
+
+-0.1684044	blog <sw>
+
+-0.4710751	blond <sw>
+
+-1.024066	blood <sw>
+
+-0.6002942	bloody <sw>
+
+-0.4710751	blot <sw>
+
+-0.4710751	blotting <sw>
+
+-0.4710751	blouse <sw>
+
+-0.6794754	blow <sw>
+
+-0.9481964	blowing <sw>
+
+-1.512468	blue <sw>
+
+-0.2023541	blueray <sw>
+
+-0.1503233	bluetooth <sw>
+
+-0.2284793	blur <sw>
+
+-0.4710751	blurry <sw>
+
+-0.30103	board <sw>
+
+-0.9481964	boards <sw>
+
+-0.1918855	boat <sw>
+
+-0.2023541	bodies <sw>
+
+-0.774064	body <sw>
+
+-0.3784454	boh <sw>
+
+-0.3784454	boil <sw>
+
+-0.4710751	boiling <sw>
+
+-0.4710751	bok <sw>
+
+-1.170045	bollywood <sw>
+
+-0.3721721	bomb <sw>
+
+-0.3784454	bombastic <sw>
+
+-0.2632414	bond <sw>
+
+-0.7721051	bondage <sw>
+
+-0.3439393	bonded <sw>
+
+-0.4712238	bonding <sw>
+
+-0.576292	bonds <sw>
+
+-0.7721051	bone <sw>
+
+-0.4710751	bong <sw>
+
+-0.2281858	bonus <sw>
+
+-0.2766054	book <sw>
+
+-0.2023541	booked <sw>
+
+-0.2752621	booking <sw>
+
+-0.4831259	booklet <sw>
+
+-0.4710751	bookmark <sw>
+
+-0.404195	books <sw>
+
+-0.2023541	bookstore <sw>
+
+-0.6002942	boon <sw>
+
+-0.4710751	boot <sw>
+
+-0.4710751	booths <sw>
+
+-0.3784454	boots <sw>
+
+-1.073135	bored <sw>
+
+-0.4710751	boredom <sw>
+
+-0.372912	boring <sw>
+
+-0.4710751	borough <sw>
+
+-0.7145948	borrow <sw>
+
+-0.9481964	borrowing <sw>
+
+-0.154902	boss <sw>
+
+-0.4710751	bossy <sw>
+
+-0.7269987	both <sw>
+
+-1.170045	bother <sw>
+
+-0.07255067	bottle <sw>
+
+-0.4513533	bouldering <sw>
+
+-0.3784454	bound <sw>
+
+-0.4710751	boundaries <sw>
+
+-0.4710751	boutique <sw>
+
+-0.3784454	bow <sw>
+
+-1.374165	bowl <sw>
+
+-0.404277	bowling <sw>
+
+-0.2710668	box <sw>
+
+-0.7721051	boxers <sw>
+
+-0.7721051	boxing <sw>
+
+-0.6038494	boy <sw>
+
+-0.2730013	boyfriend <sw>
+
+-0.794166	boys <sw>
+
+-0.7721051	bra <sw>
+
+-0.2023541	braces <sw>
+
+-0.8492934	brain <sw>
+
+-0.4710751	brainless <sw>
+
+-0.9481964	brains <sw>
+
+-0.4710751	brainstorm <sw>
+
+-0.7721051	brake <sw>
+
+-0.6292539	branch <sw>
+
+-0.2138798	brand <sw>
+
+-0.06177228	branded <sw>
+
+-0.08518585	brandon <sw>
+
+-0.2023541	brass <sw>
+
+-0.1760913	braun <sw>
+
+-0.9481964	brave <sw>
+
+-0.4710751	brazil <sw>
+
+-0.9427168	bread <sw>
+
+-0.2706474	break <sw>
+
+-0.4341159	breakfast <sw>
+
+-0.7721051	breaking <sw>
+
+-0.7721051	breakthrough <sw>
+
+-0.4710751	breakup <sw>
+
+-0.8044142	breathe <sw>
+
+-0.4710751	breathing <sw>
+
+-0.4710751	breed <sw>
+
+-0.4710751	brendy <sw>
+
+-0.4710751	brew <sw>
+
+-0.7721051	brian <sw>
+
+-0.2023541	bribe <sw>
+
+-0.1503233	bricks <sw>
+
+-0.4710751	bride <sw>
+
+-0.3521825	bridge <sw>
+
+-0.2023541	brightness <sw>
+
+-0.9878536	bring <sw>
+
+-0.1503233	brisbane <sw>
+
+-0.3721721	broadband <sw>
+
+-0.2498775	broadcast <sw>
+
+-0.4373684	brochure <sw>
+
+-0.3784454	broke <sw>
+
+-0.4710751	brokering <sw>
+
+-0.394711	brother <sw>
+
+-0.3282239	brothers <sw>
+
+-0.4710751	brouchures <sw>
+
+-1.249226	brown <sw>
+
+-0.4710751	brownie <sw>
+
+-0.4710751	browser <sw>
+
+-0.2612771	brunei <sw>
+
+-0.7721051	brussel <sw>
+
+-0.5033841	bryan <sw>
+
+-0.4373684	bubble <sw>
+
+-0.4710751	bubbling <sw>
+
+-0.4710751	bucket <sw>
+
+-0.4710751	buckle <sw>
+
+-0.8193301	bucks <sw>
+
+-0.5970692	buddhist <sw>
+
+-0.08715018	buddy <sw>
+
+-0.2839966	budget <sw>
+
+-0.5033841	buffer <sw>
+
+-0.2872417	buffet <sw>
+
+-0.1820959	bug <sw>
+
+-0.3439393	bugis <sw>
+
+-0.08518585	bugs <sw>
+
+-0.2126081	build <sw>
+
+-0.2218488	building <sw>
+
+-0.7721051	buildings <sw>
+
+-0.7721051	built <sw>
+
+-0.4513533	bukit <sw>
+
+-0.9481964	bulb <sw>
+
+-1.073135	bulk <sw>
+
+-0.9427168	bull <sw>
+
+-0.9481964	bulldog <sw>
+
+-0.3282239	bully <sw>
+
+-0.6002942	bunch <sw>
+
+-0.3862158	bungalow <sw>
+
+-0.3784454	bunk <sw>
+
+-0.6002942	buoyancy <sw>
+
+-0.3282239	burden <sw>
+
+-1.170045	burger <sw>
+
+-0.30103	burn <sw>
+
+-0.4710751	burp <sw>
+
+-0.20412	bus <sw>
+
+-0.2023541	bush <sw>
+
+-0.4710751	busic <sw>
+
+-0.4487259	business <sw>
+
+-0.692394	busy <sw>
+
+-0.4364725	but <sw>
+
+-0.7721051	butt <sw>
+
+-0.5183001	butter <sw>
+
+-0.7721051	butterfly <sw>
+
+-0.1503233	butterworth <sw>
+
+-0.7523834	button <sw>
+
+-1.124436	buy <sw>
+
+-0.2218488	buyer <sw>
+
+-0.8239087	by <sw>
+
+-1.471075	bye <sw>
+
+-0.4710751	byran <sw>
+
+-0.5019448	c <sw>
+
+-0.6181858	c. <sw>
+
+-0.1503233	c.a.m.s.t.a.r. <sw>
+
+-0.4710751	c.a.m.s.t.a.r.loh <sw>
+
+-0.1409535	cab <sw>
+
+-0.4710751	cabbage <sw>
+
+-0.4710751	cabin <sw>
+
+-1.281535	cable <sw>
+
+-0.5033841	cabohidrate <sw>
+
+-0.7721051	cac <sw>
+
+-0.5292158	cafe <sw>
+
+-0.1371732	cake <sw>
+
+-0.4710751	calamary <sw>
+
+-0.1503233	calcium <sw>
+
+-0.4710751	calcul <sw>
+
+-0.1918855	calculate <sw>
+
+-0.1165056	calculation <sw>
+
+-0.1503233	calculations <sw>
+
+-0.4710751	calculator <sw>
+
+-0.4710751	caleb <sw>
+
+-0.3282239	calendar <sw>
+
+-0.576292	california <sw>
+
+-0.3867877	call <sw>
+
+-0.5509075	called <sw>
+
+-0.4710751	caller <sw>
+
+-0.4712238	calls <sw>
+
+-0.2023541	calm <sw>
+
+-0.3628023	calorie <sw>
+
+-0.2752621	calories <sw>
+
+-0.4710751	cam <sw>
+
+-0.4341159	cambodia <sw>
+
+-0.1503233	cambridge <sw>
+
+-0.4710751	cameo <sw>
+
+-0.1988344	camera <sw>
+
+-0.1820959	cameraman <sw>
+
+-0.1918855	cameron <sw>
+
+-0.2520967	camp <sw>
+
+-0.2713886	campaign <sw>
+
+-0.4710751	campaigns <sw>
+
+-0.4710751	camper <sw>
+
+-0.4710751	campfire <sw>
+
+-1.073135	camping <sw>
+
+-1.073135	camps <sw>
+
+-0.30103	campus <sw>
+
+-1.220606	can <sw>
+
+-2.170045	can't <sw>
+
+-0.2612771	canada <sw>
+
+-0.4373684	canadian <sw>
+
+-0.1890562	cancel <sw>
+
+-0.5033841	cancelled <sw>
+
+-0.2596373	cancer <sw>
+
+-0.2752621	cancerous <sw>
+
+-0.9481964	candice <sw>
+
+-0.2023541	candidate <sw>
+
+-0.4313638	candy <sw>
+
+-0.9481964	cane <sw>
+
+-0.4710751	canidae <sw>
+
+-0.6002942	caning <sw>
+
+-0.2023541	cannon <sw>
+
+-1.282007	cannot <sw>
+
+-0.4341159	cannula <sw>
+
+-1.374165	canoe <sw>
+
+-1.316173	cant <sw>
+
+-0.4449366	canteen <sw>
+
+-0.2825466	cantonese <sw>
+
+-1.316173	canvas <sw>
+
+-0.9805054	canvass <sw>
+
+-0.4086639	canvassing <sw>
+
+-0.9481964	canyon <sw>
+
+-0.3862158	cap <sw>
+
+-0.5033841	capability <sw>
+
+-0.7721051	capacitor <sw>
+
+-0.576292	capacity <sw>
+
+-0.07255067	capital <sw>
+
+-0.2023541	capsule <sw>
+
+-0.376124	captain <sw>
+
+-0.04346569	capture <sw>
+
+-0.5038555	car <sw>
+
+-0.7721051	caramel <sw>
+
+-0.3784454	caravan <sw>
+
+-0.4710751	carbohydrate <sw>
+
+-0.2319491	carbon <sw>
+
+-0.4710751	carbonated <sw>
+
+-0.1931246	card <sw>
+
+-0.06177228	cardboard <sw>
+
+-1.170045	cards <sw>
+
+-0.5295093	care <sw>
+
+-0.8193301	career <sw>
+
+-0.4710751	careers <sw>
+
+-0.4710751	carefree <sw>
+
+-1.170045	careful <sw>
+
+-0.4710751	carlo <sw>
+
+-0.4710751	carnegie <sw>
+
+-0.4710751	carnival <sw>
+
+-0.5669222	caroling <sw>
+
+-0.9481964	carolling <sw>
+
+-0.7721051	carols <sw>
+
+-0.1503233	carpark <sw>
+
+-0.1503233	carpet <sw>
+
+-0.9481964	carried <sw>
+
+-0.8255485	carry <sw>
+
+-0.3091772	cars <sw>
+
+-0.2167091	cartoon <sw>
+
+-0.250539	case <sw>
+
+-0.4419835	cases <sw>
+
+-0.9427168	cash <sw>
+
+-0.4513533	cashier <sw>
+
+-0.146128	casino <sw>
+
+-0.7721051	casinos <sw>
+
+-0.2787536	cast <sw>
+
+-0.7721051	caster <sw>
+
+-0.20412	castor <sw>
+
+-0.3784454	casual <sw>
+
+-1.073135	cat <sw>
+
+-0.4710751	catalog <sw>
+
+-1.170045	catalyst <sw>
+
+-0.60206	catch <sw>
+
+-0.3784454	categories <sw>
+
+-0.08518585	categorize <sw>
+
+-0.30103	category <sw>
+
+-0.4513533	cater <sw>
+
+-0.3170448	cathay <sw>
+
+-0.4710751	cathedral <sw>
+
+-0.6274446	catheter <sw>
+
+-0.7721051	cats <sw>
+
+-0.4710751	catwalk <sw>
+
+-0.4710751	caucasian <sw>
+
+-0.4710751	causation <sw>
+
+-0.5642715	cause <sw>
+
+-0.3784454	caused <sw>
+
+-0.4710751	cd <sw>
+
+-1.073135	celcom <sw>
+
+-0.4045706	celebrate <sw>
+
+-0.7145948	celebration <sw>
+
+-0.7464222	celebrity <sw>
+
+-0.3784454	celestica <sw>
+
+-0.1532284	cell <sw>
+
+-0.7721051	cello <sw>
+
+-0.5033841	cells <sw>
+
+-0.2023541	celtics <sw>
+
+-0.3784454	cement <sw>
+
+-0.4710751	censor <sw>
+
+-0.5183001	cent <sw>
+
+-0.1401787	center <sw>
+
+-0.4710751	centimeters <sw>
+
+-0.7871454	central <sw>
+
+-0.4710751	centralize <sw>
+
+-0.2023541	centralized <sw>
+
+-0.2369125	centre <sw>
+
+-1.249226	cents <sw>
+
+-0.2023541	cereal <sw>
+
+-0.2079003	ceremony <sw>
+
+-0.1296339	cert <sw>
+
+-0.640978	certain <sw>
+
+-0.6794754	certificate <sw>
+
+-0.06177228	certification <sw>
+
+-0.08715018	certified <sw>
+
+-0.2658923	certify <sw>
+
+-0.6794754	cervic <sw>
+
+-0.6794754	cervix <sw>
+
+-0.7721051	cetera <sw>
+
+-0.7721051	cha <sw>
+
+-0.4831259	chain <sw>
+
+-0.3388186	chair <sw>
+
+-0.7721051	chairman <sw>
+
+-0.4710751	chairs <sw>
+
+-0.2498775	chalet <sw>
+
+-0.4710751	chalets <sw>
+
+-0.5623071	challenge <sw>
+
+-0.4710751	challenger <sw>
+
+-0.2023541	challenges <sw>
+
+-0.2713886	challenging <sw>
+
+-0.9481964	champ <sw>
+
+-0.2023541	champaign <sw>
+
+-1.249226	champion <sw>
+
+-0.5033841	championship <sw>
+
+-0.4831259	chan <sw>
+
+-0.5797836	chance <sw>
+
+-0.5326386	change <sw>
+
+-0.9481964	changed <sw>
+
+-0.3784454	changers <sw>
+
+-0.9013242	changes <sw>
+
+-1.425318	changi <sw>
+
+-0.4191293	channel <sw>
+
+-0.6794754	chap <sw>
+
+-0.9481964	chapel <sw>
+
+-0.1760913	chapter <sw>
+
+-0.1836444	character <sw>
+
+-0.1701938	characteristic <sw>
+
+-0.2023541	characteristics <sw>
+
+-0.6002942	characters <sw>
+
+-0.3784454	charcoal <sw>
+
+-0.3767507	charge <sw>
+
+-0.4513533	charged <sw>
+
+-0.7721051	charges <sw>
+
+-0.4710751	charging <sw>
+
+-0.08518585	charming <sw>
+
+-0.9427168	chart <sw>
+
+-0.7721051	chartered <sw>
+
+-0.5183001	chase <sw>
+
+-0.2808266	chat <sw>
+
+-0.4513533	chatting <sw>
+
+-0.7721051	cheah <sw>
+
+-0.4637573	cheap <sw>
+
+-1.015267	cheaper <sw>
+
+-0.4710751	cheapo <sw>
+
+-0.6002942	cheat <sw>
+
+-0.243038	check <sw>
+
+-1.073135	checking <sw>
+
+-0.4710751	checkup <sw>
+
+-0.6613597	cheer <sw>
+
+-0.4710751	cheerful <sw>
+
+-0.3452336	cheerleading <sw>
+
+-0.2596373	cheese <sw>
+
+-0.7721051	cheesecake <sw>
+
+-0.4710751	chef <sw>
+
+-0.2023541	chefs <sw>
+
+-0.2023541	chelsea <sw>
+
+-0.39794	chem <sw>
+
+-0.5509075	chemical <sw>
+
+-0.4710751	chemicals <sw>
+
+-0.3458423	chemistry <sw>
+
+-0.2023541	chen <sw>
+
+-0.6002942	cheque <sw>
+
+-0.5033841	chess <sw>
+
+-0.4710751	chey <sw>
+
+-0.4710751	chicago <sw>
+
+-0.60206	chicken <sw>
+
+-1.202354	child <sw>
+
+-0.3721721	childhood <sw>
+
+-0.4913617	children <sw>
+
+-1.170045	chili <sw>
+
+-0.3706659	china <sw>
+
+-0.1820959	chinatown <sw>
+
+-0.6681896	chinese <sw>
+
+-0.4710751	ching <sw>
+
+-0.8044142	chiong <sw>
+
+-0.2752621	chips <sw>
+
+-0.4710751	chipset <sw>
+
+-0.2304489	chocolate <sw>
+
+-0.9481964	chocolates <sw>
+
+-0.241716	choice <sw>
+
+-0.2079003	choices <sw>
+
+-0.2887955	choir <sw>
+
+-0.2023541	choking <sw>
+
+-0.2023541	cholera <sw>
+
+-0.4710751	cholesterol <sw>
+
+-0.3784454	chong <sw>
+
+-0.8219302	choose <sw>
+
+-0.7721051	chopper <sw>
+
+-0.4710751	chords <sw>
+
+-0.4710751	chore <sw>
+
+-0.4710751	choreograph <sw>
+
+-0.7721051	chorus <sw>
+
+-0.4513533	chris <sw>
+
+-0.1820959	christchurch <sw>
+
+-0.5081555	christian <sw>
+
+-0.4701724	christmas <sw>
+
+-0.5183001	chromosome <sw>
+
+-0.7721051	chronicle <sw>
+
+-0.2023541	chronicles <sw>
+
+-0.9481964	chu <sw>
+
+-0.4710751	chua <sw>
+
+-0.2023541	chunky <sw>
+
+-0.3187588	church <sw>
+
+-0.4710751	cicada <sw>
+
+-0.2023541	cigarette <sw>
+
+-1.170045	cigarettes <sw>
+
+-0.7721051	cinderalla <sw>
+
+-0.4710751	cinderella <sw>
+
+-0.1701938	cinema <sw>
+
+-0.4419835	circle <sw>
+
+-0.7721051	circles <sw>
+
+-0.2658923	circuit <sw>
+
+-0.4710751	circumstances <sw>
+
+-0.7721051	cisco <sw>
+
+-0.9481964	citation <sw>
+
+-0.6002942	citibank <sw>
+
+-1.073135	cities <sw>
+
+-0.7721051	citizen <sw>
+
+-0.2023541	citizens <sw>
+
+-0.3590219	city <sw>
+
+-1.675195	civil <sw>
+
+-0.9481964	civilian <sw>
+
+-0.4710751	civilized <sw>
+
+-0.1760913	claim <sw>
+
+-0.6002942	clarify <sw>
+
+-0.9805054	clash <sw>
+
+-0.3467875	class <sw>
+
+-0.6002942	classes <sw>
+
+-0.3784454	classic <sw>
+
+-0.4710751	classical <sw>
+
+-0.2793383	classmate <sw>
+
+-0.7721051	classy <sw>
+
+-0.7721051	clay <sw>
+
+-1.015267	clean <sw>
+
+-0.9481964	cleaning <sw>
+
+-0.9481964	cleanliness <sw>
+
+-0.2552725	clear <sw>
+
+-0.4710751	cleary <sw>
+
+-0.3628023	clementi <sw>
+
+-0.2612771	clerk <sw>
+
+-1.170045	clever <sw>
+
+-0.1503233	cliche <sw>
+
+-0.3756636	click <sw>
+
+-0.1346986	client <sw>
+
+-0.6794754	clients <sw>
+
+-0.2023541	climax <sw>
+
+-0.4710751	climber <sw>
+
+-0.2138798	climbing <sw>
+
+-0.404277	clinic <sw>
+
+-0.4513533	clip <sw>
+
+-0.1691424	clique <sw>
+
+-0.5970692	clock <sw>
+
+-0.4710751	cloning <sw>
+
+-0.4710751	clooney <sw>
+
+-0.4259687	close <sw>
+
+-0.9481964	closest <sw>
+
+-0.576292	closing <sw>
+
+-0.2023541	cloth <sw>
+
+-0.5245185	clothes <sw>
+
+-0.3784454	cloudy <sw>
+
+-0.3935752	club <sw>
+
+-0.5388935	clubbing <sw>
+
+-1.316173	clubs <sw>
+
+-0.4710751	clueless <sw>
+
+-0.4710751	clumsy <sw>
+
+-0.6794754	cluster <sw>
+
+-0.4710751	clustered <sw>
+
+-0.05115252	clustering <sw>
+
+-0.4710751	clutering <sw>
+
+-0.4710751	cluttered <sw>
+
+-1.223543	co <sw>
+
+-0.1091445	coach <sw>
+
+-0.7721051	coaching <sw>
+
+-0.4710751	coagulate <sw>
+
+-0.3424227	coast <sw>
+
+-0.1760913	coaster <sw>
+
+-0.4710751	coasters <sw>
+
+-0.3784454	coat <sw>
+
+-0.5183001	cock <sw>
+
+-0.3282239	cockroach <sw>
+
+-0.3784454	cocktail <sw>
+
+-0.9755861	code <sw>
+
+-0.1047354	coding <sw>
+
+-0.3521825	coffee <sw>
+
+-0.3721721	cognitive <sw>
+
+-0.3784454	coincide <sw>
+
+-0.5033841	cola <sw>
+
+-1.512468	cold <sw>
+
+-0.7721051	colder <sw>
+
+-0.7721051	coli <sw>
+
+-0.2079003	collaborate <sw>
+
+-0.3784454	collaboration <sw>
+
+-0.3784454	collapse <sw>
+
+-0.05648136	colleague <sw>
+
+-0.3282239	colleagues <sw>
+
+-0.4301247	collect <sw>
+
+-0.2023541	collectively <sw>
+
+-0.7721051	collector <sw>
+
+-0.3187588	college <sw>
+
+-0.4710751	colllaborate <sw>
+
+-0.2023541	colony <sw>
+
+-0.1497623	color <sw>
+
+-0.4710751	colorful <sw>
+
+-0.4710751	colosseum <sw>
+
+-0.1890562	colour <sw>
+
+-0.05115252	column <sw>
+
+-0.4710751	columns <sw>
+
+-0.4488316	com <sw>
+
+-0.6002942	combination <sw>
+
+-0.3309932	combine <sw>
+
+-0.5033841	combined <sw>
+
+-0.4710751	combo <sw>
+
+-0.9481964	combustion <sw>
+
+-1.305351	come <sw>
+
+-0.2752621	comedy <sw>
+
+-0.4710751	comfartable <sw>
+
+-1.03493	comfortable <sw>
+
+-0.1139434	comic <sw>
+
+-1.363722	coming <sw>
+
+-0.2108534	comm <sw>
+
+-0.4710751	comma <sw>
+
+-0.2825466	command <sw>
+
+-0.1503233	commander <sw>
+
+-0.8044142	commando <sw>
+
+-0.4710751	commendator <sw>
+
+-0.2808266	comment <sw>
+
+-0.4710751	commentary <sw>
+
+-0.2023541	commentator <sw>
+
+-0.2023541	commentators <sw>
+
+-0.4710751	commenter <sw>
+
+-0.9481964	commenting <sw>
+
+-0.2612771	comments <sw>
+
+-0.4710751	commer <sw>
+
+-0.4710751	commerce <sw>
+
+-0.7145948	commercial <sw>
+
+-0.3784454	commercialize <sw>
+
+-0.2023541	commision <sw>
+
+-0.3282239	commission <sw>
+
+-1.512468	commit <sw>
+
+-0.3273589	commitee <sw>
+
+-0.1409535	commitment <sw>
+
+-0.9481964	committed <sw>
+
+-0.2787536	committee <sw>
+
+-1.617203	committees <sw>
+
+-0.50515	common <sw>
+
+-0.7721051	commonly <sw>
+
+-0.4710751	commonsense <sw>
+
+-0.9481964	comms <sw>
+
+-0.3565473	communicate <sw>
+
+-0.4607309	communication <sw>
+
+-0.5087495	communications <sw>
+
+-0.2023541	communicator <sw>
+
+-0.1503233	communism <sw>
+
+-0.4513533	communist <sw>
+
+-0.3273589	community <sw>
+
+-0.5970692	comp <sw>
+
+-0.4373684	compact <sw>
+
+-0.4710751	compactness <sw>
+
+-0.4373684	companies <sw>
+
+-0.2249398	company <sw>
+
+-0.4710751	comparable <sw>
+
+-0.4710751	comparatively <sw>
+
+-0.3944517	compare <sw>
+
+-1.407405	compared <sw>
+
+-0.7721051	comparison <sw>
+
+-0.4710751	compatible <sw>
+
+-0.9481964	compensation <sw>
+
+-0.6794754	compete <sw>
+
+-0.2798407	competition <sw>
+
+-0.7721051	competitions <sw>
+
+-0.2281858	competitive <sw>
+
+-0.06177228	competitor <sw>
+
+-0.3170448	compile <sw>
+
+-0.7721051	compiler <sw>
+
+-0.4710751	compla <sw>
+
+-0.2775489	complain <sw>
+
+-0.05115252	complaint <sw>
+
+-0.4710751	complement <sw>
+
+-0.4710751	complementary <sw>
+
+-0.2155998	complete <sw>
+
+-0.5033841	completely <sw>
+
+-0.4710751	completion <sw>
+
+-0.4390391	complex <sw>
+
+-0.3862158	complicated <sw>
+
+-0.1330859	component <sw>
+
+-0.4710751	composition <sw>
+
+-0.243038	compound <sw>
+
+-0.4710751	comprehension <sw>
+
+-0.2023541	compress <sw>
+
+-0.3784454	compressor <sw>
+
+-0.9481964	compromise <sw>
+
+-0.4710751	compromising <sw>
+
+-0.3170448	compulsory <sw>
+
+-0.4703353	computer <sw>
+
+-0.4710751	computerised <sw>
+
+-0.4710751	computerize <sw>
+
+-0.4710751	computers <sw>
+
+-0.3439393	computing <sw>
+
+-0.9481964	coms <sw>
+
+-0.3881802	con <sw>
+
+-0.2023541	conan <sw>
+
+-0.4710751	concede <sw>
+
+-0.6102072	concentrate <sw>
+
+-0.3721721	concentration <sw>
+
+-0.4710751	concentrations <sw>
+
+-0.1648103	concept <sw>
+
+-0.4419835	concern <sw>
+
+-0.2552725	concert <sw>
+
+-0.4710751	concise <sw>
+
+-0.576292	conclusion <sw>
+
+-0.7721051	concrete <sw>
+
+-0.7721051	concurrently <sw>
+
+-0.1503233	cond <sw>
+
+-0.7721051	condiments <sw>
+
+-0.4419835	condition <sw>
+
+-0.3784454	conditions <sw>
+
+-0.2023541	condo <sw>
+
+-0.1346986	condominium <sw>
+
+-0.7721051	conducive <sw>
+
+-0.2281858	conduct <sw>
+
+-0.6002942	conductor <sw>
+
+-0.2023541	cone <sw>
+
+-0.1535839	conference <sw>
+
+-0.3784454	conferencing <sw>
+
+-0.2612771	confidence <sw>
+
+-1.249226	confident <sw>
+
+-0.2023541	confidential <sw>
+
+-0.7464222	configuration <sw>
+
+-0.2612771	configure <sw>
+
+-0.2155998	confirm <sw>
+
+-0.4710751	confirmed <sw>
+
+-0.2281858	conflict <sw>
+
+-0.4710751	confront <sw>
+
+-0.4710751	confuse <sw>
+
+-0.3784454	congo <sw>
+
+-0.1383027	connect <sw>
+
+-0.2658923	connection <sw>
+
+-0.6002942	conscious <sw>
+
+-0.9481964	consecutive <sw>
+
+-0.4710751	conservation <sw>
+
+-0.4710751	conservative <sw>
+
+-0.7721051	conserve <sw>
+
+-0.2688453	consider <sw>
+
+-0.2752621	consideration <sw>
+
+-0.9742321	considered <sw>
+
+-0.4710751	consistant <sw>
+
+-0.2023541	console <sw>
+
+-0.4710751	constantly <sw>
+
+-0.2752621	constraint <sw>
+
+-0.2793383	construct <sw>
+
+-0.3174204	construction <sw>
+
+-0.4710751	constructor <sw>
+
+-0.08518585	consult <sw>
+
+-0.04830468	consultant <sw>
+
+-0.4710751	consultation <sw>
+
+-0.7721051	consumable <sw>
+
+-0.4710751	consumables <sw>
+
+-0.4390391	consumer <sw>
+
+-0.3282239	consuming <sw>
+
+-0.3170448	consumption <sw>
+
+-0.2872417	contact <sw>
+
+-0.7721051	contacts <sw>
+
+-1.170045	container <sw>
+
+-0.7721051	contamination <sw>
+
+-0.3756636	content <sw>
+
+-0.4710751	contents <sw>
+
+-0.5033841	context <sw>
+
+-0.4710751	contingency <sw>
+
+-0.4920984	continue <sw>
+
+-0.3784454	continuous <sw>
+
+-0.5033841	continuously <sw>
+
+-0.2329142	contract <sw>
+
+-0.3170448	contractor <sw>
+
+-0.2023541	contrary <sw>
+
+-0.4710751	contrast <sw>
+
+-0.3245111	contribute <sw>
+
+-0.9481964	contributing <sw>
+
+-0.20412	contribution <sw>
+
+-0.4710751	contributor <sw>
+
+-0.2031665	control <sw>
+
+-1.249226	controller <sw>
+
+-0.7721051	controlling <sw>
+
+-0.1701938	convenience <sw>
+
+-1.425318	convenient <sw>
+
+-0.6274446	convent <sw>
+
+-0.4710751	conventionalised <sw>
+
+-0.3802112	conversation <sw>
+
+-0.1362197	convert <sw>
+
+-0.7721051	convertion <sw>
+
+-0.4710751	convey <sw>
+
+-0.2281858	convince <sw>
+
+-0.4710751	convinced <sw>
+
+-0.2023541	convincing <sw>
+
+-0.7721051	convo <sw>
+
+-0.3784454	convocation <sw>
+
+-0.9481964	convoluted <sw>
+
+-0.8492934	cook <sw>
+
+-0.3721721	cookie <sw>
+
+-0.2023541	cookies <sw>
+
+-0.2752621	cooking <sw>
+
+-0.2894481	cool <sw>
+
+-1.073135	cooper <sw>
+
+-0.4710751	cooperation <sw>
+
+-0.4710751	coopers <sw>
+
+-0.4710751	coordi <sw>
+
+-0.2752621	coordinate <sw>
+
+-0.2612771	coordinator <sw>
+
+-0.3664885	cope <sw>
+
+-0.3631779	copy <sw>
+
+-0.4710751	copyright <sw>
+
+-0.146128	coral <sw>
+
+-0.3075609	core <sw>
+
+-0.7721051	cores <sw>
+
+-0.404195	corner <sw>
+
+-0.7721051	corp <sw>
+
+-0.2023541	corporal <sw>
+
+-1.425318	corporate <sw>
+
+-0.6307052	correct <sw>
+
+-0.4710751	corrector <sw>
+
+-0.4710751	correlate <sw>
+
+-0.4710751	correlated <sw>
+
+-0.4710751	correspondingly <sw>
+
+-0.7721051	corrosive <sw>
+
+-0.4710751	corrupted <sw>
+
+-0.4710751	corruption <sw>
+
+-0.6754889	cos <sw>
+
+-0.4710751	cosplay <sw>
+
+-0.3077634	cost <sw>
+
+-0.3784454	costly <sw>
+
+-0.4710751	costs <sw>
+
+-0.3250958	costume <sw>
+
+-0.4710751	cosway <sw>
+
+-0.7721051	cosy <sw>
+
+-0.4710751	cottage <sw>
+
+-0.3282239	cotton <sw>
+
+-0.7721051	couch <sw>
+
+-0.2612771	council <sw>
+
+-0.7721051	counsellors <sw>
+
+-0.7145948	count <sw>
+
+-0.8044142	countdown <sw>
+
+-1.249226	counted <sw>
+
+-0.3664885	counter <sw>
+
+-0.4710751	counterpart <sw>
+
+-0.4710751	counterparts <sw>
+
+-0.4710751	counting <sw>
+
+-0.3290587	countries <sw>
+
+-0.3233064	country <sw>
+
+-0.4710751	counts <sw>
+
+-0.7721051	county <sw>
+
+-0.1820959	couple <sw>
+
+-0.3250958	coupon <sw>
+
+-0.4710751	coupun <sw>
+
+-0.2740341	course <sw>
+
+-0.5033841	coursemate <sw>
+
+-0.3357921	courses <sw>
+
+-0.07509399	coursework <sw>
+
+-0.2852357	court <sw>
+
+-0.7721051	courts <sw>
+
+-0.4710751	couse <sw>
+
+-0.4710751	couseller <sw>
+
+-0.1684044	cousin <sw>
+
+-0.4710751	cousine <sw>
+
+-0.576292	cousins <sw>
+
+-0.1716821	cover <sw>
+
+-0.7721051	cow <sw>
+
+-0.2752621	cowboy <sw>
+
+-0.7721051	cows <sw>
+
+-0.7721051	cozy <sw>
+
+-0.1409535	crab <sw>
+
+-0.4373684	crack <sw>
+
+-0.3862158	cracking <sw>
+
+-0.08715018	craft <sw>
+
+-0.4710751	cram <sw>
+
+-0.2658923	crap <sw>
+
+-0.1503233	crappy <sw>
+
+-0.1627273	crash <sw>
+
+-0.7721051	crawl <sw>
+
+-0.2138798	crazy <sw>
+
+-0.2762064	cream <sw>
+
+-0.7721051	creamy <sw>
+
+-0.2126081	create <sw>
+
+-0.4710751	creating <sw>
+
+-0.4710751	creation <sw>
+
+-0.3170448	creative <sw>
+
+-0.2023541	credentials <sw>
+
+-0.6398485	credit <sw>
+
+-0.4710751	creditor <sw>
+
+-0.3250958	credits <sw>
+
+-0.4710751	cricket <sw>
+
+-0.3784454	crime <sw>
+
+-0.9481964	criminal <sw>
+
+-0.7464222	crisis <sw>
+
+-0.2752621	crispy <sw>
+
+-0.4710751	crist <sw>
+
+-0.4767456	criteria <sw>
+
+-0.4710751	critic <sw>
+
+-0.2612771	critical <sw>
+
+-0.5033841	criticise <sw>
+
+-0.4710751	criticism <sw>
+
+-0.4710751	criticize <sw>
+
+-0.4710751	critics <sw>
+
+-0.4710751	critique <sw>
+
+-0.3721721	crocodile <sw>
+
+-0.8164575	cross <sw>
+
+-0.3282239	crowd <sw>
+
+-0.3439393	crowded <sw>
+
+-0.3721721	cruel <sw>
+
+-0.6002942	cruise <sw>
+
+-0.4710751	crunches <sw>
+
+-0.6002942	cry <sw>
+
+-0.7721051	crying <sw>
+
+-0.4710751	cryptography <sw>
+
+-0.7721051	cryptology <sw>
+
+-0.2373609	crystal <sw>
+
+-0.08518585	crystalized <sw>
+
+-0.4710751	crystallize <sw>
+
+-0.4710751	cube <sw>
+
+-0.3721721	cubicle <sw>
+
+-0.1503233	cucumber <sw>
+
+-0.5033841	cui <sw>
+
+-0.4710751	culcure <sw>
+
+-1.027194	cultural <sw>
+
+-0.2632414	culture <sw>
+
+-0.4710751	cum <sw>
+
+-0.4710751	cumulative <sw>
+
+-0.3273589	cup <sw>
+
+-0.4710751	cupboard <sw>
+
+-0.4710751	cupid <sw>
+
+-0.2023541	cure <sw>
+
+-1.073135	curfew <sw>
+
+-1.073135	curly <sw>
+
+-0.4710751	currencies <sw>
+
+-0.30103	currency <sw>
+
+-0.4604449	current <sw>
+
+-0.19382	currently <sw>
+
+-0.2612771	curriculum <sw>
+
+-0.447158	curry <sw>
+
+-1.249226	curse <sw>
+
+-0.404195	curve <sw>
+
+-0.6274446	custom <sw>
+
+-0.1825254	customer <sw>
+
+-0.6794754	customers <sw>
+
+-0.3784454	customization <sw>
+
+-0.5033841	customized <sw>
+
+-0.4279032	cut <sw>
+
+-0.5314789	cute <sw>
+
+-0.7721051	cutoff <sw>
+
+-0.4710751	cy <sw>
+
+-0.5033841	cybertron <sw>
+
+-0.3245111	cycle <sw>
+
+-0.5623071	cycling <sw>
+
+-0.4710751	cynthia <sw>
+
+-0.4710751	cyrptology <sw>
+
+-0.7721051	czech <sw>
+
+-0.526809	d <sw>
+
+-0.3351843	d. <sw>
+
+-0.4710751	d.s <sw>
+
+-0.1503233	d.s.l.r. <sw>
+
+-1.647166	dad <sw>
+
+-1.073135	dad's <sw>
+
+-0.3784454	daddy <sw>
+
+-0.3784454	daemon <sw>
+
+-0.3273589	daily <sw>
+
+-0.1409535	dam <sw>
+
+-0.3784454	damage <sw>
+
+-1.12623	damn <sw>
+
+-0.624724	dance <sw>
+
+-0.3784454	dancer <sw>
+
+-0.4710751	dancers <sw>
+
+-0.4710751	dances <sw>
+
+-0.6794754	dancing <sw>
+
+-0.4710751	danesh <sw>
+
+-0.9013242	dangerous <sw>
+
+-0.4710751	daniel <sw>
+
+-0.4710751	danny <sw>
+
+-0.4710751	daphne <sw>
+
+-1.077415	dare <sw>
+
+-0.7721051	daring <sw>
+
+-0.4710751	darius <sw>
+
+-0.7523834	dark <sw>
+
+-0.4710751	darling <sw>
+
+-1.425318	darts <sw>
+
+-0.4710751	daryl <sw>
+
+-0.4710751	dash <sw>
+
+-0.436285	data <sw>
+
+-0.1335389	database <sw>
+
+-0.3784454	dataset <sw>
+
+-0.3222193	date <sw>
+
+-0.3784454	dateline <sw>
+
+-0.9481964	dates <sw>
+
+-0.4710751	dating <sw>
+
+-0.9013242	daughter <sw>
+
+-0.5033841	dave <sw>
+
+-0.4421154	day <sw>
+
+-0.5247629	days <sw>
+
+-0.2023541	de <sw>
+
+-1.617203	dead <sw>
+
+-0.3091772	deadline <sw>
+
+-0.3862158	deaf <sw>
+
+-0.2648178	deal <sw>
+
+-0.1576079	dean <sw>
+
+-0.903651	death <sw>
+
+-0.4710751	deathnote <sw>
+
+-0.7721051	debate <sw>
+
+-0.4513533	debt <sw>
+
+-0.4710751	decay <sw>
+
+-0.2575643	december <sw>
+
+-0.5669222	decide <sw>
+
+-0.4710751	decipher <sw>
+
+-0.4710751	decisions <sw>
+
+-0.4710751	deck <sw>
+
+-0.4710751	decker <sw>
+
+-0.4513533	declare <sw>
+
+-0.3784454	deco <sw>
+
+-0.1503233	decode <sw>
+
+-0.2023541	decoding <sw>
+
+-0.2793383	decorate <sw>
+
+-0.3721721	decorations <sw>
+
+-0.7721051	decrease <sw>
+
+-0.1503233	dedicated <sw>
+
+-0.4710751	dedicating <sw>
+
+-0.6002942	deejay <sw>
+
+-0.9013242	deep <sw>
+
+-0.4710751	def <sw>
+
+-0.1503233	defect <sw>
+
+-0.7721051	defects <sw>
+
+-0.09691001	defence <sw>
+
+-0.07509399	defend <sw>
+
+-0.4710751	defending <sw>
+
+-0.7721051	defensive <sw>
+
+-0.7721051	deferment <sw>
+
+-0.7721051	deficit <sw>
+
+-0.3721721	define <sw>
+
+-0.4852684	definitely <sw>
+
+-0.3721721	definition <sw>
+
+-0.4710751	deform <sw>
+
+-0.2079003	degrade <sw>
+
+-0.2575643	degree <sw>
+
+-0.4513533	degrees <sw>
+
+-0.1383027	delay <sw>
+
+-0.4710751	delegate <sw>
+
+-0.2752621	delete <sw>
+
+-0.4710751	delight <sw>
+
+-0.229996	deliver <sw>
+
+-0.4710751	deliverables <sw>
+
+-0.9481964	delivery <sw>
+
+-0.1512677	dell <sw>
+
+-0.2713886	demand <sw>
+
+-0.5033841	demanding <sw>
+
+-0.4710751	demark <sw>
+
+-0.2023541	democracy <sw>
+
+-0.4710751	demolish <sw>
+
+-0.4710751	demolition <sw>
+
+-0.4710751	demonstration <sw>
+
+-0.4710751	demoralised <sw>
+
+-0.3784454	demoralize <sw>
+
+-0.4710751	demoralizing <sw>
+
+-0.7721051	denmark <sw>
+
+-0.2023541	denominator <sw>
+
+-0.08518585	density <sw>
+
+-0.3784454	dentist <sw>
+
+-0.1503233	depand <sw>
+
+-0.4710751	depart <sw>
+
+-0.1084237	department <sw>
+
+-0.4210053	depend <sw>
+
+-0.9481964	dependent <sw>
+
+-1.316173	depending <sw>
+
+-0.4600879	depends <sw>
+
+-0.1503233	deploy <sw>
+
+-0.3170448	deposit <sw>
+
+-0.4710751	deposition <sw>
+
+-0.4710751	deposits <sw>
+
+-0.4710751	depreciated <sw>
+
+-0.4710751	depreciation <sw>
+
+-0.7721051	depress <sw>
+
+-0.4710751	depressed <sw>
+
+-0.2023541	depression <sw>
+
+-1.249226	depth <sw>
+
+-0.3784454	derive <sw>
+
+-0.7721051	derrick <sw>
+
+-0.501187	describe <sw>
+
+-0.4710751	descriptive <sw>
+
+-0.3784454	desert <sw>
+
+-0.4710751	desi <sw>
+
+-0.1946735	design <sw>
+
+-0.1409535	designer <sw>
+
+-1.073135	designing <sw>
+
+-0.4710751	desirable <sw>
+
+-0.3282239	desk <sw>
+
+-0.1820959	desktop <sw>
+
+-0.3784454	desmond <sw>
+
+-0.7721051	desperate <sw>
+
+-0.1503233	despo <sw>
+
+-1.073135	dessert <sw>
+
+-1.249226	destination <sw>
+
+-0.4710751	detached <sw>
+
+-0.3250958	detail <sw>
+
+-0.7721051	detailed <sw>
+
+-0.7721051	detailing <sw>
+
+-0.3439393	details <sw>
+
+-0.2498775	detect <sw>
+
+-0.2023541	detective <sw>
+
+-0.1820959	determination <sw>
+
+-0.09691001	determine <sw>
+
+-0.4710751	deve <sw>
+
+-0.1702617	develop <sw>
+
+-0.7721051	develope <sw>
+
+-0.2079003	developed <sw>
+
+-0.7721051	developement <sw>
+
+-0.1532284	developer <sw>
+
+-0.4710751	developing <sw>
+
+-0.404195	development <sw>
+
+-0.7721051	deviation <sw>
+
+-0.2713886	device <sw>
+
+-0.08518585	devices <sw>
+
+-0.7721051	devious <sw>
+
+-0.2752621	dhabi <sw>
+
+-1.249226	di <sw>
+
+-0.1995724	diabetes <sw>
+
+-0.1409535	diabetic <sw>
+
+-0.5033841	diablo <sw>
+
+-1.425318	diagnosis <sw>
+
+-0.4710751	diagon <sw>
+
+-0.3721721	diagram <sw>
+
+-0.1760913	dialect <sw>
+
+-0.2752621	dialects <sw>
+
+-0.3784454	diameter <sw>
+
+-0.9481964	diamond <sw>
+
+-0.4710751	dian <sw>
+
+-0.7721051	diapers <sw>
+
+-0.4710751	diaphragm <sw>
+
+-0.7721051	diarrhea <sw>
+
+-0.4710751	diarrheoa <sw>
+
+-0.2023541	diary <sw>
+
+-0.9481964	dicom <sw>
+
+-0.2752621	dictionary <sw>
+
+-1.809809	did <sw>
+
+-1.748749	didn't <sw>
+
+-0.544068	die <sw>
+
+-0.7721051	diego <sw>
+
+-0.3784454	diet <sw>
+
+-0.7721051	diff <sw>
+
+-0.5563025	difference <sw>
+
+-0.7117175	different <sw>
+
+-1.073135	differentiate <sw>
+
+-0.2023541	differentiation <sw>
+
+-0.4860761	difficult <sw>
+
+-0.6002942	difficulties <sw>
+
+-1.170045	difficulty <sw>
+
+-0.2023541	digest <sw>
+
+-0.3721721	digi <sw>
+
+-0.7721051	digit <sw>
+
+-0.4710751	digitalize <sw>
+
+-0.9481964	dilemma <sw>
+
+-0.3784454	dimension <sw>
+
+-0.2023541	dimensional <sw>
+
+-0.4710751	dinasaur <sw>
+
+-0.2814344	dinner <sw>
+
+-0.4710751	dinobot <sw>
+
+-0.7721051	dinosaur <sw>
+
+-0.4710751	dio <sw>
+
+-0.4710751	dion <sw>
+
+-0.4710751	dip <sw>
+
+-0.2293368	diploma <sw>
+
+-0.4175356	direct <sw>
+
+-0.4710751	directing <sw>
+
+-0.05115252	direction <sw>
+
+-0.4710751	directions <sw>
+
+-1.316173	directly <sw>
+
+-0.1760913	director <sw>
+
+-0.2612771	directors <sw>
+
+-0.8044142	dirty <sw>
+
+-0.4710751	disabled <sw>
+
+-0.3721721	disadvantage <sw>
+
+-0.7721051	disappear <sw>
+
+-0.3439393	disappointed <sw>
+
+-0.4710751	disastrous <sw>
+
+-0.39794	discipline <sw>
+
+-0.5033841	disclose <sw>
+
+-0.2023541	disconnect <sw>
+
+-0.1918855	discount <sw>
+
+-0.7721051	discounted <sw>
+
+-0.2079003	discover <sw>
+
+-0.4831259	discovery <sw>
+
+-0.154902	discuss <sw>
+
+-0.9481964	discussing <sw>
+
+-0.30103	discussion <sw>
+
+-0.6274446	disease <sw>
+
+-0.1820959	dish <sw>
+
+-1.073135	dishes <sw>
+
+-0.4710751	dishwasher <sw>
+
+-0.9481964	disinfectant <sw>
+
+-0.4710751	disipline <sw>
+
+-0.1330859	disk <sw>
+
+-0.1842385	disney <sw>
+
+-0.1836444	disneyland <sw>
+
+-0.4710751	disneysea <sw>
+
+-0.2023541	disneyworld <sw>
+
+-0.6002942	disorder <sw>
+
+-0.4710751	dispatch <sw>
+
+-0.229996	display <sw>
+
+-0.2281858	disposable <sw>
+
+-0.2752621	dispose <sw>
+
+-0.4710751	disposition <sw>
+
+-0.4710751	disqualify <sw>
+
+-0.4710751	dissapoint <sw>
+
+-0.4710751	dissect <sw>
+
+-0.04575749	dissolve <sw>
+
+-0.544068	distance <sw>
+
+-0.4513533	distinction <sw>
+
+-0.7721051	distract <sw>
+
+-0.4831259	distribute <sw>
+
+-0.4710751	distributed <sw>
+
+-0.4710751	distribution <sw>
+
+-0.1701938	distributor <sw>
+
+-0.5033841	district <sw>
+
+-0.3721721	disturb <sw>
+
+-0.7145948	dive <sw>
+
+-0.3784454	diver <sw>
+
+-0.4710751	diversified <sw>
+
+-0.2023541	diversify <sw>
+
+-0.3862158	diving <sw>
+
+-0.1249387	division <sw>
+
+-0.4710751	dna <sw>
+
+-1.265143	do <sw>
+
+-0.2752621	doc <sw>
+
+-0.7721051	docking <sw>
+
+-0.2801799	doctor <sw>
+
+-0.7721051	doctors <sw>
+
+-0.07509399	document <sw>
+
+-0.4710751	documentaries <sw>
+
+-0.20412	documentary <sw>
+
+-0.4710751	documented <sw>
+
+-0.9742321	does <sw>
+
+-0.4831259	dog <sw>
+
+-1.391611	doing <sw>
+
+-0.8942812	dollar <sw>
+
+-0.5956259	dollars <sw>
+
+-0.2793383	dolphin <sw>
+
+-1.425318	domain <sw>
+
+-1.170045	dominant <sw>
+
+-2.210454	don't <sw>
+
+-0.3282239	donald <sw>
+
+-0.7871454	donate <sw>
+
+-0.2498775	donation <sw>
+
+-0.8053452	done <sw>
+
+-0.7721051	dong <sw>
+
+-0.5033841	donkey <sw>
+
+-0.4710751	donor <sw>
+
+-0.5006024	door <sw>
+
+-0.4710751	dopod <sw>
+
+-0.4710751	dorae <sw>
+
+-0.7721051	dorm <sw>
+
+-1.392686	dot <sw>
+
+-0.6002942	dota <sw>
+
+-0.9481964	dots <sw>
+
+-1.299264	double <sw>
+
+-0.5244551	down <sw>
+
+-0.09426992	download <sw>
+
+-0.2023541	downstream <sw>
+
+-0.4710751	downturn <sw>
+
+-0.1503233	draft <sw>
+
+-0.7721051	draftman <sw>
+
+-1.156597	drag <sw>
+
+-0.2023541	draggy <sw>
+
+-0.3282239	dragon <sw>
+
+-0.2340832	drama <sw>
+
+-0.7721051	dramatic <sw>
+
+-0.3628023	draw <sw>
+
+-0.2373609	drawing <sw>
+
+-0.4710751	dreading <sw>
+
+-0.6038494	dream <sw>
+
+-0.8193301	dreams <sw>
+
+-0.7721051	dreamweaver <sw>
+
+-0.6180748	dress <sw>
+
+-0.4710751	dresses <sw>
+
+-0.2612771	dressing <sw>
+
+-0.4710751	drill <sw>
+
+-0.7777756	drink <sw>
+
+-0.7464222	drinking <sw>
+
+-0.1760913	drinks <sw>
+
+-0.544068	drive <sw>
+
+-0.7721051	driven <sw>
+
+-0.1026623	driver <sw>
+
+-0.3273589	driving <sw>
+
+-0.4710751	drizzle <sw>
+
+-0.2407341	drop <sw>
+
+-0.7721051	dropping <sw>
+
+-0.9481964	drowning <sw>
+
+-0.3245111	drug <sw>
+
+-0.2658923	drugs <sw>
+
+-0.2612771	drum <sw>
+
+-0.4710751	drummer <sw>
+
+-0.7721051	drunk <sw>
+
+-0.4513533	dry <sw>
+
+-0.7145948	dual <sw>
+
+-0.1503233	dubai <sw>
+
+-0.4710751	dublin <sw>
+
+-0.576292	duck <sw>
+
+-0.7721051	duet <sw>
+
+-0.7721051	dull <sw>
+
+-0.4710751	dummy <sw>
+
+-0.1503233	dump <sw>
+
+-0.4710751	dunedin <sw>
+
+-0.4710751	dunk <sw>
+
+-0.02996322	duplicate <sw>
+
+-0.4710751	duplication <sw>
+
+-0.9481964	duration <sw>
+
+-0.4710751	durians <sw>
+
+-1.152967	during <sw>
+
+-0.9481964	dust <sw>
+
+-0.7721051	duster <sw>
+
+-0.2023541	duties <sw>
+
+-0.3439393	duty <sw>
+
+-0.2752621	dvd <sw>
+
+-0.4710751	dwindling <sw>
+
+-0.2658923	dye <sw>
+
+-0.4710751	dyes <sw>
+
+-0.2023541	dynamic <sw>
+
+-0.9481964	dynamics <sw>
+
+-0.4710751	dyslexia <sw>
+
+-0.447158	e <sw>
+
+-0.6239618	e. <sw>
+
+-0.2023541	e.b.s. <sw>
+
+-0.4710751	e.p.i.k.o. <sw>
+
+-0.9481964	e.r.p. <sw>
+
+-0.4710751	e.s. <sw>
+
+-1.700665	each <sw>
+
+-0.5388935	earlier <sw>
+
+-1.432803	early <sw>
+
+-0.4710751	earmark <sw>
+
+-1.053413	earn <sw>
+
+-1.170045	earning <sw>
+
+-0.4710751	earpiece <sw>
+
+-0.4710751	earrings <sw>
+
+-0.9481964	earth <sw>
+
+-0.5033841	earthquake <sw>
+
+-0.8193301	easier <sw>
+
+-1.170045	easily <sw>
+
+-0.5762527	east <sw>
+
+-0.4513533	eastern <sw>
+
+-0.7721051	eastin <sw>
+
+-0.1503233	eastwood <sw>
+
+-0.4866666	easy <sw>
+
+-1.249226	easylink <sw>
+
+-0.9294189	eat <sw>
+
+-1.617203	eating <sw>
+
+-0.1503233	ebay <sw>
+
+-0.4710751	ebook <sw>
+
+-0.4710751	ecology <sw>
+
+-0.404195	economic <sw>
+
+-0.6872458	economics <sw>
+
+-0.4710751	economist <sw>
+
+-0.1702617	economy <sw>
+
+-0.5228788	econs <sw>
+
+-0.1503233	ed. <sw>
+
+-0.4710751	edge <sw>
+
+-0.1597008	edit <sw>
+
+-0.5033841	edited <sw>
+
+-0.2281858	editing <sw>
+
+-0.7721051	edition <sw>
+
+-0.4710751	editions <sw>
+
+-0.2713886	editor <sw>
+
+-0.1820959	educate <sw>
+
+-0.6732021	educated <sw>
+
+-0.4045706	education <sw>
+
+-1.073135	educational <sw>
+
+-0.9481964	edwin <sw>
+
+-0.4710751	eel <sw>
+
+-0.243038	effect <sw>
+
+-1.550256	effective <sw>
+
+-0.3721721	effectively <sw>
+
+-0.3439393	effects <sw>
+
+-0.4710751	efficicient <sw>
+
+-0.2079003	efficiency <sw>
+
+-0.5089303	efficient <sw>
+
+-0.6232493	effort <sw>
+
+-0.3721721	egg <sw>
+
+-0.4710751	egypt <sw>
+
+-0.369183	eh <sw>
+
+-0.4710751	ehm <sw>
+
+-0.7382798	eight <sw>
+
+-0.9144896	eighteen <sw>
+
+-0.9481964	eighth <sw>
+
+-0.7721051	eighties <sw>
+
+-1.772105	eighty <sw>
+
+-0.7721051	eileen <sw>
+
+-0.265702	either <sw>
+
+-0.6794754	elaborate <sw>
+
+-0.4710751	elasticity <sw>
+
+-0.3784454	elderly <sw>
+
+-0.2023541	election <sw>
+
+-0.3101734	elective <sw>
+
+-0.3802112	electives <sw>
+
+-0.9519557	electric <sw>
+
+-0.8044142	electrical <sw>
+
+-0.8555667	electricity <sw>
+
+-0.9805054	electronic <sw>
+
+-0.7145948	electronics <sw>
+
+-0.2612771	elegant <sw>
+
+-0.7721051	element <sw>
+
+-0.4710751	elephant <sw>
+
+-0.9481964	elevator <sw>
+
+-0.7245301	eleven <sw>
+
+-0.2752621	eliminate <sw>
+
+-0.9048794	else <sw>
+
+-0.2263964	email <sw>
+
+-0.6794754	embarrassing <sw>
+
+-0.4710751	embrace <sw>
+
+-0.5245185	emcee <sw>
+
+-0.2713886	emergency <sw>
+
+-0.4710751	emirates <sw>
+
+-0.4710751	emit <sw>
+
+-0.4710751	emm <sw>
+
+-0.4712238	emo <sw>
+
+-0.1503233	emotion <sw>
+
+-1.316173	emotional <sw>
+
+-0.4710751	emotionless <sw>
+
+-0.5033841	emotions <sw>
+
+-0.7721051	empire <sw>
+
+-0.4710751	empires <sw>
+
+-0.1760913	employee <sw>
+
+-0.4710751	employees <sw>
+
+-0.2023541	employer <sw>
+
+-0.4710751	employers <sw>
+
+-0.2023541	enable <sw>
+
+-0.4710751	encoding <sw>
+
+-0.3784454	encounter <sw>
+
+-0.2498775	encourage <sw>
+
+-0.4710751	encryption <sw>
+
+-0.3595681	end <sw>
+
+-0.5245185	ending <sw>
+
+-0.9481964	ends <sw>
+
+-0.9481964	enemy <sw>
+
+-0.2466723	energy <sw>
+
+-1.316173	eng <sw>
+
+-0.1701938	engaged <sw>
+
+-0.164192	engine <sw>
+
+-0.4710751	engineeering <sw>
+
+-0.1840602	engineer <sw>
+
+-0.3080918	engineering <sw>
+
+-0.5033841	engineers <sw>
+
+-0.9481964	england <sw>
+
+-0.4600879	english <sw>
+
+-0.1503233	englishmen <sw>
+
+-0.4710751	enha <sw>
+
+-0.103247	enhance <sw>
+
+-0.3784454	enhancement <sw>
+
+-0.4710751	enhancements <sw>
+
+-0.362548	enjoy <sw>
+
+-0.2023541	enjoyable <sw>
+
+-0.2023541	enlarged <sw>
+
+-1.055951	enough <sw>
+
+-0.7721051	enrich <sw>
+
+-0.4710751	enriching <sw>
+
+-0.5388935	enter <sw>
+
+-0.2023541	enterpreneur <sw>
+
+-0.2281858	enterprise <sw>
+
+-0.3282239	entertain <sw>
+
+-0.1383027	entertainment <sw>
+
+-0.2752621	enthu <sw>
+
+-0.6002942	enthusiastic <sw>
+
+-0.5033841	entrance <sw>
+
+-0.9481964	entrepreneurship <sw>
+
+-0.7721051	entries <sw>
+
+-0.4710751	entropy <sw>
+
+-0.243038	entry <sw>
+
+-0.1620805	environment <sw>
+
+-1.047452	environmental <sw>
+
+-0.1503233	enzymes <sw>
+
+-0.243038	episode <sw>
+
+-0.3784454	episodes <sw>
+
+-0.7721051	equation <sw>
+
+-0.7721051	equatorial <sw>
+
+-0.4710751	equiment <sw>
+
+-0.1249387	equipment <sw>
+
+-1.249226	equity <sw>
+
+-0.3784454	equivalence <sw>
+
+-0.6794754	equivalent <sw>
+
+-0.3006627	er <sw>
+
+-0.7721051	era <sw>
+
+-0.7721051	erase <sw>
+
+-0.4291977	erm <sw>
+
+-0.4710751	erode <sw>
+
+-0.462398	err <sw>
+
+-0.4710751	errands <sw>
+
+-0.2079003	error <sw>
+
+-0.4024876	errr <sw>
+
+-0.1820959	escalate <sw>
+
+-0.4513533	escalation <sw>
+
+-0.4419835	escalator <sw>
+
+-0.576292	escape <sw>
+
+-0.7351459	especially <sw>
+
+-0.4710751	espirit <sw>
+
+-0.1820959	esplanade <sw>
+
+-0.4710751	ess <sw>
+
+-0.1836444	essay <sw>
+
+-0.5033841	establish <sw>
+
+-0.4710751	established <sw>
+
+-0.4710751	estate <sw>
+
+-0.2612771	esther <sw>
+
+-0.2023541	estimate <sw>
+
+-0.7721051	estimation <sw>
+
+-0.4710751	ethics <sw>
+
+-0.4710751	eu <sw>
+
+-0.2023541	eucariot <sw>
+
+-0.4710751	eugene <sw>
+
+-1.170045	eunice <sw>
+
+-0.04139268	eureka <sw>
+
+-0.3250958	euro <sw>
+
+-0.1716821	europe <sw>
+
+-1.512468	european <sw>
+
+-0.7721051	euros <sw>
+
+-0.1503233	evaluate <sw>
+
+-0.3784454	evaluation <sw>
+
+-0.4710751	evaluative <sw>
+
+-0.4373684	eve <sw>
+
+-0.8352941	even <sw>
+
+-0.4373684	evening <sw>
+
+-0.2947811	event <sw>
+
+-0.4710751	eventhough <sw>
+
+-0.4542584	events <sw>
+
+-0.1165056	eventually <sw>
+
+-1.772105	ever <sw>
+
+-0.4710751	everage <sw>
+
+-1.555008	every <sw>
+
+-0.9585642	everybody <sw>
+
+-0.6255411	everyday <sw>
+
+-0.6283889	everyone <sw>
+
+-0.5958111	everything <sw>
+
+-0.9302839	everytime <sw>
+
+-0.2079003	everywhere <sw>
+
+-0.9481964	evident <sw>
+
+-0.3721721	evil <sw>
+
+-0.4710751	evolutionary <sw>
+
+-0.8565747	ex <sw>
+
+-0.7464222	exact <sw>
+
+-0.3756636	exactly <sw>
+
+-0.3056257	exam <sw>
+
+-0.4710751	examinable <sw>
+
+-0.4710751	examine <sw>
+
+-0.07509399	examiner <sw>
+
+-0.4710751	examiners <sw>
+
+-0.2329142	example <sw>
+
+-0.9481964	examples <sw>
+
+-0.5292158	exams <sw>
+
+-0.2023541	excavation <sw>
+
+-0.4710751	exceed <sw>
+
+-0.4710751	exceeded <sw>
+
+-0.146128	excel <sw>
+
+-0.9481964	excellence <sw>
+
+-0.2023541	excellent <sw>
+
+-0.7721051	exception <sw>
+
+-0.3357921	exchange <sw>
+
+-0.3439393	excited <sw>
+
+-0.5724186	exciting <sw>
+
+-0.7721051	exclude <sw>
+
+-0.2752621	exclusive <sw>
+
+-0.7721051	exco <sw>
+
+-0.4710751	excursion <sw>
+
+-1.550256	excuse <sw>
+
+-0.04575749	exec <sw>
+
+-0.2023541	execute <sw>
+
+-0.4710751	execution <sw>
+
+-1.316173	executive <sw>
+
+-0.1409535	exempt <sw>
+
+-1.249226	exempted <sw>
+
+-0.7721051	exemption <sw>
+
+-0.1035406	exercise <sw>
+
+-0.7721051	exercises <sw>
+
+-0.4710751	exercising <sw>
+
+-0.5623071	exhibition <sw>
+
+-1.249226	exist <sw>
+
+-0.06177228	existing <sw>
+
+-1.073135	exit <sw>
+
+-0.3282239	exotic <sw>
+
+-0.05115252	expand <sw>
+
+-0.2023541	expatriate <sw>
+
+-0.2609128	expect <sw>
+
+-0.5183001	expectation <sw>
+
+-0.3282239	expectations <sw>
+
+-1.073135	expected <sw>
+
+-0.9481964	expecting <sw>
+
+-0.4710751	expedite <sw>
+
+-0.7721051	expedition <sw>
+
+-0.4710751	expend <sw>
+
+-0.4710751	expenditure <sw>
+
+-0.4710751	expenditures <sw>
+
+-0.1383027	expenses <sw>
+
+-0.4423591	expensive <sw>
+
+-0.2227433	experience <sw>
+
+-1.073135	experienced <sw>
+
+-0.9481964	experiences <sw>
+
+-0.2793383	experient <sw>
+
+-0.2552725	experiment <sw>
+
+-0.2079003	expert <sw>
+
+-0.08518585	experty <sw>
+
+-1.073135	expire <sw>
+
+-0.9481964	expired <sw>
+
+-0.3484547	explain <sw>
+
+-0.5033841	explaining <sw>
+
+-0.3784454	explanation <sw>
+
+-0.4710751	exploit <sw>
+
+-0.4710751	exploitative <sw>
+
+-0.07255067	explore <sw>
+
+-0.3784454	explorer <sw>
+
+-0.07509399	expo <sw>
+
+-0.9481964	export <sw>
+
+-1.316173	exports <sw>
+
+-0.4373684	expose <sw>
+
+-1.073135	exposed <sw>
+
+-0.576292	exposure <sw>
+
+-0.2596373	express <sw>
+
+-0.1409535	expression <sw>
+
+-0.2023541	expressionist <sw>
+
+-0.1760913	extend <sw>
+
+-0.5033841	extended <sw>
+
+-1.073135	extent <sw>
+
+-0.8555667	external <sw>
+
+-0.2023541	extinct <sw>
+
+-0.39794	extra <sw>
+
+-0.1820959	extract <sw>
+
+-0.4710751	extraction <sw>
+
+-0.4710751	extraordinary <sw>
+
+-0.2752621	extreme <sw>
+
+-0.4710751	extrude <sw>
+
+-1.170045	ey <sw>
+
+-0.8832085	eye <sw>
+
+-0.4710751	eyelashes <sw>
+
+-1.316173	eyes <sw>
+
+-0.3735807	f <sw>
+
+-0.9542425	f. <sw>
+
+-0.1820959	faber <sw>
+
+-0.4710751	fabricate <sw>
+
+-0.4710751	fac <sw>
+
+-0.5824645	face <sw>
+
+-0.1293479	facebook <sw>
+
+-0.4710751	facebooking <sw>
+
+-0.3862158	facial <sw>
+
+-0.4710751	facili <sw>
+
+-0.7721051	facilitate <sw>
+
+-1.170045	facilities <sw>
+
+-0.501187	facility <sw>
+
+-0.30103	fact <sw>
+
+-0.4712238	factor <sw>
+
+-0.7721051	factors <sw>
+
+-0.1995724	factory <sw>
+
+-0.2752621	facts <sw>
+
+-0.576292	faculty <sw>
+
+-0.2588323	fail <sw>
+
+-0.5245185	failed <sw>
+
+-0.404195	failure <sw>
+
+-0.2360892	fair <sw>
+
+-0.7721051	faith <sw>
+
+-0.8555667	fake <sw>
+
+-0.9284746	fall <sw>
+
+-0.4710751	famer <sw>
+
+-1.073135	familiar <sw>
+
+-0.4710751	familiarity <sw>
+
+-0.3721721	families <sw>
+
+-0.3590219	family <sw>
+
+-0.1918855	famous <sw>
+
+-0.6592171	fan <sw>
+
+-0.6002942	fans <sw>
+
+-1.073135	fantasy <sw>
+
+-0.1241735	far <sw>
+
+-0.2355285	farm <sw>
+
+-0.2023541	farmer <sw>
+
+-0.2108534	fashion <sw>
+
+-0.4710751	fass <sw>
+
+-0.8691638	fast <sw>
+
+-0.4513533	faster <sw>
+
+-0.4710751	fastfood <sw>
+
+-0.5522152	fat <sw>
+
+-0.7721051	fate <sw>
+
+-0.30103	father <sw>
+
+-0.4710751	fathom <sw>
+
+-0.3721721	fats <sw>
+
+-0.9481964	fattening <sw>
+
+-0.4513533	fault <sw>
+
+-0.4710751	favorable <sw>
+
+-0.5183001	favorite <sw>
+
+-0.7721051	favour <sw>
+
+-1.617203	favourite <sw>
+
+-0.1503233	fax <sw>
+
+-0.7721051	feasible <sw>
+
+-0.2658923	feature <sw>
+
+-0.4710751	featured <sw>
+
+-0.7721051	features <sw>
+
+-0.3784454	feb <sw>
+
+-1.170045	february <sw>
+
+-0.2023541	fedora <sw>
+
+-0.146128	fee <sw>
+
+-0.5245185	feed <sw>
+
+-0.2498775	feedback <sw>
+
+-0.3784454	feeding <sw>
+
+-0.8016323	feel <sw>
+
+-0.3679768	feeling <sw>
+
+-0.9481964	feelings <sw>
+
+-0.1426675	fees <sw>
+
+-0.1409535	feet <sw>
+
+-0.7721051	fellow <sw>
+
+-0.3187588	female <sw>
+
+-0.7721051	feminine <sw>
+
+-0.4710751	fend <sw>
+
+-0.4710751	fengshui <sw>
+
+-0.2023541	fergerson <sw>
+
+-0.4710751	fergie <sw>
+
+-1.073135	fermentation <sw>
+
+-0.4710751	ferry <sw>
+
+-0.7721051	fertilizers <sw>
+
+-0.3784454	fest <sw>
+
+-0.2730013	festival <sw>
+
+-0.3784454	festivals <sw>
+
+-0.9481964	fetch <sw>
+
+-0.4710751	fettish <sw>
+
+-1.51655	few <sw>
+
+-0.5033841	fi <sw>
+
+-0.6732021	fiber <sw>
+
+-0.3784454	fibonacci <sw>
+
+-0.9481964	fiction <sw>
+
+-0.2023541	ficture <sw>
+
+-0.2552725	field <sw>
+
+-0.4710751	fielder <sw>
+
+-0.2023541	fields <sw>
+
+-0.3784454	fieldwork <sw>
+
+-0.5183001	fierce <sw>
+
+-1.170045	fiesta <sw>
+
+-1.062909	fifteen <sw>
+
+-0.7617608	fifty <sw>
+
+-0.3309932	fight <sw>
+
+-0.6794754	figure <sw>
+
+-1.073135	figures <sw>
+
+-0.136838	file <sw>
+
+-0.4710751	filed <sw>
+
+-0.1503233	filer <sw>
+
+-0.1820959	files <sw>
+
+-0.7721051	filipino <sw>
+
+-1.249226	fill <sw>
+
+-0.4712238	film <sw>
+
+-0.2023541	films <sw>
+
+-0.5183001	filter <sw>
+
+-0.2023541	filtering <sw>
+
+-0.7231037	final <sw>
+
+-0.4710751	finalize <sw>
+
+-0.4390391	finally <sw>
+
+-0.1760913	finals <sw>
+
+-0.1865567	finance <sw>
+
+-0.8097795	financial <sw>
+
+-1.170045	financially <sw>
+
+-1.312192	find <sw>
+
+-0.4710751	finder <sw>
+
+-1.073135	finding <sw>
+
+-0.7721051	findings <sw>
+
+-0.3881802	fine <sw>
+
+-0.1503233	fingers <sw>
+
+-0.5488145	finish <sw>
+
+-0.7721051	finished <sw>
+
+-0.2023541	finland <sw>
+
+-0.4710751	fins <sw>
+
+-0.7464222	fire <sw>
+
+-0.9481964	firewall <sw>
+
+-0.1326256	firm <sw>
+
+-0.4710751	firms <sw>
+
+-1.039131	first <sw>
+
+-0.08518585	firstly <sw>
+
+-0.8541639	fish <sw>
+
+-0.4710751	fishes <sw>
+
+-0.04575749	fishing <sw>
+
+-0.4710751	fishmonger <sw>
+
+-0.2552725	fit <sw>
+
+-0.6274446	fitness <sw>
+
+-0.2023541	fitting <sw>
+
+-0.8114584	five <sw>
+
+-0.1064553	fix <sw>
+
+-0.4419835	fixed <sw>
+
+-0.9481964	flag <sw>
+
+-0.2498775	flash <sw>
+
+-0.4710751	flashy <sw>
+
+-0.1627273	flat <sw>
+
+-0.6002942	flavor <sw>
+
+-0.4710751	flavoured <sw>
+
+-0.2752621	flexi <sw>
+
+-0.3784454	flexibility <sw>
+
+-0.1497623	flexible <sw>
+
+-0.4710751	flicker <sw>
+
+-0.4710751	flicks <sw>
+
+-0.7721051	flier <sw>
+
+-0.8492934	flight <sw>
+
+-0.4710751	flights <sw>
+
+-0.6002942	flip <sw>
+
+-0.8044142	float <sw>
+
+-0.1503233	floater <sw>
+
+-0.9481964	floats <sw>
+
+-1.073135	flood <sw>
+
+-0.7721051	flooded <sw>
+
+-0.4710751	floodwater <sw>
+
+-0.3832167	floor <sw>
+
+-0.7721051	flop <sw>
+
+-0.9481964	florida <sw>
+
+-0.2752621	flour <sw>
+
+-0.2218488	flow <sw>
+
+-0.7721051	flower <sw>
+
+-0.2023541	flows <sw>
+
+-0.1503233	flu <sw>
+
+-0.7721051	fluency <sw>
+
+-0.7721051	fluent <sw>
+
+-0.5033841	fluid <sw>
+
+-0.4710751	fluorescent <sw>
+
+-0.2023541	flush <sw>
+
+-0.7721051	flute <sw>
+
+-1.047452	fly <sw>
+
+-0.1597008	flyer <sw>
+
+-0.7721051	flyers <sw>
+
+-1.249226	flying <sw>
+
+-0.4710751	flyover <sw>
+
+-0.1503233	foam <sw>
+
+-0.5614421	focus <sw>
+
+-0.7721051	folder <sw>
+
+-0.7721051	folks <sw>
+
+-0.6569086	follow <sw>
+
+-0.7721051	folsom <sw>
+
+-0.398873	food <sw>
+
+-0.7721051	foot <sw>
+
+-0.7721051	footage <sw>
+
+-0.5970692	football <sw>
+
+-0.4710751	foothold <sw>
+
+-0.7133008	for <sw>
+
+-0.1760913	force <sw>
+
+-0.4710751	forceps <sw>
+
+-0.7721051	forces <sw>
+
+-0.08518585	forecast <sw>
+
+-0.2752621	foreigner <sw>
+
+-0.6274446	foreigners <sw>
+
+-0.7721051	foresee <sw>
+
+-0.7464222	forest <sw>
+
+-0.5033841	forever <sw>
+
+-0.4710751	forfeit <sw>
+
+-1.077415	forget <sw>
+
+-1.170045	forgot <sw>
+
+-0.6197888	form <sw>
+
+-0.20412	formal <sw>
+
+-0.4710751	formally <sw>
+
+-0.08715018	format <sw>
+
+-0.7721051	formation <sw>
+
+-0.4710751	forming <sw>
+
+-0.4767456	formula <sw>
+
+-0.7721051	formulate <sw>
+
+-0.4710751	formulated <sw>
+
+-0.9481964	forth <sw>
+
+-1.649512	forty <sw>
+
+-0.05799195	forum <sw>
+
+-0.4771213	forward <sw>
+
+-0.4710751	forwarder <sw>
+
+-0.2023541	forwards <sw>
+
+-1.170045	fossil <sw>
+
+-0.3282239	foul <sw>
+
+-1.512468	found <sw>
+
+-0.3250958	foundation <sw>
+
+-0.6532125	four <sw>
+
+-0.4771213	fourteen <sw>
+
+-0.6002942	fox <sw>
+
+-0.4710751	foy <sw>
+
+-0.4710751	fragrance <sw>
+
+-0.1842385	frame <sw>
+
+-0.4710751	frames <sw>
+
+-0.2023541	framework <sw>
+
+-0.3170448	fran <sw>
+
+-0.1091445	france <sw>
+
+-0.3784454	fransisco <sw>
+
+-0.9481964	freak <sw>
+
+-0.4225625	free <sw>
+
+-0.3862158	freedom <sw>
+
+-0.4710751	freehand <sw>
+
+-0.1503233	freelance <sw>
+
+-0.1842385	freestyle <sw>
+
+-0.9481964	freeze <sw>
+
+-0.1802078	french <sw>
+
+-0.2079003	frequency <sw>
+
+-0.3170448	frequent <sw>
+
+-0.4710751	frequently <sw>
+
+-0.3233064	fresh <sw>
+
+-0.1383027	freshie <sw>
+
+-0.5183001	freshies <sw>
+
+-0.9805054	freshmen <sw>
+
+-0.4086639	friday <sw>
+
+-0.5033841	fridays <sw>
+
+-0.1503233	fridge <sw>
+
+-0.4831259	fried <sw>
+
+-0.3222193	friend <sw>
+
+-0.1995724	friendly <sw>
+
+-0.5024719	friends <sw>
+
+-0.6732021	friendship <sw>
+
+-0.7721051	friendster <sw>
+
+-0.4710751	frienster <sw>
+
+-1.170045	fries <sw>
+
+-1.374165	fright <sw>
+
+-0.6794754	frisbee <sw>
+
+-0.3784454	fro <sw>
+
+-0.765614	from <sw>
+
+-0.8813162	front <sw>
+
+-0.9481964	froster <sw>
+
+-0.4710751	frozen <sw>
+
+-0.2713886	fruit <sw>
+
+-0.3784454	frustrated <sw>
+
+-0.2023541	fry <sw>
+
+-0.4710751	fu <sw>
+
+-0.3784454	fuctional <sw>
+
+-0.3282239	fuel <sw>
+
+-0.7721051	fulfil <sw>
+
+-0.3282239	fulfill <sw>
+
+-0.9481964	fulfilling <sw>
+
+-1.679475	full <sw>
+
+-0.6732021	fully <sw>
+
+-0.7721051	fumes <sw>
+
+-0.5228788	fun <sw>
+
+-0.2162085	function <sw>
+
+-0.4191293	functional <sw>
+
+-0.7721051	functionality <sw>
+
+-0.1330859	fund <sw>
+
+-0.404195	fundamental <sw>
+
+-1.316173	fundamentals <sw>
+
+-0.4710751	funded <sw>
+
+-0.4710751	funding <sw>
+
+-0.4710751	fundings <sw>
+
+-0.5623071	funds <sw>
+
+-0.4710751	funeral <sw>
+
+-0.4710751	fungi <sw>
+
+-0.6118198	funny <sw>
+
+-0.4710751	furhter <sw>
+
+-0.2079003	furniture <sw>
+
+-0.8633371	further <sw>
+
+-0.4710751	furthermore <sw>
+
+-0.06177228	fusion <sw>
+
+-0.4710751	fussy <sw>
+
+-0.3547148	future <sw>
+
+-0.4710751	futuristic <sw>
+
+-0.6002942	fuzzy <sw>
+
+-0.6415559	g <sw>
+
+-0.9542425	g. <sw>
+
+-0.7721051	gadget <sw>
+
+-0.4710751	gaga <sw>
+
+-0.4710751	gai <sw>
+
+-0.5089303	gain <sw>
+
+-0.2023541	gallery <sw>
+
+-0.4710751	gamble <sw>
+
+-0.2612771	gambling <sw>
+
+-0.2252089	game <sw>
+
+-0.2538509	games <sw>
+
+-0.2612771	gaming <sw>
+
+-0.2752621	gamma <sw>
+
+-0.2281858	gandam <sw>
+
+-0.1820959	gang <sw>
+
+-0.4710751	ganger <sw>
+
+-0.5183001	gano <sw>
+
+-0.5623071	gap <sw>
+
+-0.30103	garden <sw>
+
+-0.4710751	gardens <sw>
+
+-0.4710751	garen <sw>
+
+-0.9481964	garlic <sw>
+
+-0.2108534	gate <sw>
+
+-0.3222193	gather <sw>
+
+-0.1512677	gathering <sw>
+
+-0.7721051	gatherings <sw>
+
+-0.5803683	gay <sw>
+
+-0.9481964	gear <sw>
+
+-0.7721051	geeky <sw>
+
+-0.103247	gender <sw>
+
+-0.08715018	gene <sw>
+
+-0.4259687	general <sw>
+
+-0.2023541	generalise <sw>
+
+-0.3439393	generally <sw>
+
+-0.2713886	generate <sw>
+
+-0.30103	generation <sw>
+
+-0.4710751	generator <sw>
+
+-0.7721051	generic <sw>
+
+-0.5183001	genetic <sw>
+
+-0.3784454	genetics <sw>
+
+-0.3784454	genre <sw>
+
+-0.4710751	gentech <sw>
+
+-0.1180993	genting <sw>
+
+-0.2023541	gentleman <sw>
+
+-0.7721051	gentlemanly <sw>
+
+-0.6002942	geog <sw>
+
+-0.1503233	geographic <sw>
+
+-0.2023541	geographical <sw>
+
+-1.374165	geography <sw>
+
+-0.2023541	geology <sw>
+
+-0.1842385	georgetown <sw>
+
+-0.4710751	gerald <sw>
+
+-0.4710751	gerard <sw>
+
+-0.7145948	german <sw>
+
+-0.376124	germany <sw>
+
+-1.239925	get <sw>
+
+-0.2752621	geylang <sw>
+
+-0.9481964	ghost <sw>
+
+-1.073135	ghosts <sw>
+
+-0.08518585	giant <sw>
+
+-0.2658923	gift <sw>
+
+-0.1760913	gig <sw>
+
+-0.4710751	gigabyte <sw>
+
+-0.4710751	gigi <sw>
+
+-0.7721051	ginger <sw>
+
+-0.5033841	ginseng <sw>
+
+-0.2023541	giraffe <sw>
+
+-0.5228788	girl <sw>
+
+-0.3152704	girlfriend <sw>
+
+-0.5642715	girls <sw>
+
+-0.1820959	gitar <sw>
+
+-2.483912	give <sw>
+
+-1.015267	given <sw>
+
+-0.9481964	glacier <sw>
+
+-1.015267	glass <sw>
+
+-0.8492934	global <sw>
+
+-0.3784454	globalization <sw>
+
+-0.4710751	globalized <sw>
+
+-0.4710751	globally <sw>
+
+-0.2658923	glove <sw>
+
+-0.4710751	gloves <sw>
+
+-0.4710751	glowing <sw>
+
+-0.3721721	glucose <sw>
+
+-0.7721051	glue <sw>
+
+-1.264588	go <sw>
+
+-0.404195	goal <sw>
+
+-0.6342447	god <sw>
+
+-0.4710751	godmother <sw>
+
+-0.4710751	godson <sw>
+
+-1.675195	goes <sw>
+
+-0.4710751	goggles <sw>
+
+-0.7721051	goh <sw>
+
+-2.56098	going <sw>
+
+-1.647166	gold <sw>
+
+-1.647166	golden <sw>
+
+-0.9481964	gombak <sw>
+
+-0.7464222	gone <sw>
+
+-0.4710751	gong <sw>
+
+-0.917768	good <sw>
+
+-0.4419835	goodies <sw>
+
+-0.9481964	goodness <sw>
+
+-0.4710751	goods <sw>
+
+-0.3117539	google <sw>
+
+-0.4710751	gore <sw>
+
+-0.3721721	gorgor <sw>
+
+-0.7721051	gorse <sw>
+
+-0.9481964	gosh <sw>
+
+-0.5623071	gossip <sw>
+
+-0.4710751	gossiping <sw>
+
+-1.37004	got <sw>
+
+-0.4710751	governenment <sw>
+
+-0.200565	government <sw>
+
+-0.4712238	grab <sw>
+
+-0.1820959	grace <sw>
+
+-0.146128	grad <sw>
+
+-0.3521825	grade <sw>
+
+-0.8044142	graded <sw>
+
+-0.4710751	graden <sw>
+
+-0.5292158	grades <sw>
+
+-0.1980458	graduate <sw>
+
+-0.9481964	graduated <sw>
+
+-1.170045	graduates <sw>
+
+-0.3862158	graduation <sw>
+
+-0.4710751	grady <sw>
+
+-0.5033841	grammar <sw>
+
+-0.2023541	grammer <sw>
+
+-0.7777756	grand <sw>
+
+-0.3784454	grandfather <sw>
+
+-0.1576079	grandma <sw>
+
+-0.1503233	grandmom <sw>
+
+-0.6002942	grandmother <sw>
+
+-0.1503233	grandpa <sw>
+
+-0.4710751	grandparent <sw>
+
+-0.2658923	grandparents <sw>
+
+-0.1249387	grant <sw>
+
+-0.1503233	grants <sw>
+
+-0.2023541	grap <sw>
+
+-0.4831259	graph <sw>
+
+-0.1627273	graphic <sw>
+
+-0.2793383	graphics <sw>
+
+-0.4710751	gravity <sw>
+
+-0.3784454	gravy <sw>
+
+-0.7721051	grayscale <sw>
+
+-0.2023541	greatest <sw>
+
+-0.9481964	greece <sw>
+
+-0.4710751	greedy <sw>
+
+-0.6879746	green <sw>
+
+-0.4710751	greeting <sw>
+
+-1.249226	grey <sw>
+
+-0.2023541	greyish <sw>
+
+-0.3721721	grid <sw>
+
+-1.073135	groom <sw>
+
+-0.3784454	grooming <sw>
+
+-1.316173	ground <sw>
+
+-0.3187588	group <sw>
+
+-0.2752621	grouping <sw>
+
+-0.4710751	groupings <sw>
+
+-1.550256	groups <sw>
+
+-0.9013242	grow <sw>
+
+-0.4710751	grumping <sw>
+
+-0.4710751	guarantee <sw>
+
+-0.1091445	guard <sw>
+
+-0.4710751	guardian <sw>
+
+-0.3721721	guards <sw>
+
+-1.332688	guess <sw>
+
+-0.4710751	gui <sw>
+
+-0.9481964	guidance <sw>
+
+-0.2016454	guide <sw>
+
+-0.2023541	guideline <sw>
+
+-0.3784454	guides <sw>
+
+-0.4710751	guild <sw>
+
+-1.170045	guilty <sw>
+
+-0.3521825	guitar <sw>
+
+-0.7721051	guitarist <sw>
+
+-0.4710751	gulp <sw>
+
+-1.073135	guni <sw>
+
+-0.2079003	gurney <sw>
+
+-0.4710751	gusto <sw>
+
+-0.6651117	guy <sw>
+
+-0.6532125	guys <sw>
+
+-0.3467875	gym <sw>
+
+-1.726348	h <sw>
+
+-1.144185	h. <sw>
+
+-0.1503233	h.r. <sw>
+
+-0.4710751	h.r.ah <sw>
+
+-0.8981265	ha <sw>
+
+-0.9481964	habit <sw>
+
+-0.1820959	habits <sw>
+
+-0.4710751	habour <sw>
+
+-0.3784454	hack <sw>
+
+-0.4710751	hacking <sw>
+
+-0.7721051	hague <sw>
+
+-0.4710751	hah <sw>
+
+-0.4913617	hair <sw>
+
+-1.073135	hairstyle <sw>
+
+-0.6002942	hakka <sw>
+
+-0.9815166	half <sw>
+
+-0.7383984	halfway <sw>
+
+-0.4328986	hall <sw>
+
+-0.5033841	halloween <sw>
+
+-0.8193301	halls <sw>
+
+-0.7721051	hammer <sw>
+
+-0.4710751	hamper <sw>
+
+-0.5642715	hand <sw>
+
+-0.2752621	handball <sw>
+
+-0.2023541	handicapped <sw>
+
+-0.4710751	handicraft <sw>
+
+-0.2071255	handle <sw>
+
+-0.7721051	handover <sw>
+
+-0.1383027	handphone <sw>
+
+-0.7690079	handsome <sw>
+
+-1.073135	handwriting <sw>
+
+-0.4710751	handyplas <sw>
+
+-0.2839966	hang <sw>
+
+-0.4710751	hangover <sw>
+
+-0.1820959	hanor <sw>
+
+-0.4710751	hansel <sw>
+
+-0.9585642	happen <sw>
+
+-0.9013242	happened <sw>
+
+-0.1995724	happening <sw>
+
+-0.5392691	happy <sw>
+
+-0.30103	har <sw>
+
+-1.170045	harbour <sw>
+
+-0.8129134	hard <sw>
+
+-0.4710751	hardisk <sw>
+
+-0.1091445	hardware <sw>
+
+-0.2612771	hardworking <sw>
+
+-0.7721051	harmony <sw>
+
+-0.4710751	harvard <sw>
+
+-0.2612771	harvest <sw>
+
+-1.268456	has <sw>
+
+-0.06177228	hat <sw>
+
+-0.5033841	hatyai <sw>
+
+-1.475229	have <sw>
+
+-1.204681	haven't <sw>
+
+-0.2612771	havoc <sw>
+
+-0.1820959	hawaii <sw>
+
+-1.015625	hawker <sw>
+
+-0.4710751	hawkers <sw>
+
+-0.4710751	hazard <sw>
+
+-1.836377	he <sw>
+
+-2.263467	he's <sw>
+
+-0.4771213	head <sw>
+
+-0.4710751	headcount <sw>
+
+-0.7721051	headlines <sw>
+
+-0.4710751	headphone <sw>
+
+-0.7721051	headphones <sw>
+
+-0.3784454	headquarter <sw>
+
+-0.08518585	headquarters <sw>
+
+-0.4710751	heads <sw>
+
+-0.4710751	headshot <sw>
+
+-0.9481964	healing <sw>
+
+-0.4586379	health <sw>
+
+-0.7145948	healthy <sw>
+
+-1.701524	hear <sw>
+
+-1.095948	heard <sw>
+
+-0.08518585	hearing <sw>
+
+-0.6292539	heart <sw>
+
+-0.4710751	heartedly <sw>
+
+-0.08715018	heat <sw>
+
+-0.103247	heater <sw>
+
+-0.3282239	heavy <sw>
+
+-0.5033841	heels <sw>
+
+-0.7721051	heh <sw>
+
+-0.7721051	hehehe <sw>
+
+-0.4513533	height <sw>
+
+-0.08715018	helicopter <sw>
+
+-0.5669222	hell <sw>
+
+-0.6491725	hello <sw>
+
+-0.8346326	help <sw>
+
+-0.9481964	helped <sw>
+
+-0.3784454	helper <sw>
+
+-0.4710751	helpless <sw>
+
+-0.5033841	heng <sw>
+
+-0.4710751	henry <sw>
+
+-0.3784454	hepatitis <sw>
+
+-0.9578023	her <sw>
+
+-0.0234811	herbalife <sw>
+
+-0.2023541	herballife <sw>
+
+-0.7721051	herbs <sw>
+
+-0.980256	here <sw>
+
+-0.7145948	heritage <sw>
+
+-0.2793383	hero <sw>
+
+-0.2281858	heroes <sw>
+
+-0.7721051	hers <sw>
+
+-0.3721721	hesitate <sw>
+
+-0.2272438	hexis <sw>
+
+-0.8044142	hey <sw>
+
+-1.077415	hi <sw>
+
+-1.316173	hidden <sw>
+
+-0.7721051	hide <sw>
+
+-0.9669235	high <sw>
+
+-0.06177228	highland <sw>
+
+-0.5033841	highlight <sw>
+
+-0.1918855	highway <sw>
+
+-0.4710751	hilarious <sw>
+
+-0.4390391	hill <sw>
+
+-0.7721051	hills <sw>
+
+-0.4710751	hilton <sw>
+
+-0.9542425	him <sw>
+
+-1.073135	himself <sw>
+
+-1.073135	hint <sw>
+
+-0.5033841	hire <sw>
+
+-0.7721051	hired <sw>
+
+-0.7721051	hiring <sw>
+
+-0.4710751	hirojima <sw>
+
+-0.4710751	hiroshima <sw>
+
+-1.888096	his <sw>
+
+-1.170045	historical <sw>
+
+-0.288065	history <sw>
+
+-0.3467875	hit <sw>
+
+-0.4710751	hiyah <sw>
+
+-0.5970692	hmm <sw>
+
+-0.2658923	hmmm <sw>
+
+-0.2023541	ho <sw>
+
+-0.4060872	hobbies <sw>
+
+-0.30103	hobby <sw>
+
+-0.3679768	hockey <sw>
+
+-0.4710751	hog <sw>
+
+-0.4710751	hokkaido <sw>
+
+-0.2954261	hokkien <sw>
+
+-0.3802112	hold <sw>
+
+-0.9481964	holding <sw>
+
+-0.7721051	holdings <sw>
+
+-0.1503233	hole <sw>
+
+-0.1933961	holiday <sw>
+
+-0.3452336	holidays <sw>
+
+-0.4710751	holistic <sw>
+
+-0.4191293	holland <sw>
+
+-0.2373609	hollywood <sw>
+
+-0.4710751	holographic <sw>
+
+-0.6222634	home <sw>
+
+-0.4710751	homemade <sw>
+
+-0.4710751	homes <sw>
+
+-0.04575749	hometown <sw>
+
+-0.4373684	homework <sw>
+
+-0.5183001	honest <sw>
+
+-0.7721051	honestly <sw>
+
+-1.374165	honey <sw>
+
+-0.7464222	honeymoon <sw>
+
+-0.2658923	hongkong <sw>
+
+-0.3784454	honors <sw>
+
+-0.7523834	honours <sw>
+
+-0.2281858	hook <sw>
+
+-0.4710751	hoons <sw>
+
+-0.2658923	hop <sw>
+
+-1.104566	hope <sw>
+
+-0.3357921	hopefully <sw>
+
+-0.4710751	hopper <sw>
+
+-0.2486957	hor <sw>
+
+-0.2023541	horcruxes <sw>
+
+-0.7721051	horizon <sw>
+
+-0.7721051	horizontal <sw>
+
+-0.7721051	hormone <sw>
+
+-0.103247	horn <sw>
+
+-0.7464222	horrible <sw>
+
+-1.316173	horror <sw>
+
+-0.4710751	horse <sw>
+
+-0.2752621	horses <sw>
+
+-0.2905646	hospital <sw>
+
+-0.7721051	hospitalised <sw>
+
+-0.6794754	host <sw>
+
+-0.2319491	hostel <sw>
+
+-0.5118834	hot <sw>
+
+-0.5033841	hotdog <sw>
+
+-0.2138798	hotel <sw>
+
+-0.2023541	hotmail <sw>
+
+-0.9481964	hougang <sw>
+
+-0.4620923	hour <sw>
+
+-0.4676797	hours <sw>
+
+-0.399709	house <sw>
+
+-0.7721051	household <sw>
+
+-0.4710751	housemates <sw>
+
+-0.5033841	houses <sw>
+
+-0.2808266	housing <sw>
+
+-1.568202	how <sw>
+
+-0.4710751	hp <sw>
+
+-0.3784454	hub <sw>
+
+-0.7721051	hug <sw>
+
+-1.170045	huge <sw>
+
+-0.2980451	huh <sw>
+
+-0.6279359	human <sw>
+
+-1.249226	humanities <sw>
+
+-0.1503233	humans <sw>
+
+-0.7721051	humble <sw>
+
+-0.4710751	humid <sw>
+
+-0.103247	humidity <sw>
+
+-0.6274446	humour <sw>
+
+-0.9879911	hundred <sw>
+
+-1.249226	hungry <sw>
+
+-0.3784454	hunter <sw>
+
+-0.8555667	hur <sw>
+
+-0.4710751	hurricane <sw>
+
+-0.3590219	husband <sw>
+
+-0.2079003	hut <sw>
+
+-0.1820959	hybrid <sw>
+
+-1.834148	i <sw>
+
+-1.747944	i'm <sw>
+
+-1.103541	i. <sw>
+
+-0.4710751	i.s.o. <sw>
+
+-0.2218488	i.t. <sw>
+
+-0.4710751	i.t.system <sw>
+
+-0.4710751	ibm <sw>
+
+-1.204681	ice <sw>
+
+-0.7721051	iceberg <sw>
+
+-0.4710751	icing <sw>
+
+-0.4710751	iconic <sw>
+
+-0.7721051	icy <sw>
+
+-0.2101104	idea <sw>
+
+-0.1383027	ideal <sw>
+
+-0.4831259	ideas <sw>
+
+-0.4710751	identification <sw>
+
+-0.1249387	identify <sw>
+
+-0.1383027	identity <sw>
+
+-0.4710751	idioms <sw>
+
+-0.2658923	idol <sw>
+
+-0.2023541	ielts <sw>
+
+-0.7615731	if <sw>
+
+-0.2752621	ifarm <sw>
+
+-0.4710751	ifest <sw>
+
+-0.1820959	ikea <sw>
+
+-0.9481964	illegal <sw>
+
+-0.6002942	illness <sw>
+
+-0.4710751	illustrated <sw>
+
+-1.869015	im <sw>
+
+-0.2752621	ima <sw>
+
+-0.2218488	image <sw>
+
+-0.7721051	images <sw>
+
+-0.1818436	imagine <sw>
+
+-0.7721051	imaging <sw>
+
+-0.9481964	imitate <sw>
+
+-0.4710751	imitating <sw>
+
+-0.6002942	immediately <sw>
+
+-0.4710751	immoral <sw>
+
+-0.2793383	impact <sw>
+
+-0.7721051	impe <sw>
+
+-0.3250958	implement <sw>
+
+-0.4710751	implementation <sw>
+
+-0.09691001	import <sw>
+
+-0.3784454	importance <sw>
+
+-0.5282738	important <sw>
+
+-0.5033841	imported <sw>
+
+-0.5033841	imports <sw>
+
+-0.7721051	impose <sw>
+
+-0.6274446	impossible <sw>
+
+-0.2023541	impresario <sw>
+
+-0.7721051	impress <sw>
+
+-0.6794754	impression <sw>
+
+-0.9481964	impressive <sw>
+
+-0.09017663	improve <sw>
+
+-0.3250958	improvement <sw>
+
+-0.3784454	improvise <sw>
+
+-0.8800175	in <sw>
+
+-0.4710751	inactive <sw>
+
+-0.7721051	inbox <sw>
+
+-0.576292	incentive <sw>
+
+-0.1503233	incentives <sw>
+
+-0.3721721	inception <sw>
+
+-0.4710751	incharged <sw>
+
+-1.073135	incident <sw>
+
+-0.4710751	incinerate <sw>
+
+-1.073135	inclined <sw>
+
+-0.4390391	include <sw>
+
+-0.9481964	included <sw>
+
+-0.3862158	including <sw>
+
+-0.08518585	inclusive <sw>
+
+-0.2319491	income <sw>
+
+-0.4710751	incompleted <sw>
+
+-0.3721721	inconvenient <sw>
+
+-0.7721051	incorporate <sw>
+
+-0.2082759	increase <sw>
+
+-0.2752621	increment <sw>
+
+-0.4710751	incubate <sw>
+
+-0.4710751	incubator <sw>
+
+-0.4710751	incurvate <sw>
+
+-0.4710751	independence <sw>
+
+-0.4712238	independent <sw>
+
+-0.2023541	indepth <sw>
+
+-0.2752621	index <sw>
+
+-0.3617278	india <sw>
+
+-0.544068	indian <sw>
+
+-0.3784454	indians <sw>
+
+-0.4710751	indirect <sw>
+
+-0.1503233	indirectly <sw>
+
+-0.30103	individual <sw>
+
+-0.7721051	individually <sw>
+
+-0.3784454	indo <sw>
+
+-0.3784454	indoeuropean <sw>
+
+-0.2671717	indonesia <sw>
+
+-0.4710751	indonesians <sw>
+
+-0.3784454	indoor <sw>
+
+-0.3784454	induce <sw>
+
+-0.8633371	industrial <sw>
+
+-0.1710705	industry <sw>
+
+-0.3721721	infected <sw>
+
+-0.7721051	infer <sw>
+
+-0.1918855	influence <sw>
+
+-1.425318	info <sw>
+
+-0.1249387	inform <sw>
+
+-0.2612771	informal <sw>
+
+-0.9481964	informatic <sw>
+
+-0.3547148	information <sw>
+
+-0.4710751	informative <sw>
+
+-0.3721721	infrastructure <sw>
+
+-0.7145948	infuse <sw>
+
+-0.1701938	ingredient <sw>
+
+-0.7721051	inhomogeneity <sw>
+
+-0.7871454	initially <sw>
+
+-0.5033841	initiate <sw>
+
+-0.4712238	initiation <sw>
+
+-0.404277	initiative <sw>
+
+-0.7721051	inject <sw>
+
+-0.7721051	injection <sw>
+
+-0.6794754	injured <sw>
+
+-0.4710751	injuries <sw>
+
+-0.3664885	injury <sw>
+
+-0.2023541	ink <sw>
+
+-0.7721051	inn <sw>
+
+-0.4710751	innovate <sw>
+
+-0.4710751	innovative <sw>
+
+-0.3862158	input <sw>
+
+-0.5033841	insect <sw>
+
+-0.7721051	insects <sw>
+
+-0.4710751	inseption <sw>
+
+-0.2023541	insert <sw>
+
+-0.9648623	inside <sw>
+
+-0.9481964	insist <sw>
+
+-0.4710751	insomnia <sw>
+
+-0.7721051	inspect <sw>
+
+-0.3784454	inspection <sw>
+
+-0.1983677	install <sw>
+
+-0.4710751	installer <sw>
+
+-0.4710751	installment <sw>
+
+-0.4710751	instance <sw>
+
+-1.249226	instant <sw>
+
+-0.4710751	instantaneous <sw>
+
+-1.445392	instead <sw>
+
+-0.7721051	institution <sw>
+
+-0.2023541	instruction <sw>
+
+-1.073135	instructions <sw>
+
+-0.01930515	instructor <sw>
+
+-0.3784454	instructors <sw>
+
+-0.2914847	instrument <sw>
+
+-0.4710751	instrumentation <sw>
+
+-0.2023541	instruments <sw>
+
+-0.2023541	instrunment <sw>
+
+-0.2281858	insulin <sw>
+
+-0.4373684	insurance <sw>
+
+-0.2023541	insurances <sw>
+
+-0.4710751	insurans <sw>
+
+-0.3862158	intake <sw>
+
+-0.08518585	integrate <sw>
+
+-0.9481964	integrated <sw>
+
+-1.073135	integration <sw>
+
+-0.09091965	intel <sw>
+
+-0.4710751	inteler <sw>
+
+-0.5033841	intelligent <sw>
+
+-0.7721051	intend <sw>
+
+-1.249226	intensive <sw>
+
+-0.7464222	intention <sw>
+
+-1.180078	inter <sw>
+
+-0.3424227	interact <sw>
+
+-0.4710751	interacting <sw>
+
+-0.4373684	interaction <sw>
+
+-0.3617278	interactive <sw>
+
+-0.9427168	interchange <sw>
+
+-0.1503233	intercom <sw>
+
+-0.3372422	interest <sw>
+
+-0.5496719	interested <sw>
+
+-0.2780808	interesting <sw>
+
+-0.1627273	interface <sw>
+
+-0.4710751	intergration <sw>
+
+-0.4710751	interline <sw>
+
+-0.2023541	intermediate <sw>
+
+-0.3091772	intern <sw>
+
+-0.7383984	internal <sw>
+
+-0.7721051	internally <sw>
+
+-0.5259698	international <sw>
+
+-0.4710751	internationally <sw>
+
+-0.1666497	internet <sw>
+
+-0.4710751	internmentation <sw>
+
+-0.2023541	interns <sw>
+
+-0.2808266	internship <sw>
+
+-0.4710751	internships <sw>
+
+-0.7721051	interpretation <sw>
+
+-0.7721051	interpreter <sw>
+
+-0.2023541	interrogate <sw>
+
+-0.4710751	interrupt <sw>
+
+-0.4710751	interruption <sw>
+
+-0.4710751	interspeech <sw>
+
+-0.4710751	interst <sw>
+
+-0.4710751	interval <sw>
+
+-0.4710751	intervertif <sw>
+
+-0.1654723	interview <sw>
+
+-0.4710751	interviewee <sw>
+
+-0.4710751	interviewees <sw>
+
+-0.2752621	interviewer <sw>
+
+-0.4710751	intestine <sw>
+
+-0.871427	into <sw>
+
+-0.4710751	intradeco <sw>
+
+-0.5033841	intravenous <sw>
+
+-0.4710751	intresting <sw>
+
+-0.3664885	introduce <sw>
+
+-0.1503233	invent <sw>
+
+-0.146128	invest <sw>
+
+-0.3735807	investment <sw>
+
+-0.5033841	investments <sw>
+
+-0.3784454	invitation <sw>
+
+-0.1139434	invite <sw>
+
+-0.2752621	invoice <sw>
+
+-0.4710751	invoicing <sw>
+
+-0.4341159	involve <sw>
+
+-0.243038	involved <sw>
+
+-0.3784454	involvement <sw>
+
+-0.4710751	involves <sw>
+
+-0.3091772	iphone <sw>
+
+-0.7721051	ipod <sw>
+
+-0.2023541	iran <sw>
+
+-0.3784454	iras <sw>
+
+-0.7721051	irene <sw>
+
+-0.4710751	ironically <sw>
+
+-0.7721051	irritate <sw>
+
+-1.015267	irritating <sw>
+
+-1.114171	is <sw>
+
+-0.4710751	islam <sw>
+
+-0.1538149	island <sw>
+
+-0.6002942	islands <sw>
+
+-0.2612771	isolate <sw>
+
+-0.9481964	isolated <sw>
+
+-0.2612771	israel <sw>
+
+-0.4710751	isreal <sw>
+
+-0.1983677	issue <sw>
+
+-0.7721051	issues <sw>
+
+-1.022033	it <sw>
+
+-1.433025	it's <sw>
+
+-0.1820959	italian <sw>
+
+-0.4710751	italians <sw>
+
+-0.08715018	italy <sw>
+
+-0.9481964	item <sw>
+
+-0.1503233	items <sw>
+
+-0.2023541	iteration <sw>
+
+-0.5183001	itinerary <sw>
+
+-1.749049	its <sw>
+
+-0.2887955	itself <sw>
+
+-0.4712238	ivan <sw>
+
+-0.3784454	ivory <sw>
+
+-0.6118198	j <sw>
+
+-0.9457682	j. <sw>
+
+-0.2808266	jabil <sw>
+
+-1.374165	jack <sw>
+
+-0.4513533	jacket <sw>
+
+-0.1820959	jackson <sw>
+
+-0.2138798	jacqueline <sw>
+
+-0.3784454	jade <sw>
+
+-0.1503233	jakarta <sw>
+
+-0.2092596	jam <sw>
+
+-0.4710751	jamming <sw>
+
+-0.1918855	january <sw>
+
+-0.4341159	jap <sw>
+
+-0.3458423	japan <sw>
+
+-0.39794	japanese <sw>
+
+-0.1503233	jasmine <sw>
+
+-0.2138798	java <sw>
+
+-0.9481964	jazreel <sw>
+
+-0.1760913	jazz <sw>
+
+-0.4710751	jean <sw>
+
+-0.2752621	jellyfish <sw>
+
+-0.9481964	jen <sw>
+
+-0.7721051	jenny <sw>
+
+-0.4710751	jeopardize <sw>
+
+-0.7721051	jeremy <sw>
+
+-0.4710751	jerrin <sw>
+
+-0.6002942	jersey <sw>
+
+-0.5033841	jetstar <sw>
+
+-0.7721051	jetty <sw>
+
+-0.4710751	jewelleries <sw>
+
+-0.4710751	jiala <sw>
+
+-0.3721721	jimmy <sw>
+
+-0.4710751	jio <sw>
+
+-0.4710751	jo <sw>
+
+-0.4513533	joanne <sw>
+
+-0.4004146	job <sw>
+
+-0.8555667	jobs <sw>
+
+-0.1503233	jobstreet <sw>
+
+-0.3784454	joe <sw>
+
+-0.9481964	joel <sw>
+
+-0.3170448	jogging <sw>
+
+-0.7721051	john <sw>
+
+-0.6794754	johnson <sw>
+
+-0.404195	johor <sw>
+
+-0.03476211	johore <sw>
+
+-0.4710751	joice <sw>
+
+-0.3795587	join <sw>
+
+-1.170045	joining <sw>
+
+-0.2612771	joke <sw>
+
+-0.4710751	joker <sw>
+
+-0.2752621	jokes <sw>
+
+-0.2752621	jolie <sw>
+
+-0.4710751	jone <sw>
+
+-0.2023541	jorel <sw>
+
+-0.1820959	jose <sw>
+
+-0.03778856	journal <sw>
+
+-0.1760913	journalism <sw>
+
+-1.170045	journalist <sw>
+
+-0.4373684	journey <sw>
+
+-0.4710751	jovial <sw>
+
+-0.4513533	joy <sw>
+
+-0.2658923	judge <sw>
+
+-0.4710751	judges <sw>
+
+-0.7721051	juggle <sw>
+
+-0.09691001	juice <sw>
+
+-0.4419835	july <sw>
+
+-0.6279359	jump <sw>
+
+-0.5033841	jumping <sw>
+
+-0.7721051	junction <sw>
+
+-0.3565473	june <sw>
+
+-0.3862158	jungle <sw>
+
+-0.544068	junior <sw>
+
+-0.09691001	juniors <sw>
+
+-0.6868236	jurong <sw>
+
+-0.4710751	jusco <sw>
+
+-0.7463351	just <sw>
+
+-0.4710751	justified <sw>
+
+-0.4710751	justify <sw>
+
+-0.2752621	justin <sw>
+
+-0.4929155	k <sw>
+
+-0.4313638	k. <sw>
+
+-0.2752621	k.l. <sw>
+
+-0.4710751	kala <sw>
+
+-0.2023541	kalimantan <sw>
+
+-0.7464222	kallang <sw>
+
+-0.4710751	kana <sw>
+
+-1.249226	kang <sw>
+
+-0.4710751	kangaroo <sw>
+
+-0.3091772	karaoke <sw>
+
+-0.4710751	karate <sw>
+
+-0.9481964	kardashian <sw>
+
+-0.4710751	kaspersky <sw>
+
+-0.4710751	katherina <sw>
+
+-0.4710751	kayak <sw>
+
+-1.170045	kayaking <sw>
+
+-0.4710751	kaypoh <sw>
+
+-0.7224511	keep <sw>
+
+-0.7721051	keeper <sw>
+
+-0.4710751	keepers <sw>
+
+-0.5033841	keeping <sw>
+
+-0.7721051	ken <sw>
+
+-0.4710751	kenneth <sw>
+
+-1.249226	kenny <sw>
+
+-0.5033841	kent <sw>
+
+-0.4710751	kerb <sw>
+
+-0.7721051	kernel <sw>
+
+-0.1820959	kernelise <sw>
+
+-0.2023541	kester <sw>
+
+-0.7721051	ketchup <sw>
+
+-0.4771213	key <sw>
+
+-0.3862158	keyboard <sw>
+
+-1.073135	keypad <sw>
+
+-0.9481964	keyword <sw>
+
+-0.1383027	keywords <sw>
+
+-0.2373609	kick <sw>
+
+-0.9427168	kid <sw>
+
+-0.4710751	kidding <sw>
+
+-0.7721051	kiddy <sw>
+
+-0.9481964	kidney <sw>
+
+-0.5932512	kids <sw>
+
+-0.7523834	kill <sw>
+
+-0.4710751	killer <sw>
+
+-0.1503233	kilometer <sw>
+
+-0.7721051	kilometers <sw>
+
+-0.7721051	kilometre <sw>
+
+-0.7721051	kilometres <sw>
+
+-0.6274446	kim <sw>
+
+-0.9481964	kimchi <sw>
+
+-0.2752621	kinabalu <sw>
+
+-1.314633	kind <sw>
+
+-0.7464222	kindergarten <sw>
+
+-0.4710751	kinematics <sw>
+
+-0.5183001	king <sw>
+
+-0.6002942	kingdom <sw>
+
+-0.9481964	kino <sw>
+
+-0.2023541	kio <sw>
+
+-0.1503233	kiss <sw>
+
+-0.9481964	kit <sw>
+
+-0.07509399	kitchen <sw>
+
+-0.4710751	kits <sw>
+
+-0.7721051	kitty <sw>
+
+-0.4710751	kiwi <sw>
+
+-0.4710751	kiyosaki <sw>
+
+-0.9481964	klang <sw>
+
+-0.1701938	knee <sw>
+
+-0.8073868	know <sw>
+
+-0.7721051	knowing <sw>
+
+-0.2118068	knowledge <sw>
+
+-0.8555667	known <sw>
+
+-0.3309932	kong <sw>
+
+-0.4710751	koran <sw>
+
+-0.39794	korea <sw>
+
+-0.5873367	korean <sw>
+
+-0.2752621	kovan <sw>
+
+-0.7721051	krukawa <sw>
+
+-0.03476211	kulim <sw>
+
+-0.4710751	kursus <sw>
+
+-0.2023541	kuta <sw>
+
+-0.4710751	kyo <sw>
+
+-0.5970692	l <sw>
+
+-0.3209802	l. <sw>
+
+-0.6541221	la <sw>
+
+-0.1873306	lab <sw>
+
+-0.6794754	lab. <sw>
+
+-0.5033841	label <sw>
+
+-0.4710751	labor <sw>
+
+-0.4710751	laboratory <sw>
+
+-0.4710751	labors <sw>
+
+-0.2793383	labour <sw>
+
+-0.4710751	labs <sw>
+
+-0.6274446	lactase <sw>
+
+-1.073135	lactose <sw>
+
+-0.4710751	ladies <sw>
+
+-1.249226	lady <sw>
+
+-0.4710751	lagoon <sw>
+
+-0.5554079	lah <sw>
+
+-0.3721721	lakers <sw>
+
+-0.5245185	laksa <sw>
+
+-0.4710751	lalabee <sw>
+
+-0.4710751	lamborghini <sw>
+
+-0.08715018	lame <sw>
+
+-0.4710751	lamma <sw>
+
+-0.7721051	lamp <sw>
+
+-0.30103	land <sw>
+
+-0.1820959	landfill <sw>
+
+-0.7721051	landform <sw>
+
+-0.1820959	landing <sw>
+
+-0.7721051	landscape <sw>
+
+-0.4710751	landscaping <sw>
+
+-0.4710751	landslide <sw>
+
+-0.1409535	lane <sw>
+
+-0.4710751	lang <sw>
+
+-0.6794754	langkawi <sw>
+
+-0.2976764	language <sw>
+
+-0.8044142	languages <sw>
+
+-0.4710751	lanterns <sw>
+
+-0.09275405	laptop <sw>
+
+-1.803711	last <sw>
+
+-0.7721051	lasting <sw>
+
+-0.5910646	late <sw>
+
+-0.4973246	later <sw>
+
+-0.3282239	latest <sw>
+
+-0.7721051	latin <sw>
+
+-0.9013242	laughing <sw>
+
+-0.2752621	laughter <sw>
+
+-0.2612771	launch <sw>
+
+-0.2023541	launching <sw>
+
+-1.249226	laundry <sw>
+
+-0.4710751	lavish <sw>
+
+-0.1104125	law <sw>
+
+-0.4710751	lawsuits <sw>
+
+-0.5033841	lawyer <sw>
+
+-0.7464222	lay <sw>
+
+-0.229996	layer <sw>
+
+-0.2612771	layout <sw>
+
+-0.794166	lazy <sw>
+
+-0.4710751	lea <sw>
+
+-0.4771213	lead <sw>
+
+-0.2609128	leader <sw>
+
+-0.6002942	leaders <sw>
+
+-1.077415	leadership <sw>
+
+-0.9481964	leading <sw>
+
+-0.2752621	leaf <sw>
+
+-1.073135	league <sw>
+
+-0.6833649	learn <sw>
+
+-0.4710751	learners <sw>
+
+-0.7351459	learning <sw>
+
+-0.9481964	learnt <sw>
+
+-0.3073702	least <sw>
+
+-0.312311	leave <sw>
+
+-0.6002942	lebar <sw>
+
+-0.3679768	lecture <sw>
+
+-0.08218676	lecturer <sw>
+
+-0.2023541	lecturers <sw>
+
+-0.3250958	lectures <sw>
+
+-0.4710751	lecturing <sw>
+
+-0.8239087	left <sw>
+
+-1.170045	legal <sw>
+
+-0.1503233	legend <sw>
+
+-0.4710751	legible <sw>
+
+-0.544068	leh <sw>
+
+-0.6675185	lei <sw>
+
+-0.6794754	lemak <sw>
+
+-0.4710751	lemonade <sw>
+
+-0.9481964	lend <sw>
+
+-0.4710751	leng <sw>
+
+-0.2793383	length <sw>
+
+-0.3282239	lens <sw>
+
+-0.05115252	lense <sw>
+
+-0.5033841	leopard <sw>
+
+-0.2023541	lesion <sw>
+
+-1.554537	less <sw>
+
+-0.3784454	lesser <sw>
+
+-0.4227636	lesson <sw>
+
+-0.6292539	lessons <sw>
+
+-2.368702	let <sw>
+
+-0.462398	letter <sw>
+
+-0.1991239	level <sw>
+
+-0.2138798	levels <sw>
+
+-0.4710751	levis <sw>
+
+-0.4710751	li <sw>
+
+-0.9481964	liaise <sw>
+
+-0.2023541	lian <sw>
+
+-0.4205058	liao <sw>
+
+-0.4710751	liar <sw>
+
+-0.7721051	librarian <sw>
+
+-0.1638568	library <sw>
+
+-0.2793383	licence <sw>
+
+-0.1576079	license <sw>
+
+-0.4710751	licenses <sw>
+
+-0.4710751	lick <sw>
+
+-0.4710751	licrystal <sw>
+
+-1.249226	lie <sw>
+
+-0.4159134	life <sw>
+
+-0.4710751	lifecycle <sw>
+
+-0.08432089	lifeguard <sw>
+
+-0.4710751	lifer <sw>
+
+-0.4710751	lifespan <sw>
+
+-0.2730013	lifestyle <sw>
+
+-0.7721051	lifetime <sw>
+
+-0.1663314	lift <sw>
+
+-0.2388821	light <sw>
+
+-0.4710751	lighter <sw>
+
+-0.3170448	lighting <sw>
+
+-0.6274446	lights <sw>
+
+-0.5499576	like <sw>
+
+-0.5183001	likely <sw>
+
+-0.2752621	limestone <sw>
+
+-0.1663314	limit <sw>
+
+-0.2023541	limitation <sw>
+
+-0.7721051	limitations <sw>
+
+-0.3250958	limited <sw>
+
+-0.3784454	lina <sw>
+
+-0.7721051	linch <sw>
+
+-0.3082086	line <sw>
+
+-0.3282239	lines <sw>
+
+-1.249226	ling <sw>
+
+-0.7145948	linguistic <sw>
+
+-0.6794754	linguistics <sw>
+
+-0.30103	link <sw>
+
+-0.4710751	linkage <sw>
+
+-0.4710751	links <sw>
+
+-0.4710751	linkup <sw>
+
+-0.2079003	linus <sw>
+
+-0.2108534	linux <sw>
+
+-0.9481964	lipid <sw>
+
+-0.4513533	liquor <sw>
+
+-0.4710751	lisa <sw>
+
+-0.2009148	list <sw>
+
+-1.170045	listed <sw>
+
+-1.869015	listen <sw>
+
+-1.170045	lit <sw>
+
+-0.1820959	literally <sw>
+
+-0.8773221	literature <sw>
+
+-0.7430135	little <sw>
+
+-0.9538669	live <sw>
+
+-0.2023541	liver <sw>
+
+-0.2023541	liverpool <sw>
+
+-0.9954214	living <sw>
+
+-0.2079003	lizard <sw>
+
+-0.7346855	lo <sw>
+
+-0.1165056	load <sw>
+
+-0.2281858	loan <sw>
+
+-0.3784454	loans <sw>
+
+-0.3344538	local <sw>
+
+-0.2023541	locally <sw>
+
+-0.2281858	locals <sw>
+
+-0.7721051	located <sw>
+
+-0.4831259	location <sw>
+
+-0.4373684	lock <sw>
+
+-0.9481964	lodging <sw>
+
+-0.9427168	log <sw>
+
+-0.2023541	logging <sw>
+
+-0.3250958	logic <sw>
+
+-0.3784454	logical <sw>
+
+-0.4710751	logically <sw>
+
+-0.1820959	login <sw>
+
+-0.3250958	logistic <sw>
+
+-0.3170448	logistics <sw>
+
+-0.09691001	logo <sw>
+
+-0.4807254	loh <sw>
+
+-0.1918855	london <sw>
+
+-0.4710751	loner <sw>
+
+-1.159701	long <sw>
+
+-1.374165	longer <sw>
+
+-0.4710751	longest <sw>
+
+-1.508432	look <sw>
+
+-1.469526	looking <sw>
+
+-0.5033841	loop <sw>
+
+-0.4710751	looping <sw>
+
+-0.6013054	lor <sw>
+
+-0.6462637	lorh <sw>
+
+-0.6732021	lorry <sw>
+
+-0.5932512	lose <sw>
+
+-0.7721051	loser <sw>
+
+-0.4710751	loss <sw>
+
+-0.3912066	lost <sw>
+
+-1	lot <sw>
+
+-0.2612771	lots <sw>
+
+-0.6794754	loud <sw>
+
+-1.374165	louder <sw>
+
+-0.3784454	lounge <sw>
+
+-0.9805054	lousy <sw>
+
+-0.9375661	love <sw>
+
+-0.7721051	loving <sw>
+
+-0.8044802	low <sw>
+
+-0.6675185	lower <sw>
+
+-0.4710751	lu <sw>
+
+-0.3679768	luck <sw>
+
+-0.2612771	luckily <sw>
+
+-0.30103	lucky <sw>
+
+-0.04575749	luffy <sw>
+
+-0.4710751	luggage <sw>
+
+-0.4710751	luguage <sw>
+
+-0.7721051	lumen <sw>
+
+-0.7721051	lump <sw>
+
+-0.3784454	lumpur <sw>
+
+-0.30103	lunch <sw>
+
+-0.7721051	lunchtime <sw>
+
+-0.6794754	lung <sw>
+
+-0.4710751	lunge <sw>
+
+-0.7721051	lungs <sw>
+
+-0.5033841	lydia <sw>
+
+-0.4710751	lyric <sw>
+
+-0.1820959	lyrics <sw>
+
+-0.9284746	m <sw>
+
+-0.3567978	m. <sw>
+
+-0.4710751	m.e.s <sw>
+
+-0.4710751	m.m.lah <sw>
+
+-0.4393327	ma <sw>
+
+-0.7721051	macau <sw>
+
+-0.2023541	macbook <sw>
+
+-0.2658923	macdonald <sw>
+
+-0.7721051	macdonald's <sw>
+
+-0.2462912	machine <sw>
+
+-0.4710751	machinery <sw>
+
+-0.5033841	macro <sw>
+
+-0.7722538	made <sw>
+
+-0.07255067	mag <sw>
+
+-0.20412	magazine <sw>
+
+-0.4710751	magazines <sw>
+
+-0.6002942	maggie <sw>
+
+-0.5388935	magic <sw>
+
+-0.2023541	magnesium <sw>
+
+-0.4710751	magnet <sw>
+
+-0.4710751	magnum <sw>
+
+-0.4710751	mags <sw>
+
+-0.46812	mah <sw>
+
+-0.1503233	mahathir <sw>
+
+-0.9013242	mahjong <sw>
+
+-0.2023541	mai <sw>
+
+-0.30103	maid <sw>
+
+-0.7721051	maiden <sw>
+
+-0.30103	mail <sw>
+
+-1.051152	main <sw>
+
+-0.2459824	mainly <sw>
+
+-1.073135	mainstream <sw>
+
+-0.2340832	maintain <sw>
+
+-0.5183001	maintenance <sw>
+
+-0.2023541	majestic <sw>
+
+-0.3853509	major <sw>
+
+-0.1820959	majority <sw>
+
+-0.3721721	makan <sw>
+
+-1.169225	make <sw>
+
+-0.4710751	maker <sw>
+
+-0.4710751	makers <sw>
+
+-1.180078	makes <sw>
+
+-0.2752621	makeup <sw>
+
+-1.550256	making <sw>
+
+-0.7721051	mal <sw>
+
+-0.1983677	malacca <sw>
+
+-0.4710751	malam <sw>
+
+-0.2023541	malaria <sw>
+
+-0.312311	malay <sw>
+
+-0.9481964	malays <sw>
+
+-0.1275409	malaysia <sw>
+
+-0.5522152	malaysian <sw>
+
+-0.501187	male <sw>
+
+-0.4710751	malik <sw>
+
+-0.1663314	mall <sw>
+
+-0.4710751	malls <sw>
+
+-0.5141048	man <sw>
+
+-0.2527253	manage <sw>
+
+-0.9481964	manageable <sw>
+
+-0.1909585	management <sw>
+
+-0.1691424	manager <sw>
+
+-0.3679768	mandarin <sw>
+
+-0.4710751	mandate <sw>
+
+-0.4710751	mandava <sw>
+
+-0.4710751	maneuver <sw>
+
+-0.4710751	maneuvers <sw>
+
+-0.2752621	manga <sw>
+
+-0.4710751	mangement <sw>
+
+-0.6794754	mangrove <sw>
+
+-0.5183001	manhattan <sw>
+
+-0.4710751	manipulate <sw>
+
+-0.4710751	manly <sw>
+
+-0.1409535	manpower <sw>
+
+-0.4710751	mansion <sw>
+
+-0.2023541	mantain <sw>
+
+-0.404195	manual <sw>
+
+-0.04575749	manually <sw>
+
+-0.2023541	manufacture <sw>
+
+-0.4710751	manufacturer <sw>
+
+-0.5910646	manufacturing <sw>
+
+-1.512051	many <sw>
+
+-0.1047354	map <sw>
+
+-0.3784454	mapping <sw>
+
+-0.1760913	marathon <sw>
+
+-0.3439393	march <sw>
+
+-0.4710751	marching <sw>
+
+-0.2023541	margin <sw>
+
+-0.4710751	maria <sw>
+
+-1.647166	marina <sw>
+
+-0.7721051	marinate <sw>
+
+-0.5623071	maritime <sw>
+
+-0.5555447	mark <sw>
+
+-0.4710751	marker <sw>
+
+-0.1983677	market <sw>
+
+-0.3547148	marketing <sw>
+
+-0.5033841	marking <sw>
+
+-0.08518585	markov <sw>
+
+-0.229996	marks <sw>
+
+-0.4712238	married <sw>
+
+-0.5623071	marry <sw>
+
+-0.2023541	mart <sw>
+
+-0.9481964	marvin <sw>
+
+-0.9481964	mary <sw>
+
+-0.3282239	masala <sw>
+
+-0.9013242	mascot <sw>
+
+-0.1497623	mask <sw>
+
+-0.08518585	massage <sw>
+
+-0.4710751	masseuse <sw>
+
+-0.1656258	master <sw>
+
+-0.4710751	mastering <sw>
+
+-0.4419835	masters <sw>
+
+-0.3357921	match <sw>
+
+-0.2023541	matching <sw>
+
+-0.1760913	mate <sw>
+
+-0.2552725	material <sw>
+
+-0.7721051	materialistic <sw>
+
+-0.1503233	materials <sw>
+
+-0.4604449	mates <sw>
+
+-0.3245111	math <sw>
+
+-0.4513533	mathematic <sw>
+
+-0.6274446	mathematical <sw>
+
+-0.2023541	mathematician <sw>
+
+-0.2787536	mathematics <sw>
+
+-0.7721051	mathew <sw>
+
+-0.3251637	maths <sw>
+
+-0.03218468	matlab <sw>
+
+-0.7721051	matric <sw>
+
+-0.4710751	matriculated <sw>
+
+-0.4710751	matriculation <sw>
+
+-0.05435766	matrix <sw>
+
+-0.4710751	matrixs <sw>
+
+-0.4710751	matron <sw>
+
+-0.931004	matter <sw>
+
+-0.5033841	matters <sw>
+
+-0.2023541	mattress <sw>
+
+-0.8044142	mature <sw>
+
+-0.5033841	mavis <sw>
+
+-0.3282239	max <sw>
+
+-0.08518585	maximize <sw>
+
+-0.154902	maximum <sw>
+
+-0.1820959	maxis <sw>
+
+-1.041099	may <sw>
+
+-0.4710751	maybank <sw>
+
+-0.3933443	maybe <sw>
+
+-0.4710751	mayflower <sw>
+
+-0.4710751	mcafree <sw>
+
+-0.05115252	mcdonald <sw>
+
+-0.5033841	mcdonalds <sw>
+
+-0.4710751	mcdonals <sw>
+
+-0.8117186	me <sw>
+
+-0.7145948	meal <sw>
+
+-0.2752621	meals <sw>
+
+-0.5259698	mean <sw>
+
+-0.5388935	meaning <sw>
+
+-0.9481964	meaningful <sw>
+
+-0.3550118	means <sw>
+
+-0.7721051	meanwhile <sw>
+
+-1.073135	measure <sw>
+
+-0.1820959	measurement <sw>
+
+-0.9013242	meat <sw>
+
+-0.6002942	meatball <sw>
+
+-0.4710751	mechanic <sw>
+
+-0.7245301	mechanical <sw>
+
+-0.3721721	mechanism <sw>
+
+-0.5183001	medal <sw>
+
+-0.30103	media <sw>
+
+-0.2023541	mediacorp <sw>
+
+-0.4710751	medic <sw>
+
+-0.6499835	medical <sw>
+
+-0.2752621	medication <sw>
+
+-0.404277	medicine <sw>
+
+-0.4710751	mediterranean <sw>
+
+-0.4710751	meditol <sw>
+
+-0.2612771	medium <sw>
+
+-0.4710751	medline <sw>
+
+-0.4513533	mee <sw>
+
+-0.7721051	meego <sw>
+
+-0.3322235	meet <sw>
+
+-0.2128939	meeting <sw>
+
+-0.4710751	megatron <sw>
+
+-0.4710751	megawati <sw>
+
+-0.8492146	meh <sw>
+
+-0.9805054	mei <sw>
+
+-0.3664885	melbourne <sw>
+
+-0.2552725	melissa <sw>
+
+-0.4710751	melodious <sw>
+
+-0.9481964	melody <sw>
+
+-0.1503233	melt <sw>
+
+-0.4710751	melts <sw>
+
+-0.2138798	member <sw>
+
+-0.2762064	members <sw>
+
+-0.9481964	membership <sw>
+
+-0.7721051	membrane <sw>
+
+-0.5033841	memorable <sw>
+
+-0.4373684	memorise <sw>
+
+-0.2612771	memorize <sw>
+
+-0.1249387	memory <sw>
+
+-1.073135	mental <sw>
+
+-0.1820959	mentality <sw>
+
+-1.073135	mentally <sw>
+
+-0.08518585	mentee <sw>
+
+-1.316173	mention <sw>
+
+-1.249226	mentioned <sw>
+
+-0.7464222	mentor <sw>
+
+-0.4710751	mentoring <sw>
+
+-0.08715018	menu <sw>
+
+-0.4710751	menus <sw>
+
+-0.4710751	merge <sw>
+
+-1.316173	meridian <sw>
+
+-0.3721721	merit <sw>
+
+-0.2752621	mermaid <sw>
+
+-0.1814201	message <sw>
+
+-0.2079003	messy <sw>
+
+-0.2023541	metabolism <sw>
+
+-0.1249387	meter <sw>
+
+-0.1820959	meters <sw>
+
+-0.1111505	method <sw>
+
+-0.5033841	methodist <sw>
+
+-0.2658923	methods <sw>
+
+-0.4710751	methylated <sw>
+
+-0.1701938	metre <sw>
+
+-0.9481964	metres <sw>
+
+-0.4710751	mexico <sw>
+
+-0.4710751	mi <sw>
+
+-1.316173	mic <sw>
+
+-0.2023541	micai <sw>
+
+-0.4710751	miccai <sw>
+
+-0.1820959	michael <sw>
+
+-0.7523834	michelle <sw>
+
+-1.249226	mickey <sw>
+
+-1.047452	micro <sw>
+
+-0.4710751	microbiology <sw>
+
+-0.3212334	microsoft <sw>
+
+-1.772105	mid <sw>
+
+-0.7213576	middle <sw>
+
+-0.4710751	middleman <sw>
+
+-0.376124	midnight <sw>
+
+-0.7721051	midterm <sw>
+
+-0.5033841	migrate <sw>
+
+-0.1091445	mike <sw>
+
+-0.6794754	milan <sw>
+
+-0.5033841	mild <sw>
+
+-0.4710751	mileage <sw>
+
+-0.3784454	military <sw>
+
+-0.5803683	milk <sw>
+
+-0.5033841	milkshake <sw>
+
+-0.2023541	mill <sw>
+
+-0.1836444	million <sw>
+
+-0.4710751	millions <sw>
+
+-0.4710751	millis <sw>
+
+-0.4710751	millisecond <sw>
+
+-0.1503233	mina <sw>
+
+-0.4771213	mind <sw>
+
+-0.1503233	minded <sw>
+
+-0.2752621	mindset <sw>
+
+-0.7564595	mine <sw>
+
+-1.749829	mini <sw>
+
+-0.4771213	minimum <sw>
+
+-0.3282239	minister <sw>
+
+-0.4513533	ministry <sw>
+
+-0.3452336	minor <sw>
+
+-0.3899711	minus <sw>
+
+-0.3258536	minute <sw>
+
+-0.5228788	minutes <sw>
+
+-0.4710751	mir <sw>
+
+-0.2023541	miracle <sw>
+
+-0.5033841	mirror <sw>
+
+-1.073135	misconception <sw>
+
+-0.3273589	miss <sw>
+
+-0.9481964	missing <sw>
+
+-0.8044142	mission <sw>
+
+-0.03778856	mistake <sw>
+
+-0.6002942	mistaken <sw>
+
+-1.073135	mistakes <sw>
+
+-0.3617278	mix <sw>
+
+-1.281535	mixed <sw>
+
+-0.5183001	mixture <sw>
+
+-0.2914847	mm <sw>
+
+-0.2477845	mmm <sw>
+
+-0.4710751	mmmm <sw>
+
+-0.4710751	mobil <sw>
+
+-0.2155998	mobile <sw>
+
+-0.3784454	mobility <sw>
+
+-0.3784454	moblin <sw>
+
+-0.3784454	mod <sw>
+
+-0.04420366	mode <sw>
+
+-0.09311702	model <sw>
+
+-0.2612771	modeling <sw>
+
+-0.3784454	models <sw>
+
+-0.2023541	moderation <sw>
+
+-0.7721051	moderators <sw>
+
+-0.6732021	modern <sw>
+
+-0.06177228	modification <sw>
+
+-0.2023541	modified <sw>
+
+-0.03476211	modify <sw>
+
+-0.1955198	module <sw>
+
+-0.5228788	modules <sw>
+
+-0.2023541	mold <sw>
+
+-0.1512677	molecular <sw>
+
+-0.2752621	mom <sw>
+
+-0.9481964	moment <sw>
+
+-0.4710751	moments <sw>
+
+-0.1503233	mommy <sw>
+
+-0.2355285	monday <sw>
+
+-0.6478175	money <sw>
+
+-0.2713886	monitor <sw>
+
+-0.3784454	monkey <sw>
+
+-0.2023541	monolingual <sw>
+
+-0.4710751	monopolize <sw>
+
+-0.08518585	monopoly <sw>
+
+-0.5033841	monotonous <sw>
+
+-0.7721051	monsoon <sw>
+
+-0.2023541	monster <sw>
+
+-0.4710751	mont <sw>
+
+-0.3873898	month <sw>
+
+-0.3784454	monthly <sw>
+
+-0.423602	months <sw>
+
+-0.7721051	montreal <sw>
+
+-0.7721051	monument <sw>
+
+-0.2079003	mood <sw>
+
+-0.3784454	moody <sw>
+
+-1.249226	moon <sw>
+
+-0.9481964	mooncake <sw>
+
+-0.9805054	moral <sw>
+
+-0.9481964	morale <sw>
+
+-0.4710751	morbid <sw>
+
+-1.104054	more <sw>
+
+-0.3735807	morning <sw>
+
+-0.4710751	mornington <sw>
+
+-0.4710751	morpholo <sw>
+
+-1.374165	mortal <sw>
+
+-0.5183001	mosque <sw>
+
+-0.4710751	mosquitoes <sw>
+
+-1.569486	most <sw>
+
+-0.2373609	mostly <sw>
+
+-0.3282239	motel <sw>
+
+-0.3505154	mother <sw>
+
+-0.4710751	motherboard <sw>
+
+-0.3250958	motion <sw>
+
+-0.2752621	motivate <sw>
+
+-0.3784454	motive <sw>
+
+-0.4710751	moto <sw>
+
+-0.2155998	motor <sw>
+
+-1.249226	motorbike <sw>
+
+-1.073135	motorcycle <sw>
+
+-0.7721051	motorcyclist <sw>
+
+-0.06177228	motorola <sw>
+
+-0.4710751	mound <sw>
+
+-1.617203	mount <sw>
+
+-0.7145948	mountain <sw>
+
+-0.4710751	mountains <sw>
+
+-0.1409535	mouse <sw>
+
+-0.7523834	mouth <sw>
+
+-0.4710751	mouthpiece <sw>
+
+-0.4009249	move <sw>
+
+-0.4513533	movement <sw>
+
+-0.2469802	movie <sw>
+
+-0.4712238	movies <sw>
+
+-0.3862158	mr <sw>
+
+-0.9736711	much <sw>
+
+-0.4710751	muddy <sw>
+
+-0.3721721	mug <sw>
+
+-0.2079003	mugger <sw>
+
+-0.7721051	mugging <sw>
+
+-0.243038	multimedia <sw>
+
+-1.249226	multiple <sw>
+
+-0.9481964	multitask <sw>
+
+-1.617203	mum <sw>
+
+-0.3784454	mumbai <sw>
+
+-0.9481964	mumble <sw>
+
+-0.576292	mummy <sw>
+
+-0.4513533	muscle <sw>
+
+-0.20412	museum <sw>
+
+-0.4710751	mushroom <sw>
+
+-0.4710751	mushy <sw>
+
+-0.3461084	music <sw>
+
+-0.8810658	musical <sw>
+
+-1.44484	must <sw>
+
+-0.1503233	mutation <sw>
+
+-0.7721051	mutton <sw>
+
+-0.7721051	mutual <sw>
+
+-0.7721051	muzium <sw>
+
+-1.336413	my <sw>
+
+-0.6255411	myself <sw>
+
+-0.4710751	mystery <sw>
+
+-1.503384	n <sw>
+
+-1.186494	n. <sw>
+
+-0.7721051	na <sw>
+
+-0.5033841	naan <sw>
+
+-0.4710751	nagoya <sw>
+
+-0.3628023	nail <sw>
+
+-0.2713886	nails <sw>
+
+-0.5797836	name <sw>
+
+-0.4710751	nami <sw>
+
+-1.832803	nanyang <sw>
+
+-0.4710751	narcosis <sw>
+
+-0.2023541	narrator <sw>
+
+-0.1760913	naruto <sw>
+
+-0.4710751	nasilemak <sw>
+
+-0.1064553	nat <sw>
+
+-0.3170448	nation <sw>
+
+-0.3784454	nationwide <sw>
+
+-1.471075	native <sw>
+
+-0.6102072	natural <sw>
+
+-0.6732021	naturally <sw>
+
+-0.9013242	nature <sw>
+
+-0.7721051	naughty <sw>
+
+-0.4710751	navigate <sw>
+
+-0.8044142	navigation <sw>
+
+-0.2752621	navy <sw>
+
+-0.7721051	ne <sw>
+
+-0.8942812	near <sw>
+
+-0.9481964	nearby <sw>
+
+-0.2023541	neat <sw>
+
+-0.9481964	necessarily <sw>
+
+-0.7523834	necessary <sw>
+
+-0.4710751	necessity <sw>
+
+-0.5033841	neck <sw>
+
+-0.1503233	ned <sw>
+
+-1.949664	need <sw>
+
+-0.1820959	needle <sw>
+
+-0.6732021	needs <sw>
+
+-0.1409535	negative <sw>
+
+-0.2023541	neglect <sw>
+
+-0.2752621	negotiate <sw>
+
+-0.3282239	neh <sw>
+
+-0.4710751	neighbor <sw>
+
+-1.170045	neighborhood <sw>
+
+-0.4710751	neighbors <sw>
+
+-0.3250958	neighbour <sw>
+
+-1.170045	neighbourhood <sw>
+
+-0.7721051	neighbours <sw>
+
+-0.3170448	nelson <sw>
+
+-0.7721051	neo <sw>
+
+-0.6002942	nepal <sw>
+
+-0.9481964	nerd <sw>
+
+-0.2752621	nervous <sw>
+
+-0.7721051	nescafe <sw>
+
+-0.2910458	net <sw>
+
+-0.4373684	netball <sw>
+
+-0.5033841	netbook <sw>
+
+-0.2023541	netherland <sw>
+
+-0.7721051	netherlands <sw>
+
+-0.2825466	network <sw>
+
+-0.2612771	networking <sw>
+
+-0.5033841	neutral <sw>
+
+-1.284431	never <sw>
+
+-0.4373684	nevermind <sw>
+
+-1.22051	new <sw>
+
+-0.4710751	newlane <sw>
+
+-0.3187588	news <sw>
+
+-0.2662679	newspaper <sw>
+
+-0.7721051	newswriting <sw>
+
+-0.1503233	newton <sw>
+
+-1.831431	next <sw>
+
+-0.4710751	ng <sw>
+
+-0.4710751	niaga <sw>
+
+-0.7032914	nice <sw>
+
+-0.5033841	nicer <sw>
+
+-0.7721051	nick <sw>
+
+-0.9481964	niece <sw>
+
+-0.6342447	night <sw>
+
+-0.9481964	nightmare <sw>
+
+-1.170045	nights <sw>
+
+-1.073135	nike <sw>
+
+-0.5033841	nikon <sw>
+
+-0.9481964	nil <sw>
+
+-0.8346326	nine <sw>
+
+-1.471075	nineteen <sw>
+
+-1.793294	ninety <sw>
+
+-0.559308	nintendo <sw>
+
+-0.4710751	nissan <sw>
+
+-0.4710751	nitrition <sw>
+
+-0.1503233	nitrogen <sw>
+
+-0.8337987	no <sw>
+
+-1.180078	nobody <sw>
+
+-0.2304489	node <sw>
+
+-0.3784454	nodes <sw>
+
+-0.2498775	noise <sw>
+
+-0.1503233	noises <sw>
+
+-0.5033841	noisy <sw>
+
+-0.5245185	nokia <sw>
+
+-0.3784454	nominees <sw>
+
+-2.039277	non <sw>
+
+-1.073135	none <sw>
+
+-0.1503233	nonsense <sw>
+
+-0.4710751	nonspeech <sw>
+
+-0.6002942	noob <sw>
+
+-0.5033841	noodle <sw>
+
+-0.7721051	norby <sw>
+
+-0.449683	normal <sw>
+
+-0.250539	normally <sw>
+
+-0.774064	north <sw>
+
+-1.512468	northern <sw>
+
+-0.4710751	northpoint <sw>
+
+-1.249226	nose <sw>
+
+-1.349763	not <sw>
+
+-0.7464222	note <sw>
+
+-0.4710751	notebook <sw>
+
+-0.3840042	notes <sw>
+
+-1.30267	nothing <sw>
+
+-0.30103	notice <sw>
+
+-0.3784454	notification <sw>
+
+-0.3784454	noun <sw>
+
+-0.1409535	novel <sw>
+
+-0.1503233	novels <sw>
+
+-0.1409535	novelty <sw>
+
+-0.5183001	november <sw>
+
+-0.1503233	novena <sw>
+
+-0.721143	now <sw>
+
+-1.170045	nowadays <sw>
+
+-0.4710751	nua <sw>
+
+-0.3721721	nuclear <sw>
+
+-0.5033841	nucleotide <sw>
+
+-0.5371192	number <sw>
+
+-0.4710751	numbering <sw>
+
+-0.7145948	numbers <sw>
+
+-0.2023541	nun <sw>
+
+-0.4513533	nurse <sw>
+
+-0.2752621	nursery <sw>
+
+-0.09691001	nurses <sw>
+
+-0.7721051	nurture <sw>
+
+-0.7721051	nutraceutical <sw>
+
+-1.249226	nutrition <sw>
+
+-0.4710751	nuts <sw>
+
+-0.7721051	nvidia <sw>
+
+-0.7075702	o <sw>
+
+-0.5917238	o'clock <sw>
+
+-0.9481964	o'level <sw>
+
+-1.113943	o. <sw>
+
+-0.4710751	o.k. <sw>
+
+-0.06177228	oar <sw>
+
+-0.7721051	oat <sw>
+
+-0.4710751	ob <sw>
+
+-0.4710751	obj <sw>
+
+-0.3282239	object <sw>
+
+-0.2155998	objective <sw>
+
+-0.4710751	objectives <sw>
+
+-0.4710751	observation <sw>
+
+-0.3170448	observe <sw>
+
+-0.3282239	obstacle <sw>
+
+-0.4710751	obtaining <sw>
+
+-0.4513533	obvious <sw>
+
+-0.2658923	obviously <sw>
+
+-0.4710751	occasionally <sw>
+
+-0.4710751	occupied <sw>
+
+-0.4710751	occupy <sw>
+
+-0.5033841	october <sw>
+
+-0.2658923	odac <sw>
+
+-0.4710751	odds <sw>
+
+-1.046609	of <sw>
+
+-0.5814735	off <sw>
+
+-0.1503233	offend <sw>
+
+-0.3721721	offense <sw>
+
+-0.1563472	offer <sw>
+
+-1.073135	offered <sw>
+
+-0.4710751	offering <sw>
+
+-0.1716821	office <sw>
+
+-0.2710668	officer <sw>
+
+-0.5033841	officers <sw>
+
+-0.7721051	offices <sw>
+
+-0.5970692	official <sw>
+
+-0.5033841	officially <sw>
+
+-0.2752621	offline <sw>
+
+-0.4710751	offset <sw>
+
+-0.501187	often <sw>
+
+-0.4854573	oh <sw>
+
+-0.3250958	oil <sw>
+
+-0.303463	ok <sw>
+
+-0.2191259	okay <sw>
+
+-0.8908556	old <sw>
+
+-1.617203	older <sw>
+
+-0.4710751	oldies <sw>
+
+-0.1820959	olympiad <sw>
+
+-0.4710751	omega <sw>
+
+-0.6298732	on <sw>
+
+-0.7220353	once <sw>
+
+-0.7243581	one <sw>
+
+-0.4767456	ones <sw>
+
+-0.3282239	ongoing <sw>
+
+-0.3152704	online <sw>
+
+-0.9863083	only <sw>
+
+-0.2023541	onsite <sw>
+
+-1.249226	onto <sw>
+
+-0.2023541	onwards <sw>
+
+-0.4710751	op <sw>
+
+-0.6423546	open <sw>
+
+-0.3628023	opening <sw>
+
+-0.4710751	openings <sw>
+
+-0.4710751	opera <sw>
+
+-0.2281858	operate <sw>
+
+-0.3222193	operation <sw>
+
+-0.3170448	operations <sw>
+
+-0.30103	opinion <sw>
+
+-0.3784454	opinions <sw>
+
+-0.5033841	opponent <sw>
+
+-0.7721051	opponents <sw>
+
+-1.249226	opportunities <sw>
+
+-0.1995724	opportunity <sw>
+
+-0.5623071	opposite <sw>
+
+-0.404195	ops <sw>
+
+-0.1503233	optimise <sw>
+
+-0.4710751	optimistic <sw>
+
+-0.4710751	optimize <sw>
+
+-0.4710751	optimum <sw>
+
+-0.3784454	optimus <sw>
+
+-0.1760913	option <sw>
+
+-0.3784454	options <sw>
+
+-0.9984462	or <sw>
+
+-0.229996	oracle <sw>
+
+-1.471075	oral <sw>
+
+-0.3628023	orange <sw>
+
+-0.5669222	orchard <sw>
+
+-0.4060872	orchestra <sw>
+
+-0.3912066	order <sw>
+
+-0.7721051	oregon <sw>
+
+-0.4710751	org <sw>
+
+-0.1409535	organ <sw>
+
+-0.3170448	organic <sw>
+
+-0.2730013	organisation <sw>
+
+-1.073135	organisations <sw>
+
+-0.3357921	organise <sw>
+
+-0.3721721	organization <sw>
+
+-0.04575749	organize <sw>
+
+-0.4710751	organized <sw>
+
+-0.7721051	organizer <sw>
+
+-0.9481964	organizing <sw>
+
+-0.3904304	orh <sw>
+
+-0.6766936	orientation <sw>
+
+-0.6002942	origin <sw>
+
+-0.2852357	original <sw>
+
+-0.3721721	originally <sw>
+
+-0.4710751	orphan <sw>
+
+-1.073135	osaka <sw>
+
+-0.9481964	osram <sw>
+
+-0.1503233	osteo <sw>
+
+-0.1701938	osteosarcoma <sw>
+
+-0.4710751	ostracized <sw>
+
+-1.055951	other <sw>
+
+-0.7871454	others <sw>
+
+-0.9481964	otherwise <sw>
+
+-1.679026	our <sw>
+
+-1.425318	ours <sw>
+
+-1.047452	ourselves <sw>
+
+-0.719841	out <sw>
+
+-0.4710751	outcast <sw>
+
+-0.1503233	outcome <sw>
+
+-0.4710751	outcomes <sw>
+
+-0.4710751	outdated <sw>
+
+-0.5522152	outdoor <sw>
+
+-0.4710751	outdoors <sw>
+
+-0.4710751	outgoing <sw>
+
+-0.4390391	outing <sw>
+
+-0.4710751	outings <sw>
+
+-0.9481964	outlet <sw>
+
+-0.07509399	outline <sw>
+
+-0.07918125	outlook <sw>
+
+-0.2612771	output <sw>
+
+-0.4710751	outrageous <sw>
+
+-0.6002942	outram <sw>
+
+-0.5740313	outside <sw>
+
+-0.4710751	outsider <sw>
+
+-0.4710751	outsiders <sw>
+
+-0.2023541	outskirt <sw>
+
+-0.3784454	outskirts <sw>
+
+-0.03476211	outsource <sw>
+
+-1.073135	outspoken <sw>
+
+-0.2612771	oven <sw>
+
+-0.6320232	over <sw>
+
+-0.5522152	overall <sw>
+
+-0.4710751	overally <sw>
+
+-0.4710751	overcome <sw>
+
+-0.7721051	overhead <sw>
+
+-0.2281858	overlap <sw>
+
+-0.5245185	overload <sw>
+
+-0.2023541	overlook <sw>
+
+-0.2023541	overnight <sw>
+
+-0.8044142	oversea <sw>
+
+-0.5740313	overseas <sw>
+
+-0.1503233	overtake <sw>
+
+-0.4710751	owe <sw>
+
+-0.5033841	owen <sw>
+
+-1.036176	own <sw>
+
+-0.05115252	owner <sw>
+
+-0.7721051	owners <sw>
+
+-0.9481964	oxygen <sw>
+
+-0.4710751	ozone <sw>
+
+-0.5882717	p <sw>
+
+-0.6546723	p. <sw>
+
+-0.5033841	pa <sw>
+
+-0.5033841	pace <sw>
+
+-0.06177228	pacific <sw>
+
+-0.1760913	pack <sw>
+
+-0.1210437	package <sw>
+
+-0.1503233	packages <sw>
+
+-0.9481964	packaging <sw>
+
+-0.4710751	packed <sw>
+
+-0.08518585	packet <sw>
+
+-0.7721051	packing <sw>
+
+-0.4831259	pad <sw>
+
+-0.5245185	page <sw>
+
+-0.3250958	pageant <sw>
+
+-0.2612771	pages <sw>
+
+-0.5033841	pahat <sw>
+
+-0.7523834	paid <sw>
+
+-0.4710751	pain <sw>
+
+-0.7721051	painful <sw>
+
+-0.243038	paint <sw>
+
+-0.4710751	painting <sw>
+
+-0.2612771	pair <sw>
+
+-1.073135	pak <sw>
+
+-0.4710751	paksi <sw>
+
+-0.4710751	pal <sw>
+
+-0.3784454	palace <sw>
+
+-0.4710751	palette <sw>
+
+-0.4710751	pamper <sw>
+
+-0.2023541	pampered <sw>
+
+-0.4710751	panadol <sw>
+
+-0.4710751	panasonic <sw>
+
+-0.4710751	pancake <sw>
+
+-0.2023541	panda <sw>
+
+-0.3721721	panel <sw>
+
+-0.4710751	panels <sw>
+
+-0.06177228	panic <sw>
+
+-0.4710751	paparazzi <sw>
+
+-0.4710751	papaya <sw>
+
+-0.2498775	paper <sw>
+
+-0.2138798	papers <sw>
+
+-0.7721051	paperwork <sw>
+
+-0.7721051	par <sw>
+
+-0.7721051	parade <sw>
+
+-0.7721051	paradise <sw>
+
+-0.4710751	paragon <sw>
+
+-0.1820959	paragraph <sw>
+
+-0.4710751	parallel <sw>
+
+-0.4710751	parallelised <sw>
+
+-0.4710751	parameswara <sw>
+
+-0.4710751	parameter <sw>
+
+-0.1503233	pardon <sw>
+
+-0.404277	parent <sw>
+
+-0.2662679	parents <sw>
+
+-0.2658923	paris <sw>
+
+-0.1918855	park <sw>
+
+-0.1760913	parking <sw>
+
+-0.9481964	parody <sw>
+
+-0.4710751	parsing <sw>
+
+-0.5293448	part <sw>
+
+-0.2079003	participate <sw>
+
+-0.1842385	participation <sw>
+
+-0.4710751	particle <sw>
+
+-0.2612771	particular <sw>
+
+-0.4710751	parties <sw>
+
+-0.103247	partly <sw>
+
+-0.4341159	partner <sw>
+
+-0.2762064	parts <sw>
+
+-1.073135	parttime <sw>
+
+-0.2894481	party <sw>
+
+-0.2742957	pass <sw>
+
+-0.9481964	passage <sw>
+
+-0.9427168	passed <sw>
+
+-1.249226	passing <sw>
+
+-0.3521825	passion <sw>
+
+-1.316173	passive <sw>
+
+-0.4831259	passport <sw>
+
+-0.3721721	password <sw>
+
+-1.363722	past <sw>
+
+-0.4710751	pasta <sw>
+
+-1.585018	paste <sw>
+
+-0.2752621	pastor <sw>
+
+-0.3784454	patent <sw>
+
+-0.3439393	path <sw>
+
+-0.2023541	patience <sw>
+
+-0.1962947	patient <sw>
+
+-0.4710751	patients <sw>
+
+-0.3802112	pattern <sw>
+
+-0.4710751	patterned <sw>
+
+-0.2752621	pause <sw>
+
+-0.3784454	pavement <sw>
+
+-0.2023541	paw <sw>
+
+-0.375276	pay <sw>
+
+-0.4710751	payable <sw>
+
+-1.316173	paying <sw>
+
+-0.4831259	payment <sw>
+
+-0.7464222	payoh <sw>
+
+-0.9481964	peace <sw>
+
+-0.2079003	peaceful <sw>
+
+-0.3222193	peak <sw>
+
+-0.7721051	peanut <sw>
+
+-0.7721051	peanuts <sw>
+
+-1.170045	pearl <sw>
+
+-0.4710751	peek <sw>
+
+-0.4419835	peer <sw>
+
+-0.1503233	peers <sw>
+
+-0.4710751	peggy <sw>
+
+-0.7721051	pelly <sw>
+
+-0.7721051	penalize <sw>
+
+-0.4373684	penalty <sw>
+
+-0.1924817	penang <sw>
+
+-0.4710751	pencel <sw>
+
+-0.4710751	pencil <sw>
+
+-0.2023541	pending <sw>
+
+-0.2023541	peneng <sw>
+
+-0.3784454	penguin <sw>
+
+-0.4710751	penguins <sw>
+
+-0.4710751	penmanship <sw>
+
+-0.4710751	penne <sw>
+
+-0.1503233	pentamaster <sw>
+
+-0.8773714	people <sw>
+
+-0.6794754	pepper <sw>
+
+-1.524573	per <sw>
+
+-0.4710751	perceive <sw>
+
+-0.2596373	percent <sw>
+
+-0.229996	percentage <sw>
+
+-0.9481964	percents <sw>
+
+-0.6002942	perception <sw>
+
+-0.5033841	perfect <sw>
+
+-0.4710751	perfection <sw>
+
+-0.7523834	perform <sw>
+
+-0.2632414	performance <sw>
+
+-0.4513533	performances <sw>
+
+-0.2752621	perfume <sw>
+
+-0.3498785	period <sw>
+
+-0.7721051	perks <sw>
+
+-0.4710751	perl <sw>
+
+-0.2839966	permanent <sw>
+
+-0.7721051	permanet <sw>
+
+-0.4710751	permenant <sw>
+
+-0.2752621	permission <sw>
+
+-0.4710751	persaude <sw>
+
+-0.7403627	person <sw>
+
+-0.7874938	personal <sw>
+
+-0.576292	personally <sw>
+
+-1.073135	perspective <sw>
+
+-0.2612771	persuade <sw>
+
+-1.073135	perth <sw>
+
+-0.4710751	pervert <sw>
+
+-0.2023541	pessimistic <sw>
+
+-0.2612771	petrol <sw>
+
+-0.2079003	petronas <sw>
+
+-1.073135	pharmaceutical <sw>
+
+-0.1091445	pharmacy <sw>
+
+-0.2793383	phase <sw>
+
+-0.4710751	phd <sw>
+
+-0.3784454	philadelphia <sw>
+
+-0.4710751	phillipine <sw>
+
+-0.2658923	philosophy <sw>
+
+-0.2245131	phone <sw>
+
+-0.9481964	phones <sw>
+
+-0.4710751	phonetic <sw>
+
+-0.1503233	phonetics <sw>
+
+-0.4771213	photo <sw>
+
+-0.4373684	photocopy <sw>
+
+-0.4710751	photog <sw>
+
+-0.1409535	photogenic <sw>
+
+-0.2023541	photograph <sw>
+
+-0.05115252	photographer <sw>
+
+-0.2079003	photography <sw>
+
+-0.4712238	photos <sw>
+
+-0.4710751	photoshoot <sw>
+
+-0.1597008	photoshop <sw>
+
+-0.4710751	photoskip <sw>
+
+-0.9481964	photostat <sw>
+
+-0.4710751	photosynthesis <sw>
+
+-1.425318	phrase <sw>
+
+-0.5033841	phuket <sw>
+
+-0.2752621	physic <sw>
+
+-0.7618794	physical <sw>
+
+-0.7721051	physically <sw>
+
+-0.2943994	physics <sw>
+
+-0.4710751	physio <sw>
+
+-0.4710751	physiotherapist <sw>
+
+-0.2825466	piano <sw>
+
+-0.4710751	picasa <sw>
+
+-0.7721051	picasso <sw>
+
+-1.12036	pick <sw>
+
+-1.073135	picked <sw>
+
+-0.9481964	picnic <sw>
+
+-0.2552725	picture <sw>
+
+-0.576292	pictures <sw>
+
+-0.404277	piece <sw>
+
+-0.4710751	pierre <sw>
+
+-0.08518585	pill <sw>
+
+-0.7721051	pillow <sw>
+
+-0.4710751	pills <sw>
+
+-0.6794754	pilot <sw>
+
+-0.4710751	pimple <sw>
+
+-0.4710751	pine <sw>
+
+-0.3784454	pineapple <sw>
+
+-0.9519557	pioneer <sw>
+
+-0.7721051	pipe <sw>
+
+-0.7721051	piracy <sw>
+
+-1.073135	piranha <sw>
+
+-0.4513533	pirated <sw>
+
+-0.1409535	pit <sw>
+
+-0.3170448	pitch <sw>
+
+-1.073135	pitching <sw>
+
+-0.7721051	pity <sw>
+
+-0.1820959	pixel <sw>
+
+-0.2787536	pizza <sw>
+
+-0.4710751	pla <sw>
+
+-0.465222	place <sw>
+
+-0.7607423	places <sw>
+
+-0.228882	plan <sw>
+
+-0.2023541	planet <sw>
+
+-0.03476211	planner <sw>
+
+-0.1760913	planning <sw>
+
+-0.2466723	plant <sw>
+
+-0.7721051	plasma <sw>
+
+-0.229996	plaster <sw>
+
+-0.1856366	plastic <sw>
+
+-0.6794754	plate <sw>
+
+-0.1512677	platform <sw>
+
+-0.4710751	plating <sw>
+
+-0.4710751	platoon <sw>
+
+-0.8920946	play <sw>
+
+-0.4710751	playboy <sw>
+
+-0.2218488	player <sw>
+
+-0.4060872	players <sw>
+
+-0.1409535	playground <sw>
+
+-0.9302839	playing <sw>
+
+-0.4710751	playstation <sw>
+
+-0.6868236	please <sw>
+
+-0.3784454	plexus <sw>
+
+-0.3628023	plot <sw>
+
+-0.4710751	plotting <sw>
+
+-0.4513533	plug <sw>
+
+-0.3282239	plugin <sw>
+
+-0.9481964	plum <sw>
+
+-0.3784454	plumbing <sw>
+
+-0.4710751	plumbum <sw>
+
+-0.4993976	plus <sw>
+
+-0.4513533	pm <sw>
+
+-0.2752621	pocket <sw>
+
+-1.425318	pod <sw>
+
+-0.2023541	poem <sw>
+
+-0.4710751	poh <sw>
+
+-0.5498459	point <sw>
+
+-0.4045706	points <sw>
+
+-0.2023541	poisoning <sw>
+
+-0.3784454	pokemon <sw>
+
+-0.3862158	pole <sw>
+
+-0.30103	police <sw>
+
+-0.4710751	policeman <sw>
+
+-0.2612771	policies <sw>
+
+-0.1597008	policy <sw>
+
+-1.073135	polish <sw>
+
+-0.5033841	polite <sw>
+
+-0.2079003	politic <sw>
+
+-0.6732021	political <sw>
+
+-0.4710751	politician <sw>
+
+-0.03778856	politics <sw>
+
+-0.4710751	pollutant <sw>
+
+-1.073135	pollutants <sw>
+
+-0.8255485	polo <sw>
+
+-0.2852357	poly <sw>
+
+-0.08715018	polymer <sw>
+
+-0.6794754	polytechnic <sw>
+
+-0.4710751	polytechnics <sw>
+
+-0.4710751	pon <sw>
+
+-0.6794754	pond <sw>
+
+-0.3107898	pool <sw>
+
+-0.9013242	poor <sw>
+
+-0.9805054	pop <sw>
+
+-0.30103	popular <sw>
+
+-0.5089303	population <sw>
+
+-0.1503233	porch <sw>
+
+-0.4710751	porpose <sw>
+
+-0.4710751	porridge <sw>
+
+-0.4419835	port <sw>
+
+-0.4710751	portable <sw>
+
+-0.2752621	porter <sw>
+
+-0.376124	portfolio <sw>
+
+-0.1409535	portion <sw>
+
+-0.05115252	portland <sw>
+
+-0.6002942	portrait <sw>
+
+-0.2752621	portray <sw>
+
+-0.1503233	portugal <sw>
+
+-0.2023541	pos <sw>
+
+-0.3862158	pose <sw>
+
+-0.3735807	position <sw>
+
+-0.404277	positive <sw>
+
+-0.9481964	possibilities <sw>
+
+-0.5033841	possibility <sw>
+
+-0.9805054	possible <sw>
+
+-0.2918866	post <sw>
+
+-0.4710751	postage <sw>
+
+-0.4710751	postcard <sw>
+
+-0.7721051	postdoc <sw>
+
+-0.06177228	postdoc. <sw>
+
+-0.7721051	postdoctoral <sw>
+
+-0.3628023	poster <sw>
+
+-0.6794754	posters <sw>
+
+-0.4710751	postgrad <sw>
+
+-0.4710751	posting <sw>
+
+-0.4710751	postpone <sw>
+
+-0.3862158	potato <sw>
+
+-0.146128	potential <sw>
+
+-0.4710751	potion <sw>
+
+-0.4710751	potray <sw>
+
+-0.1701938	potter <sw>
+
+-0.3721721	powder <sw>
+
+-0.31627	power <sw>
+
+-0.9481964	powerful <sw>
+
+-0.3156823	ppb <sw>
+
+-0.4710751	ppc <sw>
+
+-0.4618545	ppl <sw>
+
+-0.03218468	ppo <sw>
+
+-0.1760913	practical <sw>
+
+-0.7721051	practically <sw>
+
+-0.1697511	practice <sw>
+
+-0.2852357	practise <sw>
+
+-0.7721051	practises <sw>
+
+-0.9481964	practising <sw>
+
+-0.4710751	practitioner <sw>
+
+-0.4710751	pragmatic <sw>
+
+-0.3784454	prawn <sw>
+
+-0.4373684	pray <sw>
+
+-0.2023541	prayer <sw>
+
+-0.7721051	prayers <sw>
+
+-0.7721051	praying <sw>
+
+-0.9013242	pre <sw>
+
+-0.4710751	preach <sw>
+
+-0.4710751	preaching <sw>
+
+-0.4710751	precaution <sw>
+
+-0.9481964	precise <sw>
+
+-0.2752621	precisely <sw>
+
+-0.1139434	predict <sw>
+
+-0.2658923	prefect <sw>
+
+-0.5314789	prefer <sw>
+
+-0.4710751	preferably <sw>
+
+-0.3721721	preference <sw>
+
+-0.7721051	preferences <sw>
+
+-0.3282239	pregnant <sw>
+
+-0.404277	prelim <sw>
+
+-0.5033841	preliminary <sw>
+
+-0.2023541	prelude <sw>
+
+-0.1503233	preorder <sw>
+
+-0.4710751	prepaid <sw>
+
+-0.6794754	preparation <sw>
+
+-0.2615215	prepare <sw>
+
+-0.576292	prepared <sw>
+
+-1.316173	prescribe <sw>
+
+-0.1820959	prescribed <sw>
+
+-0.4710751	presence <sw>
+
+-0.2272438	present <sw>
+
+-0.49485	presentation <sw>
+
+-0.3784454	presents <sw>
+
+-0.4710751	preservatives <sw>
+
+-0.07918125	preserve <sw>
+
+-0.2023541	preset <sw>
+
+-0.3424227	president <sw>
+
+-1.223543	press <sw>
+
+-0.1191864	pressure <sw>
+
+-0.6002942	prestigious <sw>
+
+-0.4710751	pretend <sw>
+
+-2.027378	pretty <sw>
+
+-0.4710751	prevalent <sw>
+
+-0.1139434	prevent <sw>
+
+-0.1503233	preventive <sw>
+
+-1.332688	previous <sw>
+
+-0.4513533	previously <sw>
+
+-0.2632414	price <sw>
+
+-0.4710751	pricey <sw>
+
+-1.264615	primary <sw>
+
+-1.170045	prime <sw>
+
+-0.4710751	primer <sw>
+
+-0.5245185	prince <sw>
+
+-0.5245185	principal <sw>
+
+-0.4513533	principle <sw>
+
+-0.2808266	print <sw>
+
+-0.2752621	printer <sw>
+
+-0.3784454	prints <sw>
+
+-0.2023541	prioritise <sw>
+
+-0.7721051	prioritize <sw>
+
+-0.4419835	priority <sw>
+
+-1.170045	prison <sw>
+
+-0.1820959	privacy <sw>
+
+-0.5642715	private <sw>
+
+-1.249226	prize <sw>
+
+-0.4710751	prizes <sw>
+
+-0.4313638	pro <sw>
+
+-0.1820959	probability <sw>
+
+-1.191716	probably <sw>
+
+-0.4710751	probation <sw>
+
+-0.4710751	probe <sw>
+
+-0.3309932	problem <sw>
+
+-0.4710751	problematic <sw>
+
+-0.1820959	problems <sw>
+
+-0.06694679	procedure <sw>
+
+-0.4710751	proceed <sw>
+
+-0.1697511	process <sw>
+
+-0.1191864	processing <sw>
+
+-0.1983677	processor <sw>
+
+-0.4710751	procrastinating <sw>
+
+-0.2023541	procurement <sw>
+
+-0.1484198	produce <sw>
+
+-0.2023541	produced <sw>
+
+-0.229996	producer <sw>
+
+-0.4710751	producers <sw>
+
+-0.7721051	producing <sw>
+
+-0.1989541	product <sw>
+
+-0.2155998	production <sw>
+
+-0.9481964	productions <sw>
+
+-0.6002942	productive <sw>
+
+-0.4710751	productivity <sw>
+
+-0.5669222	products <sw>
+
+-0.2272438	prof <sw>
+
+-0.2817248	professional <sw>
+
+-0.2703612	professor <sw>
+
+-0.2752621	professors <sw>
+
+-0.4513533	proficiency <sw>
+
+-0.8044142	profile <sw>
+
+-0.6794754	profit <sw>
+
+-0.7721051	profitable <sw>
+
+-0.2023541	profits <sw>
+
+-0.2148439	program <sw>
+
+-0.3521825	programme <sw>
+
+-0.6261258	programmer <sw>
+
+-0.1820959	programmers <sw>
+
+-0.1587172	programming <sw>
+
+-0.6002942	programs <sw>
+
+-0.4419835	progress <sw>
+
+-0.7721051	progression <sw>
+
+-0.2472049	project <sw>
+
+-0.39794	projects <sw>
+
+-0.2023541	prom <sw>
+
+-0.229996	promise <sw>
+
+-0.7721051	promos <sw>
+
+-0.1908145	promote <sw>
+
+-0.4710751	promoted <sw>
+
+-0.2108534	promotion <sw>
+
+-0.2752621	prompt <sw>
+
+-0.2281858	pronounce <sw>
+
+-0.4513533	pronunciation <sw>
+
+-0.4710751	propaganda <sw>
+
+-0.4710751	propagate <sw>
+
+-0.4341159	proper <sw>
+
+-0.8044142	properly <sw>
+
+-0.3439393	properties <sw>
+
+-0.04139268	property <sw>
+
+-0.5033841	proportion <sw>
+
+-0.3862158	proposal <sw>
+
+-0.03778856	propose <sw>
+
+-0.4313638	props <sw>
+
+-0.3862158	prosat <sw>
+
+-0.5033841	prospect <sw>
+
+-0.2612771	prospects <sw>
+
+-0.1503233	protect <sw>
+
+-0.1503233	protection <sw>
+
+-0.2023541	protective <sw>
+
+-0.2071255	protein <sw>
+
+-0.4710751	protest <sw>
+
+-0.3091772	protocol <sw>
+
+-0.9481964	prototype <sw>
+
+-0.3664885	proud <sw>
+
+-0.1760913	prove <sw>
+
+-0.1760913	provide <sw>
+
+-1.073135	provided <sw>
+
+-0.5033841	province <sw>
+
+-0.7721051	proving <sw>
+
+-0.4710751	proxy <sw>
+
+-0.1503233	psych <sw>
+
+-0.4710751	psycho <sw>
+
+-0.4710751	psycholinguistic <sw>
+
+-0.7721051	psychologically <sw>
+
+-0.3136191	psychology <sw>
+
+-0.2023541	puasa <sw>
+
+-0.2612771	pub <sw>
+
+-0.4710751	puberty <sw>
+
+-0.6661775	public <sw>
+
+-0.3721721	publication <sw>
+
+-0.7721051	publications <sw>
+
+-0.1597008	publicity <sw>
+
+-0.2023541	publicize <sw>
+
+-0.2304489	publish <sw>
+
+-0.4710751	pudding <sw>
+
+-0.2752621	puff <sw>
+
+-0.692394	pull <sw>
+
+-0.4710751	puma <sw>
+
+-0.1856366	pump <sw>
+
+-0.6794754	pumpkin <sw>
+
+-0.4710751	pun <sw>
+
+-1.073135	punch <sw>
+
+-0.7721051	puni <sw>
+
+-0.2023541	punish <sw>
+
+-0.7721051	punishment <sw>
+
+-0.4710751	pupils <sw>
+
+-0.9481964	puppet <sw>
+
+-0.07509399	purchase <sw>
+
+-0.3784454	purchasing <sw>
+
+-0.8448537	pure <sw>
+
+-0.8773221	purely <sw>
+
+-0.3357921	purpose <sw>
+
+-0.6794754	purposely <sw>
+
+-0.7721051	purposes <sw>
+
+-0.7721051	pursue <sw>
+
+-0.6255411	push <sw>
+
+-2.448799	put <sw>
+
+-0.7721051	puzzled <sw>
+
+-0.1842385	q <sw>
+
+-0.8532453	q. <sw>
+
+-0.2023541	quad <sw>
+
+-0.1330859	qualification <sw>
+
+-0.3784454	qualified <sw>
+
+-0.4710751	qualitative <sw>
+
+-0.4020566	quality <sw>
+
+-0.1503233	quantitative <sw>
+
+-0.501187	quantity <sw>
+
+-0.103247	quarantine <sw>
+
+-0.4191293	quarter <sw>
+
+-0.4710751	quarters <sw>
+
+-0.4710751	quay <sw>
+
+-0.7721051	queen <sw>
+
+-0.2281858	queensbay <sw>
+
+-0.9481964	queries <sw>
+
+-0.243038	question <sw>
+
+-0.4710751	questionable <sw>
+
+-0.9481964	questionnaire <sw>
+
+-0.559308	questions <sw>
+
+-0.6180748	queue <sw>
+
+-0.9481964	quick <sw>
+
+-0.2108534	quiet <sw>
+
+-0.9481964	quilter <sw>
+
+-0.30103	quit <sw>
+
+-1.159701	quite <sw>
+
+-0.1856366	quiz <sw>
+
+-0.7721051	quota <sw>
+
+-0.08715018	quotation <sw>
+
+-0.3784454	quote <sw>
+
+-0.4710751	quoting <sw>
+
+-1.647166	r <sw>
+
+-0.7629873	r. <sw>
+
+-1.249226	rabbit <sw>
+
+-0.3723859	race <sw>
+
+-0.7721051	races <sw>
+
+-0.4710751	rachel <sw>
+
+-0.4513533	racing <sw>
+
+-0.1330859	racist <sw>
+
+-0.4373684	rack <sw>
+
+-0.03218468	racket <sw>
+
+-0.7721051	rad <sw>
+
+-0.4831259	radio <sw>
+
+-0.3862158	radioactive <sw>
+
+-0.4710751	radiology <sw>
+
+-0.4767456	raffles <sw>
+
+-0.2752621	rafting <sw>
+
+-0.2373609	rag <sw>
+
+-0.4710751	rai <sw>
+
+-0.3250958	rain <sw>
+
+-0.3784454	rainforest <sw>
+
+-0.7721051	raining <sw>
+
+-1.156597	raise <sw>
+
+-0.1503233	raised <sw>
+
+-0.4710751	rambo <sw>
+
+-0.1760913	random <sw>
+
+-0.5183001	randomly <sw>
+
+-0.2596373	range <sw>
+
+-0.5932512	rank <sw>
+
+-0.1820959	ranking <sw>
+
+-0.6002942	rapid <sw>
+
+-0.3784454	rare <sw>
+
+-1.073135	rarely <sw>
+
+-0.1760913	rate <sw>
+
+-1.073135	rates <sw>
+
+-0.8053452	rather <sw>
+
+-0.4710751	rating <sw>
+
+-0.7721051	ratio <sw>
+
+-0.3721721	ration <sw>
+
+-0.1503233	rationale <sw>
+
+-0.3628023	raw <sw>
+
+-0.6002942	ray <sw>
+
+-0.3784454	raymond <sw>
+
+-0.4710751	razar <sw>
+
+-1.471075	re <sw>
+
+-0.5509075	reach <sw>
+
+-0.7721051	reaching <sw>
+
+-0.3628023	react <sw>
+
+-0.2612771	reaction <sw>
+
+-0.69897	read <sw>
+
+-0.7721051	reader <sw>
+
+-0.7841558	reading <sw>
+
+-0.2079003	readings <sw>
+
+-0.5522152	ready <sw>
+
+-1.469526	real <sw>
+
+-0.8255485	realise <sw>
+
+-0.404195	realistic <sw>
+
+-0.2079003	reality <sw>
+
+-1.170045	realize <sw>
+
+-0.8211859	really <sw>
+
+-0.4710751	reap <sw>
+
+-0.3853509	reason <sw>
+
+-0.5033841	reasoning <sw>
+
+-0.4373684	reasons <sw>
+
+-0.3784454	rebecca <sw>
+
+-0.5033841	rebellious <sw>
+
+-0.576292	rebond <sw>
+
+-0.7721051	rebonding <sw>
+
+-0.1180993	reboot <sw>
+
+-0.2023541	rebutt <sw>
+
+-0.229996	rec <sw>
+
+-0.9481964	recap <sw>
+
+-0.1820959	receipt <sw>
+
+-0.576292	receive <sw>
+
+-0.4710751	receives <sw>
+
+-0.5183001	recent <sw>
+
+-0.2082759	recently <sw>
+
+-0.4710751	reception <sw>
+
+-0.1820959	receptionist <sw>
+
+-0.6002942	receptor <sw>
+
+-1.316298	recess <sw>
+
+-0.5033841	recession <sw>
+
+-0.09691001	recipe <sw>
+
+-0.6002942	recognise <sw>
+
+-0.6002942	recognised <sw>
+
+-0.1627273	recognition <sw>
+
+-0.3862158	recognize <sw>
+
+-0.7721051	recognized <sw>
+
+-0.5033841	recombinant <sw>
+
+-0.04139268	recommend <sw>
+
+-0.2752621	recommendation <sw>
+
+-0.4710751	recommended <sw>
+
+-0.4710751	reconcile <sw>
+
+-0.4710751	reconstruct <sw>
+
+-0.31627	record <sw>
+
+-0.5522152	recording <sw>
+
+-0.6002942	recover <sw>
+
+-0.7721051	recovering <sw>
+
+-0.4710751	recre <sw>
+
+-0.5033841	recreation <sw>
+
+-1.073135	recreational <sw>
+
+-0.1760913	recruit <sw>
+
+-0.6002942	recruitment <sw>
+
+-0.5033841	rectangular <sw>
+
+-0.7721051	rectify <sw>
+
+-0.4710751	recurrences <sw>
+
+-0.7721051	recycle <sw>
+
+-1.21727	red <sw>
+
+-0.4710751	redbox <sw>
+
+-0.4710751	rede <sw>
+
+-0.3784454	redefine <sw>
+
+-0.2752621	redo <sw>
+
+-0.06694679	reduce <sw>
+
+-0.4710751	reduced <sw>
+
+-0.4710751	ref <sw>
+
+-0.3664885	refer <sw>
+
+-0.1842385	referee <sw>
+
+-0.7523834	reference <sw>
+
+-0.4710751	referral <sw>
+
+-0.7721051	refill <sw>
+
+-0.4710751	refine <sw>
+
+-0.4513533	reflect <sw>
+
+-0.3721721	refresh <sw>
+
+-0.4710751	refreshing <sw>
+
+-0.4710751	refrigerator <sw>
+
+-0.3784454	refund <sw>
+
+-0.6794754	regarding <sw>
+
+-0.576292	regina <sw>
+
+-0.2108534	region <sw>
+
+-0.288065	register <sw>
+
+-0.2079003	registration <sw>
+
+-0.2023541	registry <sw>
+
+-0.7721051	regression <sw>
+
+-0.243038	regret <sw>
+
+-0.3721721	regular <sw>
+
+-1.249226	regularly <sw>
+
+-0.4710751	regulars <sw>
+
+-0.2023541	regulate <sw>
+
+-0.4710751	regulation <sw>
+
+-0.4710751	regulations <sw>
+
+-0.5183001	rehearsal <sw>
+
+-0.7721051	reimbursement <sw>
+
+-0.2023541	reindeer <sw>
+
+-0.2023541	reinforcement <sw>
+
+-0.7721051	reinstall <sw>
+
+-0.2552725	reject <sw>
+
+-1.374165	rejected <sw>
+
+-0.4710751	relac <sw>
+
+-0.4373684	relate <sw>
+
+-0.2459824	related <sw>
+
+-0.7721051	relation <sw>
+
+-0.2612771	relations <sw>
+
+-0.3174204	relationship <sw>
+
+-0.3439393	relative <sw>
+
+-0.2787536	relatives <sw>
+
+-0.1797874	relax <sw>
+
+-0.6002942	relaxed <sw>
+
+-0.7721051	relaxing <sw>
+
+-0.4710751	relay <sw>
+
+-0.3521825	release <sw>
+
+-0.4710751	releases <sw>
+
+-0.4710751	relevance <sw>
+
+-0.3628023	relevant <sw>
+
+-1.249226	relief <sw>
+
+-1.073135	relieve <sw>
+
+-0.4710751	reliever <sw>
+
+-0.5623071	religion <sw>
+
+-0.4710751	religions <sw>
+
+-0.4710751	relocate <sw>
+
+-1.170045	rely <sw>
+
+-0.7447275	remember <sw>
+
+-0.4710751	remembering <sw>
+
+-0.7721051	remind <sw>
+
+-0.4710751	reminds <sw>
+
+-0.1870866	remote <sw>
+
+-0.4710751	remotely <sw>
+
+-0.5183001	remove <sw>
+
+-0.4710751	renald <sw>
+
+-0.2281858	rendering <sw>
+
+-0.1503233	renew <sw>
+
+-0.4710751	reng <sw>
+
+-1.073135	renovate <sw>
+
+-0.7721051	renovation <sw>
+
+-0.376124	rent <sw>
+
+-0.3721721	rental <sw>
+
+-0.4710751	reorg <sw>
+
+-0.5183001	rep <sw>
+
+-0.4710751	repack <sw>
+
+-0.7721051	repair <sw>
+
+-0.2155998	repeat <sw>
+
+-0.7721051	repetition <sw>
+
+-0.4710751	repetitive <sw>
+
+-0.3862158	replace <sw>
+
+-0.3784454	replacement <sw>
+
+-0.2894481	reply <sw>
+
+-0.1890562	report <sw>
+
+-0.3784454	reporter <sw>
+
+-0.3862158	represent <sw>
+
+-0.9481964	republic <sw>
+
+-0.4710751	repuplic <sw>
+
+-0.4710751	reputable <sw>
+
+-0.4710751	reputation <sw>
+
+-0.376124	request <sw>
+
+-0.1330859	require <sw>
+
+-0.9481964	required <sw>
+
+-0.1836444	requirement <sw>
+
+-0.5033841	requirements <sw>
+
+-0.2752621	res <sw>
+
+-0.6002942	rescue <sw>
+
+-0.2397603	research <sw>
+
+-0.1047354	researcher <sw>
+
+-0.7721051	reseller <sw>
+
+-0.4710751	reserach <sw>
+
+-0.1820959	reserve <sw>
+
+-0.7721051	reserved <sw>
+
+-0.7721051	reservist <sw>
+
+-0.9481964	reset <sw>
+
+-0.7721051	residence <sw>
+
+-0.4710751	residences <sw>
+
+-0.4513533	resident <sw>
+
+-1.585018	residential <sw>
+
+-0.2658923	resign <sw>
+
+-0.1820959	resistance <sw>
+
+-0.3784454	resistant <sw>
+
+-0.7464222	resolution <sw>
+
+-0.9481964	resolutions <sw>
+
+-0.5033841	resolve <sw>
+
+-0.6274446	resort <sw>
+
+-0.1760913	resource <sw>
+
+-0.1409535	resources <sw>
+
+-0.4710751	resourcing <sw>
+
+-0.6002942	respect <sw>
+
+-0.06177228	respond <sw>
+
+-0.5183001	response <sw>
+
+-0.376124	responsibility <sw>
+
+-0.3721721	responsible <sw>
+
+-0.6812412	rest <sw>
+
+-0.3250958	restart <sw>
+
+-0.1814201	restaurant <sw>
+
+-0.4513533	restaurants <sw>
+
+-0.2023541	restock <sw>
+
+-0.4710751	restrain <sw>
+
+-0.9481964	restricted <sw>
+
+-0.3784454	restriction <sw>
+
+-0.4710751	resu <sw>
+
+-0.1760913	result <sw>
+
+-0.2884409	results <sw>
+
+-0.2730013	resume <sw>
+
+-0.4710751	retailer <sw>
+
+-0.7464222	retain <sw>
+
+-0.3784454	retake <sw>
+
+-0.7464222	retire <sw>
+
+-1.249226	retirement <sw>
+
+-0.4710751	retrench <sw>
+
+-0.4710751	retrenchment <sw>
+
+-0.2023541	retro <sw>
+
+-0.501187	return <sw>
+
+-0.4710751	returns <sw>
+
+-0.4710751	reunite <sw>
+
+-0.4710751	reuse <sw>
+
+-1.425318	reveal <sw>
+
+-0.1820959	revenue <sw>
+
+-0.1426675	review <sw>
+
+-0.7721051	reviews <sw>
+
+-0.2218488	revise <sw>
+
+-0.4710751	revision <sw>
+
+-0.4710751	revisit <sw>
+
+-0.4710751	rewarding <sw>
+
+-0.4710751	rhythm <sw>
+
+-0.4710751	ribena <sw>
+
+-0.3721721	rica <sw>
+
+-0.20412	rice <sw>
+
+-0.3735807	rich <sw>
+
+-0.4710751	richards <sw>
+
+-0.4710751	rid <sw>
+
+-0.4373684	ride <sw>
+
+-0.2793383	rides <sw>
+
+-0.8555667	ridge <sw>
+
+-0.3784454	ridiculous <sw>
+
+-0.578747	right <sw>
+
+-0.7721051	rights <sw>
+
+-0.7721051	rigid <sw>
+
+-0.4710751	rigorous <sw>
+
+-0.5183001	rim <sw>
+
+-0.4060872	ring <sw>
+
+-0.5623071	ringgit <sw>
+
+-0.4710751	riots <sw>
+
+-0.2281858	rise <sw>
+
+-0.1576079	risk <sw>
+
+-0.9481964	risky <sw>
+
+-0.4710751	riva <sw>
+
+-0.8193301	river <sw>
+
+-0.4710751	rivers <sw>
+
+-0.31037	road <sw>
+
+-0.6002942	roads <sw>
+
+-0.4710751	roam <sw>
+
+-0.4710751	rob <sw>
+
+-0.2023541	robin <sw>
+
+-0.2373609	robot <sw>
+
+-0.3784454	robotic <sw>
+
+-0.6002942	robotics <sw>
+
+-0.4710751	robust <sw>
+
+-1.156597	rock <sw>
+
+-0.4710751	rockets <sw>
+
+-0.5623071	role <sw>
+
+-0.9481964	roles <sw>
+
+-0.5245185	roll <sw>
+
+-0.4710751	rollerblading <sw>
+
+-0.4710751	rollercoaster <sw>
+
+-0.4710751	rolls <sw>
+
+-0.4710751	rom <sw>
+
+-0.4710751	roma <sw>
+
+-0.9481964	romance <sw>
+
+-0.4710751	romania <sw>
+
+-0.4710751	romanized <sw>
+
+-0.8044142	romantic <sw>
+
+-0.2023541	rome <sw>
+
+-1.073135	ron <sw>
+
+-0.2793383	roof <sw>
+
+-0.4710751	rookie <sw>
+
+-0.3467875	room <sw>
+
+-0.1990405	roomie <sw>
+
+-0.3282239	roommate <sw>
+
+-1.249226	rooms <sw>
+
+-0.4259687	roomy <sw>
+
+-0.3784454	rooney <sw>
+
+-1.170045	rope <sw>
+
+-0.3721721	rose <sw>
+
+-0.08518585	roses <sw>
+
+-1.073135	rot <sw>
+
+-0.07509399	rotate <sw>
+
+-0.1503233	rotation <sw>
+
+-0.4710751	roti <sw>
+
+-0.4710751	rotorua <sw>
+
+-0.4710751	rotten <sw>
+
+-0.4710751	rou <sw>
+
+-0.7721051	rough <sw>
+
+-0.3282239	roughly <sw>
+
+-0.3735807	round <sw>
+
+-0.3784454	roundabout <sw>
+
+-0.7721051	rounds <sw>
+
+-0.09017663	route <sw>
+
+-0.7721051	routes <sw>
+
+-0.08432089	routine <sw>
+
+-0.1820959	rowing <sw>
+
+-0.5033841	royal <sw>
+
+-0.2752621	rub <sw>
+
+-0.8193301	rubbish <sw>
+
+-1.073135	rug <sw>
+
+-0.3222193	rugby <sw>
+
+-0.4710751	ruky <sw>
+
+-0.3091772	rule <sw>
+
+-0.6274446	ruler <sw>
+
+-0.2082759	rules <sw>
+
+-0.4710751	rumour <sw>
+
+-1.073135	rumours <sw>
+
+-0.3859311	run <sw>
+
+-0.2752621	runner <sw>
+
+-0.7721051	runners <sw>
+
+-0.6613597	running <sw>
+
+-0.4710751	rupiah <sw>
+
+-0.3439393	rush <sw>
+
+-0.4710751	rushed <sw>
+
+-0.6794754	russia <sw>
+
+-0.3906408	s <sw>
+
+-0.5938985	s. <sw>
+
+-0.4710751	s.a. <sw>
+
+-0.9481964	s.a.p <sw>
+
+-0.1674911	s.a.p. <sw>
+
+-0.4710751	s.d. <sw>
+
+-0.4710751	sa <sw>
+
+-0.1409535	sacrifice <sw>
+
+-0.9481964	sacrifices <sw>
+
+-0.3657553	sad <sw>
+
+-0.4710751	saddening <sw>
+
+-1.249226	safari <sw>
+
+-0.3881802	safe <sw>
+
+-0.7721051	safer <sw>
+
+-0.9284746	safety <sw>
+
+-0.9481964	safra <sw>
+
+-0.7721051	saga <sw>
+
+-0.9542718	said <sw>
+
+-0.2023541	saikang <sw>
+
+-0.7721051	sailing <sw>
+
+-0.4710751	saiz <sw>
+
+-0.7464222	salad <sw>
+
+-0.1296339	salary <sw>
+
+-0.576292	sale <sw>
+
+-0.2778001	sales <sw>
+
+-0.2023541	salesman <sw>
+
+-0.5033841	saline <sw>
+
+-0.9481964	salmon <sw>
+
+-0.08518585	salon <sw>
+
+-0.4710751	saloon <sw>
+
+-0.6002942	salt <sw>
+
+-0.4710751	salution <sw>
+
+-0.1409535	sam <sw>
+
+-0.3282239	samantha <sw>
+
+-1.119476	same <sw>
+
+-0.2023541	sampan <sw>
+
+-0.3245111	sample <sw>
+
+-0.7721051	samsung <sw>
+
+-0.4710751	samuel <sw>
+
+-0.404195	sand <sw>
+
+-1.073135	sandals <sw>
+
+-0.3784454	sandwich <sw>
+
+-0.4710751	sandy <sw>
+
+-0.2023541	sanji <sw>
+
+-0.9481964	sara <sw>
+
+-0.3664885	sarah <sw>
+
+-0.5033841	sarawak <sw>
+
+-0.4710751	sarcastic <sw>
+
+-0.2752621	satay <sw>
+
+-1.170045	satellite <sw>
+
+-0.7721051	satisfied <sw>
+
+-0.4710751	satisfy <sw>
+
+-0.4710751	satu <sw>
+
+-0.4710751	saturate <sw>
+
+-0.2023541	saturated <sw>
+
+-0.3458423	saturday <sw>
+
+-0.3439393	sauce <sw>
+
+-0.3553877	save <sw>
+
+-0.2023541	saver <sw>
+
+-0.1995724	saving <sw>
+
+-0.7721051	savings <sw>
+
+-1.902439	saw <sw>
+
+-0.4513533	saxophone <sw>
+
+-0.6165193	say <sw>
+
+-0.9744875	saying <sw>
+
+-0.9427168	says <sw>
+
+-0.6794754	scale <sw>
+
+-1.249226	scam <sw>
+
+-0.243038	scan <sw>
+
+-0.7721051	scandal <sw>
+
+-0.4710751	scandals <sw>
+
+-0.2023541	scanner <sw>
+
+-1.170045	scar <sw>
+
+-0.7721051	scare <sw>
+
+-1.223543	scared <sw>
+
+-0.7721051	scarf <sw>
+
+-0.4436975	scary <sw>
+
+-0.2079003	scenario <sw>
+
+-0.7721051	scenarios <sw>
+
+-0.4191293	scene <sw>
+
+-0.404195	scenery <sw>
+
+-0.09017663	schedule <sw>
+
+-0.4710751	scheduling <sw>
+
+-0.4767456	scheme <sw>
+
+-0.7721051	schemes <sw>
+
+-0.4710751	scheming <sw>
+
+-0.4710751	scholar <sw>
+
+-0.2752621	scholars <sw>
+
+-0.161368	scholarship <sw>
+
+-0.3784454	scholarships <sw>
+
+-0.4015947	school <sw>
+
+-0.4710751	schoolmate <sw>
+
+-0.9013242	schools <sw>
+
+-0.3503462	science <sw>
+
+-0.5183001	sciences <sw>
+
+-0.5033841	scientific <sw>
+
+-0.2612771	scientist <sw>
+
+-0.2752621	scoop <sw>
+
+-0.2658923	scope <sw>
+
+-0.4710751	scopion <sw>
+
+-0.2900346	score <sw>
+
+-0.7721051	scorer <sw>
+
+-0.7721051	scorpion <sw>
+
+-0.7721051	scout <sw>
+
+-0.08518585	scrap <sw>
+
+-0.5033841	scratch <sw>
+
+-0.576292	scream <sw>
+
+-0.2615215	screen <sw>
+
+-0.3784454	screening <sw>
+
+-1.316173	screw <sw>
+
+-0.243038	script <sw>
+
+-0.06177228	scripting <sw>
+
+-0.4710751	scripts <sw>
+
+-0.4710751	scriptures <sw>
+
+-0.2023541	scroll <sw>
+
+-0.3628023	scrub <sw>
+
+-0.576292	scuba <sw>
+
+-0.4710751	scull <sw>
+
+-0.2023541	se <sw>
+
+-0.6415559	sea <sw>
+
+-0.2730013	seafood <sw>
+
+-0.7721051	sean <sw>
+
+-0.2615215	search <sw>
+
+-0.7721051	searching <sw>
+
+-0.3377528	season <sw>
+
+-0.4710751	seasons <sw>
+
+-0.404277	seat <sw>
+
+-1.073135	seats <sw>
+
+-0.3784454	seattle <sw>
+
+-0.7721051	seaweed <sw>
+
+-1.315635	sec <sw>
+
+-0.4710751	secluded <sw>
+
+-1.457883	second <sw>
+
+-1.435686	secondary <sw>
+
+-0.4710751	secondhand <sw>
+
+-0.4710751	secondly <sw>
+
+-0.501187	secret <sw>
+
+-0.1503233	secretly <sw>
+
+-1.073135	sect <sw>
+
+-0.3187588	section <sw>
+
+-0.146128	sector <sw>
+
+-0.2713886	secure <sw>
+
+-0.7721051	secured <sw>
+
+-0.4710751	securities <sw>
+
+-0.2730013	security <sw>
+
+-0.9800034	see <sw>
+
+-0.9481964	seeded <sw>
+
+-0.2023541	seeds <sw>
+
+-1.170045	seeing <sw>
+
+-1.073135	seek <sw>
+
+-0.146128	segment <sw>
+
+-0.1249387	segmentation <sw>
+
+-0.1503233	segway <sw>
+
+-0.9481964	seh <sw>
+
+-0.9481964	seldom <sw>
+
+-0.7721051	select <sw>
+
+-0.4710751	selection <sw>
+
+-0.4710751	selectively <sw>
+
+-0.6675185	sell <sw>
+
+-1.425318	selling <sw>
+
+-0.3178002	sem <sw>
+
+-0.7721051	sembawang <sw>
+
+-0.4710751	sembcorp <sw>
+
+-0.154902	semester <sw>
+
+-0.4710751	semesters <sw>
+
+-1.105444	semi <sw>
+
+-0.2023541	semicon <sw>
+
+-0.2612771	semiconductor <sw>
+
+-0.4513533	seminar <sw>
+
+-0.4710751	semipro <sw>
+
+-0.9481964	semis <sw>
+
+-0.154902	send <sw>
+
+-0.197375	senior <sw>
+
+-0.5713912	seniors <sw>
+
+-0.39794	sense <sw>
+
+-0.4710751	sensing <sw>
+
+-0.3091772	sensitive <sw>
+
+-0.4710751	sensitivity <sw>
+
+-0.2752621	sensor <sw>
+
+-0.2752621	sent <sw>
+
+-0.6766936	sentence <sw>
+
+-0.4712238	sentences <sw>
+
+-0.2023541	sentimental <sw>
+
+-0.4710751	sentorini <sw>
+
+-0.1326256	sentosa <sw>
+
+-0.4831259	seoul <sw>
+
+-1.471075	separate <sw>
+
+-0.3721721	september <sw>
+
+-0.9481964	sequel <sw>
+
+-0.2079003	sequence <sw>
+
+-0.3282239	sequencing <sw>
+
+-0.9013242	serangoon <sw>
+
+-0.7464222	sergeant <sw>
+
+-0.09342168	series <sw>
+
+-0.5772364	serious <sw>
+
+-0.6283889	seriously <sw>
+
+-0.49485	serve <sw>
+
+-0.08986452	server <sw>
+
+-0.2596373	service <sw>
+
+-0.2710668	services <sw>
+
+-0.4710751	serving <sw>
+
+-0.3590219	session <sw>
+
+-0.7721051	sessions <sw>
+
+-0.2705407	set <sw>
+
+-0.1249387	setting <sw>
+
+-0.1760913	settle <sw>
+
+-0.7721051	setup <sw>
+
+-0.7182751	seven <sw>
+
+-0.7721051	sevens <sw>
+
+-0.9013242	seventeen <sw>
+
+-1.156597	seventy <sw>
+
+-0.7721051	sexual <sw>
+
+-0.1842385	sexy <sw>
+
+-0.4710751	shabby <sw>
+
+-0.1701938	shade <sw>
+
+-0.4710751	shaded <sw>
+
+-0.4710751	shading <sw>
+
+-0.4710751	shag <sw>
+
+-0.3721721	shagged <sw>
+
+-0.2793383	shake <sw>
+
+-0.4710751	shaking <sw>
+
+-0.1503233	shampoo <sw>
+
+-0.5183001	shanghai <sw>
+
+-0.1383027	shape <sw>
+
+-0.2552725	share <sw>
+
+-0.7721051	shares <sw>
+
+-0.2793383	sharing <sw>
+
+-0.4710751	shark <sw>
+
+-1.170045	sharon <sw>
+
+-0.9481964	sharp <sw>
+
+-0.2023541	shave <sw>
+
+-0.7721051	shawn <sw>
+
+-0.2023541	shazana <sw>
+
+-1.62711	she <sw>
+
+-2.256405	she's <sw>
+
+-0.7721051	sheena <sw>
+
+-0.05115252	sheep <sw>
+
+-0.2793383	sheet <sw>
+
+-0.06177228	shell <sw>
+
+-0.9481964	shelter <sw>
+
+-0.4710751	shepherd <sw>
+
+-0.2023541	shervyn <sw>
+
+-0.1497623	shift <sw>
+
+-0.7721051	shiny <sw>
+
+-0.3784454	shiok <sw>
+
+-0.2079003	ship <sw>
+
+-0.1330859	shipment <sw>
+
+-0.4710751	shipped <sw>
+
+-0.2612771	shipping <sw>
+
+-0.4710751	shipyard <sw>
+
+-0.4604449	shirt <sw>
+
+-0.3784454	shirts <sw>
+
+-0.6102072	shit <sw>
+
+-0.4710751	shitty <sw>
+
+-0.404195	shock <sw>
+
+-0.5033841	shocking <sw>
+
+-0.5970692	shoe <sw>
+
+-0.2023541	shoelace <sw>
+
+-1.249226	shoes <sw>
+
+-0.7721051	shoo <sw>
+
+-0.5089303	shoot <sw>
+
+-0.3282239	shooting <sw>
+
+-0.450469	shop <sw>
+
+-0.3721721	shopkeeper <sw>
+
+-0.3945864	shopping <sw>
+
+-0.3721721	shops <sw>
+
+-0.08518585	shore <sw>
+
+-2.002554	short <sw>
+
+-0.4710751	shortage <sw>
+
+-0.4710751	shortcut <sw>
+
+-0.6274446	shot <sw>
+
+-0.6794754	shots <sw>
+
+-1.555008	should <sw>
+
+-0.2023541	shoulder <sw>
+
+-0.7721051	shoulders <sw>
+
+-0.9481964	shout <sw>
+
+-0.4089354	show <sw>
+
+-0.7721051	shower <sw>
+
+-0.4710751	showroom <sw>
+
+-0.8773221	shows <sw>
+
+-0.4390391	shrek <sw>
+
+-0.9481964	shrimp <sw>
+
+-1.073135	shutter <sw>
+
+-1.156597	shuttle <sw>
+
+-0.2281858	shy <sw>
+
+-0.4060872	sian <sw>
+
+-0.7721051	sibling <sw>
+
+-0.4604449	siblings <sw>
+
+-0.4419835	sick <sw>
+
+-1.073135	sickness <sw>
+
+-0.4771213	side <sw>
+
+-0.5183001	sides <sw>
+
+-0.7721051	sidetrack <sw>
+
+-0.2023541	siemen <sw>
+
+-0.4710751	siemens <sw>
+
+-1.073135	sight <sw>
+
+-0.4710751	sightedness <sw>
+
+-1.11081	sign <sw>
+
+-0.576292	signal <sw>
+
+-0.4710751	signals <sw>
+
+-0.4710751	significance <sw>
+
+-0.3721721	significant <sw>
+
+-1.077839	sil <sw>
+
+-1.170045	silent <sw>
+
+-0.7721051	silver <sw>
+
+-0.6794754	sim <sw>
+
+-0.7721051	simei <sw>
+
+-0.8773221	similar <sw>
+
+-0.3258536	simple <sw>
+
+-0.4710751	simplest <sw>
+
+-0.1503233	simply <sw>
+
+-0.2023541	simulate <sw>
+
+-0.3628023	simulation <sw>
+
+-0.2752621	simultaneous <sw>
+
+-0.4710751	sinagpore <sw>
+
+-0.5619428	since <sw>
+
+-0.7721051	sincere <sw>
+
+-1.252986	sing <sw>
+
+-0.4130037	singapore <sw>
+
+-0.1890562	singaporean <sw>
+
+-0.3721721	singaporeans <sw>
+
+-0.7523834	singer <sw>
+
+-0.6002942	singers <sw>
+
+-0.6850216	singing <sw>
+
+-0.9483451	single <sw>
+
+-0.6002942	singlet <sw>
+
+-0.1535839	singlish <sw>
+
+-0.4710751	singspiration <sw>
+
+-0.3784454	sink <sw>
+
+-0.7721051	sip <sw>
+
+-0.2281858	sir <sw>
+
+-0.3721721	sis <sw>
+
+-0.5102896	sister <sw>
+
+-1.374165	sisters <sw>
+
+-0.1383027	site <sw>
+
+-0.3784454	sitter <sw>
+
+-1.073135	sitting <sw>
+
+-0.1845244	situation <sw>
+
+-0.4710751	situations <sw>
+
+-0.4358691	six <sw>
+
+-0.9427168	sixteen <sw>
+
+-0.3784454	sixth <sw>
+
+-0.9481964	sixties <sw>
+
+-0.9144896	sixty <sw>
+
+-0.4710751	siz <sw>
+
+-0.4710751	siza <sw>
+
+-0.312311	size <sw>
+
+-0.5033841	skating <sw>
+
+-0.1383027	sketch <sw>
+
+-0.7721051	sketching <sw>
+
+-0.4710751	skies <sw>
+
+-0.6002942	skiing <sw>
+
+-0.09691001	skill <sw>
+
+-0.7721051	skillful <sw>
+
+-0.6102072	skills <sw>
+
+-0.5970692	skin <sw>
+
+-0.4710751	skinfood <sw>
+
+-0.2787536	skip <sw>
+
+-0.7721051	skirt <sw>
+
+-0.4710751	skull <sw>
+
+-1.316173	sky <sw>
+
+-0.4710751	skydive <sw>
+
+-1.073135	skydiving <sw>
+
+-0.4710751	skyway <sw>
+
+-1.073135	slab <sw>
+
+-0.4852684	slabs <sw>
+
+-0.3075609	slack <sw>
+
+-1.170045	slam <sw>
+
+-0.04139268	slang <sw>
+
+-0.6084002	sleep <sw>
+
+-1.772105	sleeping <sw>
+
+-0.5033841	sleepy <sw>
+
+-0.3091772	slide <sw>
+
+-0.4513533	slides <sw>
+
+-1.316173	slightly <sw>
+
+-0.9481964	slim <sw>
+
+-0.7721051	slimming <sw>
+
+-0.5245185	slipper <sw>
+
+-0.4710751	slippery <sw>
+
+-0.2023541	slogan <sw>
+
+-0.2730013	slope <sw>
+
+-0.30103	slot <sw>
+
+-0.6794754	slots <sw>
+
+-0.3784454	slough <sw>
+
+-0.6850216	slow <sw>
+
+-0.4710751	slower <sw>
+
+-0.6292539	slowly <sw>
+
+-0.7721051	slug <sw>
+
+-0.4710751	slump <sw>
+
+-0.8176598	small <sw>
+
+-1.073135	smaller <sw>
+
+-0.4710751	smallville <sw>
+
+-0.6473151	smart <sw>
+
+-0.576292	smell <sw>
+
+-0.9481964	smelly <sw>
+
+-0.8555667	smoke <sw>
+
+-0.9481964	smoker <sw>
+
+-1.170045	smoking <sw>
+
+-1.170045	smooth <sw>
+
+-0.4710751	smudged <sw>
+
+-0.4710751	snake <sw>
+
+-1.170045	snap <sw>
+
+-0.4710751	sng <sw>
+
+-0.4710751	sniff <sw>
+
+-0.7721051	snooker <sw>
+
+-0.4710751	snoopy <sw>
+
+-0.4710751	snooze <sw>
+
+-0.9481964	snorkel <sw>
+
+-0.7721051	snorkelling <sw>
+
+-0.7523834	snow <sw>
+
+-0.7721051	snowing <sw>
+
+-0.2752621	snowy <sw>
+
+-0.4371792	so <sw>
+
+-0.5033841	soap <sw>
+
+-0.4357286	soccer <sw>
+
+-0.7132105	social <sw>
+
+-0.08518585	socialize <sw>
+
+-0.4710751	societies <sw>
+
+-0.1583625	society <sw>
+
+-0.3784454	socio <sw>
+
+-0.4710751	sociolinguistics <sw>
+
+-0.2752621	sociology <sw>
+
+-0.4710751	sock <sw>
+
+-0.4710751	socket <sw>
+
+-0.1409535	sofa <sw>
+
+-0.8448537	soft <sw>
+
+-0.9013242	softball <sw>
+
+-0.2164704	software <sw>
+
+-1.170045	soil <sw>
+
+-0.4710751	sokator <sw>
+
+-0.3664885	solar <sw>
+
+-0.08518585	solaris <sw>
+
+-0.7721051	sold <sw>
+
+-0.3721721	soldier <sw>
+
+-0.3784454	soldiers <sw>
+
+-0.2752621	sole <sw>
+
+-1.073135	solid <sw>
+
+-0.7721051	solitary <sw>
+
+-0.4513533	solo <sw>
+
+-0.1962947	solution <sw>
+
+-0.243038	solve <sw>
+
+-1.170045	solved <sw>
+
+-0.4710751	solving <sw>
+
+-1.475803	some <sw>
+
+-0.7145948	somehow <sw>
+
+-0.4710751	somemore <sw>
+
+-1.264267	someone <sw>
+
+-0.8188685	something <sw>
+
+-1.170045	somethings <sw>
+
+-0.7721051	sometime <sw>
+
+-0.5777914	sometimes <sw>
+
+-1.180078	somewhere <sw>
+
+-0.3912066	song <sw>
+
+-0.3290587	songs <sw>
+
+-0.4710751	sonia <sw>
+
+-0.3862158	sony <sw>
+
+-0.8555667	soon <sw>
+
+-0.2023541	sophia <sw>
+
+-0.4710751	soprano <sw>
+
+-0.4065402	sorry <sw>
+
+-0.4710751	soul <sw>
+
+-0.5642715	sound <sw>
+
+-0.2793383	soup <sw>
+
+-0.4710751	soupy <sw>
+
+-0.1627273	source <sw>
+
+-0.4513533	sources <sw>
+
+-1.052998	south <sw>
+
+-0.6794754	southern <sw>
+
+-0.5033841	souvenir <sw>
+
+-0.1597008	spa <sw>
+
+-0.404277	space <sw>
+
+-0.4710751	spaces <sw>
+
+-0.4710751	spacious <sw>
+
+-0.08518585	spaghetti <sw>
+
+-0.7721051	spain <sw>
+
+-0.6794754	spam <sw>
+
+-0.2304489	spanish <sw>
+
+-0.2612771	spare <sw>
+
+-0.4513533	sparkler <sw>
+
+-0.2023541	sparklers <sw>
+
+-1.456254	speak <sw>
+
+-0.3250958	speaker <sw>
+
+-0.5026754	speaking <sw>
+
+-0.1760913	spec <sw>
+
+-0.4423591	special <sw>
+
+-0.6675185	specialisation <sw>
+
+-0.6732021	specialise <sw>
+
+-0.6002942	specialised <sw>
+
+-0.30103	specialist <sw>
+
+-0.1249387	specialize <sw>
+
+-0.06177228	specialty <sw>
+
+-0.9481964	species <sw>
+
+-0.2632414	specific <sw>
+
+-0.3721721	specifically <sw>
+
+-0.2023541	specification <sw>
+
+-0.4710751	specify <sw>
+
+-0.2023541	spectacles <sw>
+
+-0.4710751	spectacular <sw>
+
+-0.6002942	spectrum <sw>
+
+-0.4710751	speculations <sw>
+
+-0.7160034	speech <sw>
+
+-0.30103	speed <sw>
+
+-0.576292	spell <sw>
+
+-0.90309	spend <sw>
+
+-0.7871454	spent <sw>
+
+-0.9481964	spice <sw>
+
+-0.3784454	spices <sw>
+
+-0.9481964	spider <sw>
+
+-0.4710751	spiderman <sw>
+
+-0.4710751	spike <sw>
+
+-0.7721051	spin <sw>
+
+-0.4852684	spine <sw>
+
+-0.4419835	spirit <sw>
+
+-0.9481964	split <sw>
+
+-0.3784454	spoil <sw>
+
+-0.5033841	sponge <sw>
+
+-0.1346986	sponsor <sw>
+
+-0.3784454	sponsors <sw>
+
+-0.6794754	sponsorship <sw>
+
+-0.2023541	spontaneous <sw>
+
+-0.3258536	sport <sw>
+
+-0.4567827	sports <sw>
+
+-0.3784454	sportsman <sw>
+
+-0.4710751	sportsmen <sw>
+
+-0.8044142	sporty <sw>
+
+-0.2138798	spot <sw>
+
+-0.06177228	sprain <sw>
+
+-0.5555447	spread <sw>
+
+-0.4710751	spree <sw>
+
+-1.073135	spring <sw>
+
+-0.5183001	spy <sw>
+
+-1.073135	squad <sw>
+
+-0.4712238	square <sw>
+
+-0.4767456	squash <sw>
+
+-1.073135	squat <sw>
+
+-0.06177228	squatter <sw>
+
+-0.9481964	squeeze <sw>
+
+-0.9481964	stability <sw>
+
+-0.4710751	stabilize <sw>
+
+-0.1760913	stable <sw>
+
+-0.4710751	stablise <sw>
+
+-0.4710751	stacko <sw>
+
+-1.249226	stadium <sw>
+
+-0.2218488	staff <sw>
+
+-0.3440646	stage <sw>
+
+-0.3784454	stagnant <sw>
+
+-0.7721051	stain <sw>
+
+-0.9481964	staircase <sw>
+
+-0.6002942	stairs <sw>
+
+-0.7721051	stake <sw>
+
+-0.3784454	stalk <sw>
+
+-0.576292	stall <sw>
+
+-0.2023541	stallone <sw>
+
+-0.9481964	stalls <sw>
+
+-0.1820959	stamina <sw>
+
+-0.9481964	stamp <sw>
+
+-0.4710751	stanby <sw>
+
+-0.7846821	stand <sw>
+
+-0.2530223	standard <sw>
+
+-0.1503233	standby <sw>
+
+-0.4710751	standout <sw>
+
+-0.9481964	staple <sw>
+
+-0.4573772	star <sw>
+
+-0.08518585	starbucks <sw>
+
+-0.9481964	starcraft <sw>
+
+-0.7721051	stars <sw>
+
+-0.5589751	start <sw>
+
+-1.749829	started <sw>
+
+-0.2379782	starting <sw>
+
+-0.4710751	starvation <sw>
+
+-0.4710751	stat <sw>
+
+-0.2632414	state <sw>
+
+-0.2281858	statement <sw>
+
+-0.1820959	states <sw>
+
+-0.4710751	statham <sw>
+
+-0.4710751	static <sw>
+
+-0.3493347	station <sw>
+
+-0.4710751	stationary <sw>
+
+-0.7721051	stations <sw>
+
+-0.3784454	statistic <sw>
+
+-0.30103	statistics <sw>
+
+-0.7721051	stats <sw>
+
+-0.1409535	status <sw>
+
+-0.4710751	staunch <sw>
+
+-0.7871061	stay <sw>
+
+-0.3721721	steady <sw>
+
+-0.7721051	steal <sw>
+
+-0.4710751	steall <sw>
+
+-0.4710751	stealthy <sw>
+
+-0.1503233	steam <sw>
+
+-0.2852357	steamboat <sw>
+
+-0.4710751	steamy <sw>
+
+-0.4710751	stella <sw>
+
+-0.2817248	step <sw>
+
+-0.2281858	stephanie <sw>
+
+-0.05115252	stepmother <sw>
+
+-0.4513533	steps <sw>
+
+-0.4710751	stereotyping <sw>
+
+-0.4710751	steroid <sw>
+
+-0.4710751	steven <sw>
+
+-0.4710751	stew <sw>
+
+-0.9481964	stewardess <sw>
+
+-0.7464222	stick <sw>
+
+-0.4710751	stil <sw>
+
+-1.278754	still <sw>
+
+-0.4710751	stilts <sw>
+
+-0.3784454	sting <sw>
+
+-0.4313638	stock <sw>
+
+-0.7721051	stocks <sw>
+
+-0.5033841	stomach <sw>
+
+-0.4373684	stone <sw>
+
+-0.7721051	stones <sw>
+
+-0.2333867	stop <sw>
+
+-0.2752621	storage <sw>
+
+-0.4604449	store <sw>
+
+-0.4831259	storey <sw>
+
+-0.4710751	storeys <sw>
+
+-0.9013242	stories <sw>
+
+-0.2023541	storm <sw>
+
+-0.4710751	storming <sw>
+
+-0.3657553	story <sw>
+
+-0.7721051	storybook <sw>
+
+-0.09691001	storyline <sw>
+
+-0.4710751	stove <sw>
+
+-1.675195	straight <sw>
+
+-0.4710751	straightforward <sw>
+
+-0.7721051	strain <sw>
+
+-0.7721051	strait <sw>
+
+-1.170045	strange <sw>
+
+-0.2752621	strangers <sw>
+
+-0.2023541	strap <sw>
+
+-0.4710751	strategic <sw>
+
+-0.2662679	strategy <sw>
+
+-0.9481964	straw <sw>
+
+-0.2793383	strawberry <sw>
+
+-0.4710751	streaks <sw>
+
+-0.20412	stream <sw>
+
+-0.2752621	streaming <sw>
+
+-0.4710751	streamix <sw>
+
+-0.06177228	streamyx <sw>
+
+-1.105444	street <sw>
+
+-0.5033841	streets <sw>
+
+-0.5245185	strength <sw>
+
+-0.4710751	strenous <sw>
+
+-0.201202	stress <sw>
+
+-0.6002942	stressed <sw>
+
+-0.4831259	stressful <sw>
+
+-0.6794754	stretch <sw>
+
+-0.2023541	stretching <sw>
+
+-0.1760913	strict <sw>
+
+-0.4710751	strife <sw>
+
+-0.7871454	strike <sw>
+
+-0.4710751	striking <sw>
+
+-0.5033841	string <sw>
+
+-0.4710751	stringent <sw>
+
+-0.3250958	stroke <sw>
+
+-0.2023541	strom <sw>
+
+-0.2653144	strong <sw>
+
+-0.1856366	structure <sw>
+
+-0.7721051	structured <sw>
+
+-0.2752621	structures <sw>
+
+-0.4710751	structuring <sw>
+
+-0.2752621	struggle <sw>
+
+-0.4710751	struggleling <sw>
+
+-1.073135	struggling <sw>
+
+-0.1820959	strum <sw>
+
+-0.4710751	stubborn <sw>
+
+-0.1249387	stuck <sw>
+
+-0.3357921	student <sw>
+
+-0.4259687	students <sw>
+
+-0.2894481	studies <sw>
+
+-0.1019895	studio <sw>
+
+-0.7721051	studious <sw>
+
+-0.4490925	study <sw>
+
+-1.749829	studying <sw>
+
+-0.4998644	stuff <sw>
+
+-0.6002942	stumble <sw>
+
+-0.3091772	stunned <sw>
+
+-0.4710751	stunner <sw>
+
+-0.3721721	stunt <sw>
+
+-0.2612771	stunts <sw>
+
+-0.5542872	stupid <sw>
+
+-0.4710751	stutter <sw>
+
+-0.1648103	style <sw>
+
+-0.7721051	styles <sw>
+
+-0.4710751	stylist <sw>
+
+-0.1503233	su <sw>
+
+-0.08518585	suay <sw>
+
+-0.9242793	sub <sw>
+
+-0.2023541	subcom <sw>
+
+-0.7721051	subcon <sw>
+
+-0.4710751	subconsciously <sw>
+
+-0.4710751	subcontractor <sw>
+
+-0.308454	subject <sw>
+
+-0.04575749	subjective <sw>
+
+-0.6274446	subjects <sw>
+
+-0.3784454	submarine <sw>
+
+-0.4710751	submerge <sw>
+
+-0.08518585	submission <sw>
+
+-0.2775489	submit <sw>
+
+-0.5033841	subscribe <sw>
+
+-0.7721051	subscription <sw>
+
+-0.2023541	subsequently <sw>
+
+-0.2023541	subsidiaries <sw>
+
+-0.2023541	subsidies <sw>
+
+-0.2752621	subsidise <sw>
+
+-0.2023541	subsidize <sw>
+
+-0.9481964	subsidized <sw>
+
+-0.1820959	subsidy <sw>
+
+-0.6002942	substance <sw>
+
+-0.4710751	substantial <sw>
+
+-0.5033841	substitute <sw>
+
+-0.7721051	substituting <sw>
+
+-0.7721051	substrate <sw>
+
+-0.1820959	subtitle <sw>
+
+-0.3784454	subtitles <sw>
+
+-0.5033841	subway <sw>
+
+-0.4710751	succeed <sw>
+
+-0.9481964	success <sw>
+
+-0.9805054	successful <sw>
+
+-0.4710751	successfully <sw>
+
+-1.471075	suck <sw>
+
+-0.5245185	sucks <sw>
+
+-0.3756636	suddenly <sw>
+
+-0.9481964	suddently <sw>
+
+-0.09691001	sue <sw>
+
+-0.5033841	suffer <sw>
+
+-0.9481964	suffered <sw>
+
+-0.1663314	sugar <sw>
+
+-0.1409535	suggest <sw>
+
+-0.3784454	suggested <sw>
+
+-0.2658923	suggestion <sw>
+
+-0.4710751	suggestive <sw>
+
+-0.4710751	sui <sw>
+
+-0.4831259	suicide <sw>
+
+-0.2658923	suit <sw>
+
+-0.7145948	suitable <sw>
+
+-0.4710751	suite <sw>
+
+-1.073135	suki <sw>
+
+-0.4710751	sultan <sw>
+
+-0.2658923	sum <sw>
+
+-0.4710751	summarization <sw>
+
+-0.2793383	summary <sw>
+
+-0.8099603	summer <sw>
+
+-0.7721051	sums <sw>
+
+-0.5803683	sun <sw>
+
+-0.3784454	sunburn <sw>
+
+-0.3651475	sunday <sw>
+
+-0.9481964	sunlight <sw>
+
+-0.7721051	sunrise <sw>
+
+-0.7721051	sunshine <sw>
+
+-0.9783083	super <sw>
+
+-0.4710751	superficial <sw>
+
+-0.7721051	superior <sw>
+
+-0.2023541	superman <sw>
+
+-0.1842385	supermarket <sw>
+
+-0.1409535	superstar <sw>
+
+-0.1820959	supertanker <sw>
+
+-0.9481964	supervise <sw>
+
+-0.0854302	supervisor <sw>
+
+-0.449969	supper <sw>
+
+-0.08715018	supplement <sw>
+
+-0.3282239	supplier <sw>
+
+-0.4710751	supplies <sw>
+
+-0.4710751	suppliment <sw>
+
+-0.2793383	supply <sw>
+
+-0.4710751	suppor <sw>
+
+-0.241716	support <sw>
+
+-0.6002942	supporting <sw>
+
+-0.9481964	supportive <sw>
+
+-0.4710751	supposing <sw>
+
+-0.4710751	supposingly <sw>
+
+-0.557033	sure <sw>
+
+-0.7721051	surely <sw>
+
+-0.4710751	suresh <sw>
+
+-1.749829	surf <sw>
+
+-0.7721051	surface <sw>
+
+-0.6274446	surfing <sw>
+
+-0.2023541	surgent <sw>
+
+-0.4513533	surgeon <sw>
+
+-0.7721051	surgeons <sw>
+
+-0.6732021	surgery <sw>
+
+-0.7464222	surgical <sw>
+
+-0.7721051	surplus <sw>
+
+-0.3664885	surprise <sw>
+
+-1.316173	surprised <sw>
+
+-0.2023541	surprising <sw>
+
+-0.4710751	surprisingly <sw>
+
+-0.9481964	surrender <sw>
+
+-0.3282239	surrounding <sw>
+
+-0.2151154	survey <sw>
+
+-0.4710751	surveying <sw>
+
+-0.2752621	surveyor <sw>
+
+-0.404195	survive <sw>
+
+-0.2752621	suse <sw>
+
+-0.07509399	sushi <sw>
+
+-0.1842385	suspect <sw>
+
+-0.4710751	suspends <sw>
+
+-0.1890562	sustain <sw>
+
+-0.3721721	sustainability <sw>
+
+-0.1413292	sustainable <sw>
+
+-0.2023541	susuke <sw>
+
+-0.2023541	swallow <sw>
+
+-0.4710751	swatter <sw>
+
+-0.4710751	sway <sw>
+
+-0.3721721	swear <sw>
+
+-0.7721051	sweat <sw>
+
+-0.4513533	sweden <sw>
+
+-0.4710751	sweeden <sw>
+
+-0.4710751	sweeping <sw>
+
+-0.6473151	sweet <sw>
+
+-0.4710751	sweetly <sw>
+
+-0.3784454	swift <sw>
+
+-0.2612771	swimmer <sw>
+
+-0.6812412	swimming <sw>
+
+-0.7721051	swing <sw>
+
+-0.5488145	switch <sw>
+
+-0.7721051	switched <sw>
+
+-0.7145948	switching <sw>
+
+-0.3282239	switzerland <sw>
+
+-0.2752621	sword <sw>
+
+-0.5183001	sydney <sw>
+
+-0.04139268	syllable <sw>
+
+-0.7721051	syllables <sw>
+
+-0.1497623	syllabus <sw>
+
+-1.073135	symbian <sw>
+
+-0.4710751	symmetrical <sw>
+
+-0.9481964	sympathize <sw>
+
+-0.2752621	symposium <sw>
+
+-0.2023541	symptom <sw>
+
+-0.4710751	syndrome <sw>
+
+-0.4710751	synopsis <sw>
+
+-0.5033841	synthase <sw>
+
+-0.7721051	synthesize <sw>
+
+-0.1820959	synthetic <sw>
+
+-0.2508124	system <sw>
+
+-0.06177228	systematic <sw>
+
+-0.4710751	systems <sw>
+
+-0.7721051	systofics <sw>
+
+-0.4771213	t <sw>
+
+-0.7253752	t. <sw>
+
+-0.7721051	ta <sw>
+
+-1.073135	tab <sw>
+
+-0.3309932	table <sw>
+
+-0.2752621	tablet <sw>
+
+-0.1597008	tackle <sw>
+
+-0.4710751	tackled <sw>
+
+-0.2023541	tactic <sw>
+
+-0.1503233	tactics <sw>
+
+-0.5183001	tag <sw>
+
+-0.2023541	tail <sw>
+
+-1.170045	taipei <sw>
+
+-0.8210605	taiwan <sw>
+
+-0.6149699	take <sw>
+
+-0.8448537	taking <sw>
+
+-0.4710751	tale <sw>
+
+-0.3664885	talent <sw>
+
+-0.6002942	talented <sw>
+
+-0.2023541	tales <sw>
+
+-0.4710751	taleted <sw>
+
+-0.9363309	talk <sw>
+
+-0.7721051	talkative <sw>
+
+-1.095196	talking <sw>
+
+-0.4710751	tamil <sw>
+
+-0.4710751	tamiya <sw>
+
+-0.5292158	tampines <sw>
+
+-0.2713886	tan <sw>
+
+-0.7721051	tang <sw>
+
+-0.2218488	tank <sw>
+
+-0.2023541	tanker <sw>
+
+-0.4710751	tao <sw>
+
+-0.3784454	tap <sw>
+
+-0.7721051	tape <sw>
+
+-0.139662	target <sw>
+
+-0.08432089	task <sw>
+
+-0.4710751	tasking <sw>
+
+-0.5623071	taste <sw>
+
+-0.4710751	tattoos <sw>
+
+-0.3309932	tax <sw>
+
+-0.9481964	taxes <sw>
+
+-0.3282239	taxi <sw>
+
+-0.9481964	taxing <sw>
+
+-0.404277	tea <sw>
+
+-1.104566	teach <sw>
+
+-0.5488145	teacher <sw>
+
+-0.4771213	teaching <sw>
+
+-0.2148439	team <sw>
+
+-0.9481964	teams <sw>
+
+-0.7721051	teamwork <sw>
+
+-0.7145948	tear <sw>
+
+-0.3869446	tech <sw>
+
+-0.4710751	techinical <sw>
+
+-0.3458423	technical <sw>
+
+-0.7721051	technically <sw>
+
+-0.4710751	technician <sw>
+
+-0.06214791	technique <sw>
+
+-0.1794449	technology <sw>
+
+-0.3721721	tedious <sw>
+
+-0.4710751	tee <sw>
+
+-0.2023541	teenagers <sw>
+
+-0.9481964	teh <sw>
+
+-0.2752621	telco <sw>
+
+-0.2079003	telecom <sw>
+
+-0.2023541	telecommunication <sw>
+
+-0.3784454	telemarketing <sw>
+
+-0.4710751	telephony <sw>
+
+-0.3784454	television <sw>
+
+-1.587016	tell <sw>
+
+-1.316173	telling <sw>
+
+-1.131773	temasek <sw>
+
+-1.249226	temp <sw>
+
+-0.4710751	temper <sw>
+
+-0.3628023	temperature <sw>
+
+-0.30103	temple <sw>
+
+-0.4710751	tempo <sw>
+
+-0.5245185	temporary <sw>
+
+-0.4513533	tempted <sw>
+
+-1.09108	ten <sw>
+
+-0.2023541	tendency <sw>
+
+-0.2023541	tender <sw>
+
+-1.073135	teng <sw>
+
+-0.4771213	tennis <sw>
+
+-0.4710751	tenor <sw>
+
+-0.3721721	tense <sw>
+
+-0.3721721	tension <sw>
+
+-0.7721051	tent <sw>
+
+-0.4710751	tentang <sw>
+
+-0.5033841	teochew <sw>
+
+-0.7721051	tequila <sw>
+
+-0.4710751	tera <sw>
+
+-0.3679768	term <sw>
+
+-0.5118834	terms <sw>
+
+-0.229996	terrace <sw>
+
+-0.5033841	terrain <sw>
+
+-0.9481964	terrible <sw>
+
+-0.1503233	terrorist <sw>
+
+-0.04139268	tesco <sw>
+
+-0.2245131	test <sw>
+
+-0.4710751	tester <sw>
+
+-0.5581545	testing <sw>
+
+-0.3784454	tests <sw>
+
+-0.2596373	text <sw>
+
+-0.1512677	textbook <sw>
+
+-0.9481964	texture <sw>
+
+-1.647166	thai <sw>
+
+-0.2536053	thailand <sw>
+
+-0.7175665	than <sw>
+
+-0.5635409	that <sw>
+
+-1.854012	that's <sw>
+
+-1.332489	the <sw>
+
+-1.249226	theatre <sw>
+
+-1.908731	their <sw>
+
+-0.7569619	them <sw>
+
+-0.6307052	theme <sw>
+
+-0.7721051	themself <sw>
+
+-0.6274446	themselves <sw>
+
+-0.2411806	then <sw>
+
+-0.3784454	theoretical <sw>
+
+-0.3784454	theoretically <sw>
+
+-0.9481964	theories <sw>
+
+-0.2762064	theory <sw>
+
+-0.3282239	therapist <sw>
+
+-0.2023541	therapists <sw>
+
+-0.2023541	therapy <sw>
+
+-0.9000062	there <sw>
+
+-1.702586	there's <sw>
+
+-1.073135	therefore <sw>
+
+-0.7721051	thermometer <sw>
+
+-1.446914	these <sw>
+
+-0.1413292	thesis <sw>
+
+-1.613225	they <sw>
+
+-1.962437	they're <sw>
+
+-0.7721051	thick <sw>
+
+-0.2023541	thief <sw>
+
+-1.249226	thin <sw>
+
+-0.7851902	thing <sw>
+
+-0.7871061	things <sw>
+
+-0.4018019	think <sw>
+
+-0.8044142	thinker <sw>
+
+-0.69897	thinking <sw>
+
+-1.425318	thinks <sw>
+
+-1.413565	third <sw>
+
+-0.1648103	thirteen <sw>
+
+-0.9661418	thirty <sw>
+
+-1.401544	this <sw>
+
+-0.9864272	those <sw>
+
+-0.3180633	though <sw>
+
+-0.5578563	thought <sw>
+
+-0.9138138	thousand <sw>
+
+-0.3784454	thrash <sw>
+
+-0.7721051	threat <sw>
+
+-0.6906975	three <sw>
+
+-0.4710751	threshold <sw>
+
+-0.4710751	thrill <sw>
+
+-0.7721051	thriller <sw>
+
+-0.3771202	through <sw>
+
+-0.6274446	throughout <sw>
+
+-0.6261258	throw <sw>
+
+-0.4710751	throwing <sw>
+
+-1.249226	thumb <sw>
+
+-0.2787536	thursday <sw>
+
+-0.5033841	tibet <sw>
+
+-0.1760913	tick <sw>
+
+-0.2703612	ticket <sw>
+
+-0.6274446	tickets <sw>
+
+-0.4710751	tide <sw>
+
+-1.249226	tie <sw>
+
+-0.9481964	tier <sw>
+
+-0.4710751	ties <sw>
+
+-0.6850216	tiger <sw>
+
+-0.1503233	tigers <sw>
+
+-0.3282239	tight <sw>
+
+-0.4710751	tile <sw>
+
+-0.9481964	tiles <sw>
+
+-1.073135	timbre <sw>
+
+-0.4110492	time <sw>
+
+-0.4710751	timeflow <sw>
+
+-0.1820959	timeline <sw>
+
+-0.9481964	timer <sw>
+
+-0.5682017	times <sw>
+
+-0.2082759	timetable <sw>
+
+-0.146128	timing <sw>
+
+-0.4710751	timings <sw>
+
+-0.5033841	timothy <sw>
+
+-0.3784454	tin <sw>
+
+-0.4710751	tips <sw>
+
+-0.4710751	tiramisu <sw>
+
+-0.4710751	tire <sw>
+
+-0.5970692	tired <sw>
+
+-0.3628023	tiring <sw>
+
+-1.249226	tissue <sw>
+
+-0.4710751	titan <sw>
+
+-0.1503233	titanic <sw>
+
+-0.4710751	titanium <sw>
+
+-0.2872417	title <sw>
+
+-0.4710751	tix <sw>
+
+-0.9444576	to <sw>
+
+-0.544068	today <sw>
+
+-0.1503233	toenail <sw>
+
+-0.8388491	together <sw>
+
+-0.3484547	toilet <sw>
+
+-0.2023541	token <sw>
+
+-0.3664885	tokyo <sw>
+
+-0.1503233	tol <sw>
+
+-0.4710751	toliet <sw>
+
+-1.073135	toll <sw>
+
+-0.5033841	tomato <sw>
+
+-0.7052249	tomorrow <sw>
+
+-0.20412	tone <sw>
+
+-0.2079003	tongue <sw>
+
+-1.500159	too <sw>
+
+-0.3721721	tool <sw>
+
+-0.1139434	tools <sw>
+
+-0.4710751	tooth <sw>
+
+-0.7596679	top <sw>
+
+-0.2867896	topic <sw>
+
+-0.3721721	topics <sw>
+
+-0.2023541	torches <sw>
+
+-0.4710751	tornado <sw>
+
+-0.1330859	toronto <sw>
+
+-0.2023541	torrent <sw>
+
+-0.7721051	toshiba <sw>
+
+-0.3187588	total <sw>
+
+-0.3756636	totally <sw>
+
+-0.4710751	tottenham <sw>
+
+-0.5835766	touch <sw>
+
+-0.5724186	tough <sw>
+
+-0.4710751	tougher <sw>
+
+-0.4220737	tour <sw>
+
+-0.3170448	tourism <sw>
+
+-0.6675185	tourist <sw>
+
+-0.6794754	tourists <sw>
+
+-0.2023541	touristy <sw>
+
+-0.3784454	tournament <sw>
+
+-0.4710751	tournaments <sw>
+
+-0.4710751	tow <sw>
+
+-1.332688	towards <sw>
+
+-0.08518585	tower <sw>
+
+-0.251056	town <sw>
+
+-0.3784454	toxic <sw>
+
+-1.374165	toy <sw>
+
+-0.3721721	trace <sw>
+
+-0.4121805	track <sw>
+
+-0.3784454	tracking <sw>
+
+-0.7464222	trade <sw>
+
+-0.4710751	trademark <sw>
+
+-1.170045	trading <sw>
+
+-0.4831259	tradition <sw>
+
+-0.3091772	traditional <sw>
+
+-0.4710751	traditionally <sw>
+
+-0.8773221	traffic <sw>
+
+-0.4710751	tragic <sw>
+
+-0.2762064	train <sw>
+
+-0.7721051	trained <sw>
+
+-0.1701938	trainee <sw>
+
+-0.7721051	trainer <sw>
+
+-0.2352127	training <sw>
+
+-0.4513533	tramp <sw>
+
+-0.7721051	trannies <sw>
+
+-0.3721721	trans <sw>
+
+-0.6002942	transaction <sw>
+
+-0.2023541	transactions <sw>
+
+-0.4710751	transcend <sw>
+
+-0.1409535	transcript <sw>
+
+-0.3784454	transcription <sw>
+
+-0.4710751	transex <sw>
+
+-0.4710751	transexual <sw>
+
+-0.1413292	transfer <sw>
+
+-0.4710751	transform <sw>
+
+-0.1760913	transformer <sw>
+
+-0.4710751	transformers <sw>
+
+-0.2023541	transition <sw>
+
+-0.2852357	translate <sw>
+
+-0.2388821	translation <sw>
+
+-0.4373684	translator <sw>
+
+-0.4710751	transmit <sw>
+
+-0.9481964	transparent <sw>
+
+-0.2863067	transport <sw>
+
+-0.4767456	transportation <sw>
+
+-0.4710751	transporter <sw>
+
+-0.4710751	transpose <sw>
+
+-0.3692158	travel <sw>
+
+-0.4710751	traveling <sw>
+
+-0.5087495	travelling <sw>
+
+-0.4710751	travelog <sw>
+
+-1.170045	treasure <sw>
+
+-0.2612771	treasurer <sw>
+
+-0.9805054	treat <sw>
+
+-0.4513533	treatment <sw>
+
+-0.3250958	tree <sw>
+
+-0.4710751	trees <sw>
+
+-0.1409535	trekking <sw>
+
+-0.06366908	trend <sw>
+
+-0.7721051	tri <sw>
+
+-0.1701938	trial <sw>
+
+-0.4710751	triangle <sw>
+
+-0.4710751	tricia <sw>
+
+-0.6002942	trick <sw>
+
+-0.4710751	tricky <sw>
+
+-1.902439	tried <sw>
+
+-0.4710751	trill <sw>
+
+-0.3899711	trip <sw>
+
+-1.976225	triple <sw>
+
+-0.08518585	tripod <sw>
+
+-0.6732021	trips <sw>
+
+-0.2023541	trishaw <sw>
+
+-0.4710751	trobleshoot <sw>
+
+-0.7721051	tromboflebitis <sw>
+
+-1.374165	trouble <sw>
+
+-1.170045	troubleshoot <sw>
+
+-0.7721051	troublesome <sw>
+
+-0.7721051	truck <sw>
+
+-0.69897	true <sw>
+
+-0.7721051	trumpet <sw>
+
+-0.4710751	truncated <sw>
+
+-0.5803683	trust <sw>
+
+-0.9013242	truth <sw>
+
+-0.4710751	truthful <sw>
+
+-0.4893871	try <sw>
+
+-0.2023541	tsk <sw>
+
+-0.1820959	tsunami <sw>
+
+-0.7721051	tuba <sw>
+
+-0.1701938	tube <sw>
+
+-0.7721051	tuck <sw>
+
+-0.6292539	tuesday <sw>
+
+-0.5713912	tuition <sw>
+
+-0.4710751	tulips <sw>
+
+-0.1503233	tumor <sw>
+
+-0.5033841	tune <sw>
+
+-0.2281858	tunnel <sw>
+
+-0.4710751	tunneling <sw>
+
+-0.7721051	tunnelling <sw>
+
+-0.2023541	tupperware <sw>
+
+-0.06177228	turbine <sw>
+
+-0.3784454	turkey <sw>
+
+-0.7178553	turn <sw>
+
+-0.1820959	turnover <sw>
+
+-0.5033841	turns <sw>
+
+-0.4712238	tutor <sw>
+
+-0.552842	tutorial <sw>
+
+-0.3784454	tutorials <sw>
+
+-0.1503233	tutors <sw>
+
+-0.5669222	tv <sw>
+
+-1.252986	twelve <sw>
+
+-2.102721	twenty <sw>
+
+-1.170045	twice <sw>
+
+-1.170045	twins <sw>
+
+-0.6687803	two <sw>
+
+-0.4423591	type <sw>
+
+-0.9481964	types <sw>
+
+-0.2498775	typical <sw>
+
+-0.3784454	typing <sw>
+
+-0.4259687	u <sw>
+
+-0.6953357	u. <sw>
+
+-0.4390391	u.s. <sw>
+
+-0.3784454	ubuntu <sw>
+
+-0.2803454	uh <sw>
+
+-0.2658923	ultimately <sw>
+
+-0.2023541	ulu <sw>
+
+-0.243038	um <sw>
+
+-0.3721721	umm <sw>
+
+-0.5033841	un <sw>
+
+-0.4710751	unattractive <sw>
+
+-0.4710751	uncertain <sw>
+
+-0.2021047	uncle <sw>
+
+-1.073135	uncles <sw>
+
+-0.6794754	uncomfortable <sw>
+
+-0.4464524	under <sw>
+
+-0.08715018	undergrad <sw>
+
+-0.4710751	undergrads <sw>
+
+-0.3862158	undergraduate <sw>
+
+-0.9481964	underground <sw>
+
+-0.7721051	underlying <sw>
+
+-0.4710751	underpaid <sw>
+
+-0.4710751	underpriced <sw>
+
+-0.5378191	understand <sw>
+
+-0.4710751	understandable <sw>
+
+-0.3170448	understanding <sw>
+
+-0.2023541	understood <sw>
+
+-0.9481964	underwater <sw>
+
+-0.7721051	underwear <sw>
+
+-0.4710751	undesirable <sw>
+
+-0.2023541	unfortunate <sw>
+
+-0.7721051	unfortunately <sw>
+
+-0.6274446	unhappy <sw>
+
+-0.7721051	unhygienic <sw>
+
+-0.219557	uni <sw>
+
+-0.2612771	uniform <sw>
+
+-0.501187	union <sw>
+
+-1.316173	unique <sw>
+
+-0.4710751	unis <sw>
+
+-0.1710705	unit <sw>
+
+-0.5183001	united <sw>
+
+-0.1820959	units <sw>
+
+-0.4710751	unity <sw>
+
+-0.404195	universal <sw>
+
+-0.3784454	universe <sw>
+
+-1.170045	universities <sw>
+
+-0.3132645	university <sw>
+
+-0.06694679	unix <sw>
+
+-0.4710751	unjustified <sw>
+
+-0.2023541	unknown <sw>
+
+-0.2676062	unless <sw>
+
+-0.3282239	unlimited <sw>
+
+-0.1820959	unlucky <sw>
+
+-0.7721051	unpredictable <sw>
+
+-0.4710751	unreasonable <sw>
+
+-1.170045	unrestricted <sw>
+
+-0.4710751	unsolve <sw>
+
+-0.4710751	unstable <sw>
+
+-0.5759572	until <sw>
+
+-0.5008681	up <sw>
+
+-0.4710751	upcoming <sw>
+
+-0.1497623	update <sw>
+
+-0.2793383	updates <sw>
+
+-0.2079003	upgrade <sw>
+
+-0.1249387	upload <sw>
+
+-0.8044142	upon <sw>
+
+-0.8492934	upper <sw>
+
+-0.4710751	ups <sw>
+
+-0.3282239	upset <sw>
+
+-0.4710751	uptime <sw>
+
+-0.2752621	urban <sw>
+
+-0.2752621	urgent <sw>
+
+-0.6002942	urh <sw>
+
+-0.7721051	urine <sw>
+
+-0.4710751	urology <sw>
+
+-0.6690068	us <sw>
+
+-0.6002942	usage <sw>
+
+-1.079181	use <sw>
+
+-0.2612771	useful <sw>
+
+-0.1529675	user <sw>
+
+-0.9481964	users <sw>
+
+-0.9481964	usher <sw>
+
+-0.9284746	using <sw>
+
+-0.5033841	usual <sw>
+
+-0.3873898	usually <sw>
+
+-0.1890562	v <sw>
+
+-0.5490696	v. <sw>
+
+-0.4710751	vacancy <sw>
+
+-0.4710751	vacation <sw>
+
+-0.5033841	vaccine <sw>
+
+-0.9481964	vacuum <sw>
+
+-0.4710751	vagrant <sw>
+
+-0.4710751	vague <sw>
+
+-0.4710751	valerie <sw>
+
+-0.3170448	valid <sw>
+
+-0.5033841	validate <sw>
+
+-0.3628023	valley <sw>
+
+-0.9481964	valuable <sw>
+
+-0.2863067	value <sw>
+
+-0.5033841	values <sw>
+
+-0.4710751	vanessa <sw>
+
+-0.1503233	varies <sw>
+
+-0.6038494	variety <sw>
+
+-0.3862158	vegas <sw>
+
+-0.2023541	vege <sw>
+
+-0.2023541	vegetable <sw>
+
+-0.9481964	vegetables <sw>
+
+-0.2793383	vegetarian <sw>
+
+-0.4710751	vegetation <sw>
+
+-0.2023541	vehicle <sw>
+
+-0.4710751	vehicles <sw>
+
+-0.5183001	vein <sw>
+
+-0.4710751	veins <sw>
+
+-0.4710751	vender <sw>
+
+-0.2281858	vendor <sw>
+
+-0.07509399	venice <sw>
+
+-0.4710751	venrain <sw>
+
+-0.2612771	ventilation <sw>
+
+-0.2612771	venture <sw>
+
+-0.7721051	ver <sw>
+
+-0.1409535	verb <sw>
+
+-0.4710751	verification <sw>
+
+-0.4710751	verified <sw>
+
+-0.3721721	verify <sw>
+
+-0.1362197	version <sw>
+
+-0.7721051	versus <sw>
+
+-0.4710751	vertically <sw>
+
+-1.043853	very <sw>
+
+-0.4710751	vessel <sw>
+
+-0.4710751	vest <sw>
+
+-0.4710751	vibrant <sw>
+
+-0.4710751	vibrate <sw>
+
+-0.9481964	vibration <sw>
+
+-0.8492934	vice <sw>
+
+-0.4710751	vicinity <sw>
+
+-0.103247	victim <sw>
+
+-0.4710751	victor <sw>
+
+-0.4513533	victoria <sw>
+
+-0.3195134	video <sw>
+
+-0.6002942	videos <sw>
+
+-0.2609128	vietnam <sw>
+
+-0.5033841	vietnamese <sw>
+
+-0.2155998	view <sw>
+
+-0.2023541	viewer <sw>
+
+-0.2752621	viking <sw>
+
+-0.154902	village <sw>
+
+-0.4710751	villages <sw>
+
+-0.2023541	ville <sw>
+
+-0.4710751	vim <sw>
+
+-0.4710751	vincent <sw>
+
+-1.170045	vinci <sw>
+
+-0.4710751	violence <sw>
+
+-0.3282239	violet <sw>
+
+-1.425318	violin <sw>
+
+-1.471075	virtual <sw>
+
+-0.2023541	virtually <sw>
+
+-0.1326256	virus <sw>
+
+-0.05115252	visa <sw>
+
+-0.4710751	visibility <sw>
+
+-0.04575749	vision <sw>
+
+-0.5932512	visit <sw>
+
+-0.7721051	visitors <sw>
+
+-0.9481964	visits <sw>
+
+-0.4710751	vista <sw>
+
+-0.4710751	visualise <sw>
+
+-0.4710751	visualize <sw>
+
+-0.9481964	visually <sw>
+
+-0.3862158	vitamin <sw>
+
+-0.3784454	vitamins <sw>
+
+-0.576292	viva <sw>
+
+-0.1503233	vmware <sw>
+
+-0.1383027	vocabulary <sw>
+
+-0.4513533	vocal <sw>
+
+-0.4710751	vocation <sw>
+
+-0.4831259	vodka <sw>
+
+-0.4607309	voice <sw>
+
+-0.1503233	volatile <sw>
+
+-0.4710751	volatize <sw>
+
+-0.6002942	voldemort <sw>
+
+-0.5563025	volleyball <sw>
+
+-0.6732021	volume <sw>
+
+-0.4341159	volunteer <sw>
+
+-0.9481964	volunteering <sw>
+
+-0.3784454	vomit <sw>
+
+-0.4710751	voom <sw>
+
+-0.229996	vote <sw>
+
+-0.7721051	votes <sw>
+
+-0.2552725	voucher <sw>
+
+-0.1330859	vulgar <sw>
+
+-1.073135	vulgarities <sw>
+
+-0.3784454	vulgarity <sw>
+
+-0.6002942	w.i.p. <sw>
+
+-0.4710751	wa <sw>
+
+-0.1925381	wah <sw>
+
+-0.2023541	waist <sw>
+
+-0.9161604	wait <sw>
+
+-0.576292	waiter <sw>
+
+-0.7721051	waiters <sw>
+
+-0.7721051	waitress <sw>
+
+-0.9481964	waive <sw>
+
+-1.902439	wake <sw>
+
+-0.1503233	walao <sw>
+
+-0.3784454	walau <sw>
+
+-0.4710751	wales <sw>
+
+-1.061772	walk <sw>
+
+-0.5183001	walking <sw>
+
+-0.4710751	walkway <sw>
+
+-0.4767456	wall <sw>
+
+-1.463757	want <sw>
+
+-1.419838	wanted <sw>
+
+-1.077415	war <sw>
+
+-0.4710751	warcraft <sw>
+
+-0.3250958	ward <sw>
+
+-0.2023541	wardrobe <sw>
+
+-1.073135	warehouse <sw>
+
+-0.4710751	warehousing <sw>
+
+-1.425318	warm <sw>
+
+-0.2023541	warming <sw>
+
+-0.2752621	warning <sw>
+
+-0.05115252	warranty <sw>
+
+-0.3784454	warrior <sw>
+
+-1.170045	wars <sw>
+
+-1.438806	was <sw>
+
+-1.550256	wash <sw>
+
+-0.7871454	washing <sw>
+
+-1.749829	wasn't <sw>
+
+-0.08518585	wastage <sw>
+
+-0.7607423	waste <sw>
+
+-0.8555667	wasted <sw>
+
+-0.6580114	watch <sw>
+
+-1.425318	watching <sw>
+
+-0.4956047	water <sw>
+
+-0.1597008	waterfall <sw>
+
+-0.4710751	watson <sw>
+
+-1.316173	wave <sw>
+
+-0.5220884	way <sw>
+
+-1.742051	we <sw>
+
+-0.576292	weak <sw>
+
+-0.4710751	wealth <sw>
+
+-0.7721051	weapon <sw>
+
+-1.073135	weapons <sw>
+
+-0.7564595	wear <sw>
+
+-0.3784454	weasley <sw>
+
+-0.3273589	weather <sw>
+
+-0.4710751	weathering <sw>
+
+-0.4929155	web <sw>
+
+-0.7721051	webmail <sw>
+
+-0.1730002	website <sw>
+
+-0.7721051	websites <sw>
+
+-0.3174204	wednesday <sw>
+
+-1.249226	wee <sw>
+
+-0.4710751	weed <sw>
+
+-0.4710751	weeds <sw>
+
+-0.4447182	week <sw>
+
+-0.1701938	weekday <sw>
+
+-0.1409535	weekdays <sw>
+
+-0.1299595	weekend <sw>
+
+-0.3091772	weekends <sw>
+
+-0.9481964	weekly <sw>
+
+-0.5740313	weeks <sw>
+
+-0.5669222	weight <sw>
+
+-0.3784454	weightage <sw>
+
+-0.7721051	weights <sw>
+
+-0.6651117	weird <sw>
+
+-0.3282239	welcome <sw>
+
+-0.7523834	welfare <sw>
+
+-0.8002014	well <sw>
+
+-1.376124	went <sw>
+
+-0.9742321	west <sw>
+
+-0.4710751	wester <sw>
+
+-0.6879746	western <sw>
+
+-0.4710751	westernized <sw>
+
+-0.4710751	westling <sw>
+
+-0.4513533	wet <sw>
+
+-0.3721721	wha <sw>
+
+-1.083418	what <sw>
+
+-0.6434527	whatever <sw>
+
+-0.2612771	wheel <sw>
+
+-0.4710751	wheelchair <sw>
+
+-0.8052265	when <sw>
+
+-1.249226	whenever <sw>
+
+-1.214061	where <sw>
+
+-0.2762064	whereas <sw>
+
+-0.376124	whereby <sw>
+
+-0.64836	whether <sw>
+
+-1.165626	which <sw>
+
+-0.8210605	while <sw>
+
+-0.7721051	whisper <sw>
+
+-0.7721051	whisperer <sw>
+
+-1.170045	whistle <sw>
+
+-0.8302458	white <sw>
+
+-0.4710751	whites <sw>
+
+-1.131794	who <sw>
+
+-0.3046341	whoa <sw>
+
+-0.3784454	whoever <sw>
+
+-1.662103	whole <sw>
+
+-0.4750333	why <sw>
+
+-1.316173	wide <sw>
+
+-0.7721051	width <sw>
+
+-0.8193301	wife <sw>
+
+-0.09275405	wii <sw>
+
+-0.2752621	wikipedia <sw>
+
+-0.8555667	wild <sw>
+
+-1.307289	will <sw>
+
+-0.4710751	willingness <sw>
+
+-0.1503233	willis <sw>
+
+-1.015267	win <sw>
+
+-0.7618794	wind <sw>
+
+-1.249226	window <sw>
+
+-0.2808266	windows <sw>
+
+-0.7721051	windsurf <sw>
+
+-1.073135	windy <sw>
+
+-0.2612771	wine <sw>
+
+-0.2752621	wing <sw>
+
+-0.4710751	winnie <sw>
+
+-0.4710751	winning <sw>
+
+-0.4710751	winson <sw>
+
+-0.2340832	winter <sw>
+
+-0.6002942	wire <sw>
+
+-0.4513533	wireless <sw>
+
+-0.4710751	wiring <sw>
+
+-0.146128	wise <sw>
+
+-0.5033841	wish <sw>
+
+-0.4710751	wishes <sw>
+
+-0.7730116	with <sw>
+
+-1.170045	withdraw <sw>
+
+-0.7067953	within <sw>
+
+-1.348482	without <sw>
+
+-0.4710751	wizard <sw>
+
+-0.2023541	wo <sw>
+
+-0.9481964	woburn <sw>
+
+-0.4710751	wolf <sw>
+
+-0.3282239	woman <sw>
+
+-0.7721051	wombat <sw>
+
+-0.8555667	women <sw>
+
+-0.39794	wonder <sw>
+
+-0.4710751	wonderful <sw>
+
+-1.073135	wondering <sw>
+
+-0.1701938	woodlands <sw>
+
+-0.4710751	wool <sw>
+
+-0.4513533	wor <sw>
+
+-0.4648868	word <sw>
+
+-0.4710751	wordcrowd <sw>
+
+-0.4710751	wording <sw>
+
+-0.39794	words <sw>
+
+-0.5336026	work <sw>
+
+-0.1820959	workable <sw>
+
+-0.07918125	worker <sw>
+
+-0.2218488	workers <sw>
+
+-0.7721051	workforce <sw>
+
+-0.7294593	working <sw>
+
+-0.1820959	workload <sw>
+
+-0.4710751	workloads <sw>
+
+-0.4710751	workplace <sw>
+
+-0.2793383	works <sw>
+
+-0.2612771	worksheet <sw>
+
+-0.1760913	workshop <sw>
+
+-0.5211381	world <sw>
+
+-0.2079003	worldwide <sw>
+
+-0.08518585	worm <sw>
+
+-0.4710751	worms <sw>
+
+-1.585018	worry <sw>
+
+-0.5292158	worse <sw>
+
+-0.9519557	worth <sw>
+
+-0.4710751	worthless <sw>
+
+-0.4710751	worthwhile <sw>
+
+-1.602621	would <sw>
+
+-1.471075	wound <sw>
+
+-0.7523834	wow <sw>
+
+-0.6794754	wrap <sw>
+
+-0.4710751	wrist <sw>
+
+-1.3453	write <sw>
+
+-0.2752621	writer <sw>
+
+-0.7721051	writers <sw>
+
+-0.3332147	writing <sw>
+
+-0.6812412	wrong <sw>
+
+-0.3784454	wrongly <sw>
+
+-0.2281858	x <sw>
+
+-1.015267	x. <sw>
+
+-0.4710751	xbox <sw>
+
+-0.3721721	xiong <sw>
+
+-0.4710751	xuan <sw>
+
+-0.4710751	xx <sw>
+
+-0.4710751	xxx <sw>
+
+-0.8555667	y <sw>
+
+-1.378445	y. <sw>
+
+-0.6456264	ya <sw>
+
+-0.6101027	yah <sw>
+
+-0.2612771	yahoo <sw>
+
+-0.9481964	yamaha <sw>
+
+-1.170045	yea <sw>
+
+-1.088175	yeah <sw>
+
+-0.4827011	year <sw>
+
+-0.6151028	years <sw>
+
+-0.7721051	yen <sw>
+
+-0.4710751	yer <sw>
+
+-0.4873404	yes <sw>
+
+-0.501187	yesterday <sw>
+
+-0.6901961	yet <sw>
+
+-0.6180748	yishun <sw>
+
+-0.4513533	yoga <sw>
+
+-0.7721051	yoghurt <sw>
+
+-0.4710751	yogi <sw>
+
+-0.576292	yogurt <sw>
+
+-0.4710751	yohamersburgs <sw>
+
+-0.4710751	yokohama <sw>
+
+-0.4710751	yong <sw>
+
+-1.170045	york <sw>
+
+-1.522396	you <sw>
+
+-0.7052249	young <sw>
+
+-0.9805054	younger <sw>
+
+-0.7464222	youngest <sw>
+
+-0.2023541	youngster <sw>
+
+-1.743314	your <sw>
+
+-0.6794754	yours <sw>
+
+-0.9882758	yourself <sw>
+
+-0.8773221	youth <sw>
+
+-0.09691001	youtube <sw>
+
+-0.08518585	yoyo <sw>
+
+-0.4710751	yummy <sw>
+
+-0.6732021	yup <sw>
+
+-0.3721721	z <sw>
+
+-0.4373684	z. <sw>
+
+-0.4710751	zawawi <sw>
+
+-0.1149545	zealand <sw>
+
+-0.4710751	zedong <sw>
+
+-0.6812412	zero <sw>
+
+-0.9481964	zoe <sw>
+
+-0.3721721	zombie <sw>
+
+-0.6002942	zone <sw>
+
+-0.2304489	zoo <sw>
+
+-0.3784454	zorb <sw>
+
+-0.4710751	zorro <sw>
+
+-0.4710751	zynga <sw>
+
