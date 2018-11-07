@@ -11,11 +11,9 @@ Results:
 
 •	train_plain.txt
 
-2) 
+2) chinese_sw.py
 
-chinese_sw.py
-
-english_sw.py
+   english_sw.py
 
 Function:
 
@@ -41,15 +39,13 @@ Results:
 
 •	switch1_chn (test)
 
-3) generate language models with SRILM
+3)  ngram-count -text english_train.txt -lm eng.lm -kndiscount3 -order 2
 
-ngram-count -text english_train.txt -lm eng.lm -kndiscount3 -order 2
-
-ngram-count -text chinese_train.txt -lm chn.lm -kndiscount3 -order 2
+    ngram-count -text chinese_train.txt -lm chn.lm -kndiscount3 -order 2
 
 Function:
 
-•	generate english or Chinese model
+•	generate english or Chinese model with SRILM
 
 Results:
 
@@ -57,9 +53,7 @@ Results:
 
 •	chn.lm
 
-4) 
-
-clean_lm.py
+4) clean_lm.py
 
 Function:
 
@@ -71,9 +65,7 @@ Results:
 
 •	cleaned_chn.lm
 
-5)
-
-preprocess.ipynb
+5) preprocess.ipynb
 
 Function:
 
@@ -89,11 +81,9 @@ Results:
 
 •	sw_chn.txt
 
-6) 
+6) eng_chn.py
 
-eng_chn.py
-
-chn_eng.py
+   chn_eng.py
 
 Function:
 
@@ -105,10 +95,7 @@ Results：
 
 •	chn_eng.txt
 
-7) 
-
-Compile all the files eng_chn.txt, chn_eng.txt, cleaned_eng.lm and cleaned_chn.lm together to generate the dual language model
-dlm.lm:
+7) Compile all the files eng_chn.txt, chn_eng.txt, cleaned_eng.lm and cleaned_chn.lm together to generate the dual language model dlm.lm:
 
 Middle results:
 
