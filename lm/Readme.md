@@ -1,13 +1,20 @@
 Scripts:
 combine.py
+
 Function:
-•	Compile all train files or test files together
+
+• Compile all train files or test files together
+
 Results:
+
 •	heldout_plain.txt
+
 •	train_plain.txt
 
 chinese_sw.py
+
 English_sw.py
+
 Function:
 •	generate separate English and Chinese document for L1 and L2 according to the paper
 •	generate switch pairs 
